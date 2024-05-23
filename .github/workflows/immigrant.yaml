@@ -21,9 +21,11 @@ jobs:
         with:
             python-version: "3.12"
 
-      - run: pip install xklb geopandas pypdf_table_extraction
+      - run: sudo env DEBIAN_FRONTEND=noninteractive apt-get -qq -y --allow-downgrades -o 'Dpkg::Options::=--force-confold' -o=Dpkg::Use-Pty=0 install python3-pandas
 
-      - run: fetch.sh
+      - run: pip install xklb pypdf_table_extraction
+
+      - run: ./fetch.sh
 
       - name: Commit and push if changed
         run: |
