@@ -1,0 +1,1 @@
+lb markdown-tables https://travel.state.gov/content/dam/visas/Statistics/Immigrant-Statistics/MonthlyIVIssuances/JULY 2022 - IV Issuances by FSC or Place of Birth and Visa Class.pdf --start-row 1 --concat --to-json
