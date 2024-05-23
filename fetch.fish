@@ -4,7 +4,7 @@ for url in (lb links https://travel.state.gov/content/travel/en/legal/visa-law0/
     set date (lb dates "$url")
     set file "data/$date.jsonl"
 
-    if test -e "$file"
+    if not test -e "$file"
         echo "Saving $file"
         lb markdown-tables "$url" --start-row 1 --concat --to-json > "$file"
     end
