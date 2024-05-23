@@ -22,7 +22,7 @@ jobs:
           python-version: "3.12"
           cache: "pip"
 
-      - run: pip install xklb pypdf_table_extraction opencv-python
+      - run: pip install xklb pypdf_table_extraction opencv-python ghostscript
 
       - run: ./fetch.sh
 
