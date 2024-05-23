@@ -28,7 +28,7 @@ jobs:
       - run: |
           for url in (lb links https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immigrant-visa-statistics/monthly-immigrant-visa-issuances.html --text-include 'Issuances by FSC' --path-include .pdf)
               set date (lb dates "$url")
-              set file "data/$date.jsonl"
+              set file "immigrant_data/$date.jsonl"
 
               if not test -e "$file"
                   echo "Saving $file"
