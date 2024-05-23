@@ -36,7 +36,7 @@ jobs:
                   lb markdown-tables "$url" --start-row 1 --concat --to-json > "$file"
               end
           end
-        shell: fish -c {0}
+        shell: fish {0}
 
       - name: Commit and push if changed
         run: |
