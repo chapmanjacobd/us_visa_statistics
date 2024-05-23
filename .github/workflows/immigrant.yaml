@@ -21,19 +21,9 @@ jobs:
         with:
             python-version: "3.12"
 
-      - run: pip install xklb pandas pypdf_table_extraction
+      - run: pip install xklb geopandas pypdf_table_extraction
 
-      - run: |
-          for url in $(lb links https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immigrant-visa-statistics/monthly-immigrant-visa-issuances.html --text-include 'Issuances by FSC' --path-include .pdf);
-          do
-              date=$(lb dates "$url")
-              file="data/${date}.jsonl"
-
-              if [ ! -f "$file" ]; then
-                  echo "Saving $file"
-                  lb markdown-tables "$url" --start-row 1 --concat --to-json > "$file"
-              fi
-          done
+      - run: fetch.sh
 
       - name: Commit and push if changed
         run: |
