@@ -7,6 +7,6 @@ do
 
     if [ ! -f "$file" ]; then
         echo "Saving $file"
-        lb markdown-tables "$url" --start-row 1 --concat --to-json > "$file"
+        echo lb markdown-tables "$url" --start-row 1 --concat --to-json > "$file"
     fi
 done
