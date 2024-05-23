@@ -24,7 +24,9 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - run: ./fetch.sh
+      - run: sudo env DEBIAN_FRONTEND=noninteractive apt-get -qq -y --allow-downgrades -o 'Dpkg::Options::=--force-confold' -o=Dpkg::Use-Pty=0 install fish
+
+      - run: ./fetch.fish
 
       - name: Commit and push if changed
         run: |
