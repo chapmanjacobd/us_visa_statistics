@@ -21,6 +21,8 @@ jobs:
         with:
             python-version: "3.12"
 
+      - run: sudo env DEBIAN_FRONTEND=noninteractive apt-get -qq -y --allow-downgrades -o 'Dpkg::Options::=--force-confold' -o=Dpkg::Use-Pty=0 install python3-opencv
+
       - run: pip install xklb pypdf_table_extraction
 
       - run: ./fetch.sh
