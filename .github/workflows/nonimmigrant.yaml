@@ -1,4 +1,4 @@
-name: Fetch latest immigrant data
+name: Fetch latest non-immigrant data
 
 on:
   workflow_dispatch:
@@ -26,9 +26,9 @@ jobs:
       - run: sudo env DEBIAN_FRONTEND=noninteractive apt-get -qq -y --allow-downgrades -o 'Dpkg::Options::=--force-confold' -o=Dpkg::Use-Pty=0 install fish ghostscript
 
       - run: |
-          for url in (lb links https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immigrant-visa-statistics/monthly-immigrant-visa-issuances.html --text-include 'Issuances by FSC' --path-include .pdf)
+          for url in (lb links https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/nonimmigrant-visa-statistics/monthly-nonimmigrant-visa-issuances.html --text-include 'Issuances by Nationality' --path-include .pdf)
               set date (lb dates "$url")
-              set file "data/$date.jsonl"
+              set file "nonimmigrant_data/$date.jsonl"
 
               if not test -e "$file"
                   echo "Saving $file"
