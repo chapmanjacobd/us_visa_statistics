@@ -21,7 +21,7 @@ jobs:
         with:
             python-version: "3.12"
 
-      - run: pip install xklb
+      - run: pip install xklb pandas pypdf_table_extraction
 
       - run: |
           for url in $(lb links https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immigrant-visa-statistics/monthly-immigrant-visa-issuances.html --text-include 'Issuances by FSC' --path-include .pdf);
