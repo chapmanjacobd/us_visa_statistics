@@ -1,0 +1,46 @@
+name: Fetch latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 20 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+            python-version: "3.12"
+
+      - run: pip install xklb
+
+      - run: |
+          for url in $(lb links https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immigrant-visa-statistics/monthly-immigrant-visa-issuances.html --text-include 'Issuances by FSC' --path-include .pdf);
+          do
+              date=$(lb dates "$url")
+              file="data/${date}.jsonl"
+
+              if [ ! -f "$file" ]; then
+                  echo "Saving $file"
+                  lb markdown-tables "$url" --start-row 1 --concat --to-json > "$file"
+              fi
+          done
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "actions@users.noreply.github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          timestemp=$(date -u)
+          git commit -m "Latest data: ${timestemp}" || exit 0
+          git pull
+          git push
