@@ -24,7 +24,7 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - run: sudo env DEBIAN_FRONTEND=noninteractive apt-get -qq -y --allow-downgrades -o 'Dpkg::Options::=--force-confold' -o=Dpkg::Use-Pty=0 install fish
+      - run: sudo env DEBIAN_FRONTEND=noninteractive apt-get -qq -y --allow-downgrades -o 'Dpkg::Options::=--force-confold' -o=Dpkg::Use-Pty=0 install fish ghostscript
 
       - run: ./fetch.fish
 
