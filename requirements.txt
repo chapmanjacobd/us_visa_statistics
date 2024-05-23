@@ -1,4 +1,4 @@
-xklb~=2.8.38
+xklb~=2.8.39
 pypdf_table_extraction~=0.0.1
 opencv-python~=4.9.0.80
 ghostscript~=0.7
