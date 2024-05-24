@@ -62,18 +62,22 @@ D$visa_type <- factor(D$visa_type, levels = type_factors)
 
 </details>
 
+### Visa Type over Time, showing deprecation of certain visa types(?)
+
 ![Tile chart: Visa Type over Time, showing deprecation of certain visa types](./images/visa_type_tile.avif)
 
-Visa Type over Time, showing deprecation of certain visa types(?). Maybe COVID gave the government the opportunity to consolidate some offerings. I'm not sure.
+Maybe COVID gave the government the opportunity to consolidate some offerings. I'm not sure.
 
 ```R
 ggplot(D) +
   aes(x = date, y = visa_type) + geom_tile()
 ```
 
+### Quantity of visas issued by visa type over time
+
 ![Bar chart: Visa Type over Time, showing COVID-19 Pandemic visa issuance impact](./images/visa_type_bar.avif)
 
-Quantity of visas issued by visa type over time, showing COVID-19 Pandemic visa issuance impact
+I think this shows COVID-19 Pandemic impact on visa issuance pretty well
 
 ```R
 ggplot(D) +
@@ -81,9 +85,9 @@ ggplot(D) +
   scale_fill_manual(values = create_divergent_palette(type_factors, pal="Zissou 1", repeat_n=7))
 ```
 
-![Bar chart for each visa type](./images/visa_types.avif)
+### Facets of visas issued over time by type
 
-Facets showing visas issued over time by type
+![Bar chart for each visa type](./images/visa_types.avif)
 
 ```R
 p = ggplot(D[count > 1]) +
@@ -92,9 +96,11 @@ p = ggplot(D[count > 1]) +
 ggsave(plot=p, filename = "images/visa_types.png", width = 4000, height = 2500, units='px')
 ```
 
+### Facets of visas issued over time by Foreign Service Center (FSC)
+
 ![Bar chart for each country](./images/countries.avif)
 
-Facets showing visas issued over time by Foreign Service Center (FSC)
+I'm just guessing with that acronym--can't find it documented anywhere but Foreign Service Officer (FSO) is a pretty well-known acronym so FSOs must work inside of FSCs or something like that...
 
 ```R
 p = ggplot(D[count > 1]) +
