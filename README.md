@@ -62,17 +62,6 @@ D$visa_type <- factor(D$visa_type, levels = type_factors)
 
 </details>
 
-### Visa Type over Time
-
-![Tile chart: Visa Type over Time, showing deprecation of certain visa types](./images/visa_type_tile.avif)
-
-I think most of these abrupt start and stops are actually due to differences in reporting after 2020. For example: DV1,DV2,DV3 become DV in later PDFs
-
-```R
-ggplot(D) +
-  aes(x = date, y = visa_type) + geom_tile()
-```
-
 ### Quantity of visas issued by visa type over time
 
 ![Bar chart: Visa Type over Time, showing COVID-19 Pandemic visa issuance impact](./images/visa_type_bar.avif)
@@ -83,6 +72,17 @@ I think this shows COVID-19 Pandemic impact on visa issuance pretty well
 ggplot(D) +
   aes(x = date, fill = visa_type, weight = count) + geom_bar() +
   scale_fill_manual(values = create_divergent_palette(type_factors, pal="Zissou 1", repeat_n=7))
+```
+
+### Visa Type over Time
+
+![Tile chart: Visa Type over Time, showing deprecation of certain visa types](./images/visa_type_tile.avif)
+
+I think most of these abrupt start and stops are actually due to differences in reporting after 2020. For example: DV1,DV2,DV3 become DV in later PDFs
+
+```R
+ggplot(D) +
+  aes(x = date, y = visa_type) + geom_tile()
 ```
 
 ### Facets of visas issued over time by type
