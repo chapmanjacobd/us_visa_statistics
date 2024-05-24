@@ -414,79 +414,79 @@ Chile,F22,1,2017-03-01
 Chile,F24,1,2017-03-01
 Chile,IR1,2,2017-03-01
 Chile,IR2,2,2017-03-01
-China-Mainland born,C21,1,2017-03-01
-China-Mainland born,C51,1,2017-03-01
-China-Mainland born,C53,2,2017-03-01
-China-Mainland born,CR1,141,2017-03-01
-China-Mainland born,CR2,23,2017-03-01
-China-Mainland born,E11,27,2017-03-01
-China-Mainland born,E13,1,2017-03-01
-China-Mainland born,E14,24,2017-03-01
-China-Mainland born,E15,18,2017-03-01
-China-Mainland born,E21,5,2017-03-01
-China-Mainland born,E22,6,2017-03-01
-China-Mainland born,E23,6,2017-03-01
-China-Mainland born,E31,15,2017-03-01
-China-Mainland born,E34,15,2017-03-01
-China-Mainland born,E35,19,2017-03-01
-China-Mainland born,EW3,3,2017-03-01
-China-Mainland born,EW4,4,2017-03-01
-China-Mainland born,EW5,2,2017-03-01
-China-Mainland born,F11,36,2017-03-01
-China-Mainland born,F12,20,2017-03-01
-China-Mainland born,F21,110,2017-03-01
-China-Mainland born,F22,44,2017-03-01
-China-Mainland born,F23,7,2017-03-01
-China-Mainland born,F24,62,2017-03-01
-China-Mainland born,F25,11,2017-03-01
-China-Mainland born,F31,44,2017-03-01
-China-Mainland born,F32,45,2017-03-01
-China-Mainland born,F33,52,2017-03-01
-China-Mainland born,F41,294,2017-03-01
-China-Mainland born,F42,254,2017-03-01
-China-Mainland born,F43,232,2017-03-01
-China-Mainland born,FX1,95,2017-03-01
-China-Mainland born,FX2,52,2017-03-01
-China-Mainland born,FX3,5,2017-03-01
-China-Mainland born,I51,288,2017-03-01
-China-Mainland born,I52,197,2017-03-01
-China-Mainland born,I53,333,2017-03-01
-China-Mainland born,IH3,219,2017-03-01
-China-Mainland born,IR1,139,2017-03-01
-China-Mainland born,IR2,45,2017-03-01
-China-Mainland born,IR5,595,2017-03-01
-China-Mainland born,IW1,1,2017-03-01
-China-Mainland born,SB1,3,2017-03-01
-China-Mainland born,T51,5,2017-03-01
-China-Mainland born,T52,2,2017-03-01
-China-Mainland born,T53,6,2017-03-01
-China-Taiwan born,CR1,4,2017-03-01
-China-Taiwan born,DV1,9,2017-03-01
-China-Taiwan born,DV2,4,2017-03-01
-China-Taiwan born,DV3,2,2017-03-01
-China-Taiwan born,E13,1,2017-03-01
-China-Taiwan born,E21,3,2017-03-01
-China-Taiwan born,E22,3,2017-03-01
-China-Taiwan born,E23,2,2017-03-01
-China-Taiwan born,F11,1,2017-03-01
-China-Taiwan born,F24,2,2017-03-01
-China-Taiwan born,F31,5,2017-03-01
-China-Taiwan born,F32,6,2017-03-01
-China-Taiwan born,F33,6,2017-03-01
-China-Taiwan born,F41,8,2017-03-01
-China-Taiwan born,F42,5,2017-03-01
-China-Taiwan born,F43,10,2017-03-01
-China-Taiwan born,FX1,2,2017-03-01
-China-Taiwan born,FX2,1,2017-03-01
-China-Taiwan born,FX3,1,2017-03-01
-China-Taiwan born,I51,6,2017-03-01
-China-Taiwan born,I52,1,2017-03-01
-China-Taiwan born,I53,9,2017-03-01
-China-Taiwan born,IR1,5,2017-03-01
-China-Taiwan born,IR2,3,2017-03-01
-China-Taiwan born,IR3,3,2017-03-01
-China-Taiwan born,IR5,11,2017-03-01
-China-Taiwan born,SB1,1,2017-03-01
+China - mainland born,C21,1,2017-03-01
+China - mainland born,C51,1,2017-03-01
+China - mainland born,C53,2,2017-03-01
+China - mainland born,CR1,141,2017-03-01
+China - mainland born,CR2,23,2017-03-01
+China - mainland born,E11,27,2017-03-01
+China - mainland born,E13,1,2017-03-01
+China - mainland born,E14,24,2017-03-01
+China - mainland born,E15,18,2017-03-01
+China - mainland born,E21,5,2017-03-01
+China - mainland born,E22,6,2017-03-01
+China - mainland born,E23,6,2017-03-01
+China - mainland born,E31,15,2017-03-01
+China - mainland born,E34,15,2017-03-01
+China - mainland born,E35,19,2017-03-01
+China - mainland born,EW3,3,2017-03-01
+China - mainland born,EW4,4,2017-03-01
+China - mainland born,EW5,2,2017-03-01
+China - mainland born,F11,36,2017-03-01
+China - mainland born,F12,20,2017-03-01
+China - mainland born,F21,110,2017-03-01
+China - mainland born,F22,44,2017-03-01
+China - mainland born,F23,7,2017-03-01
+China - mainland born,F24,62,2017-03-01
+China - mainland born,F25,11,2017-03-01
+China - mainland born,F31,44,2017-03-01
+China - mainland born,F32,45,2017-03-01
+China - mainland born,F33,52,2017-03-01
+China - mainland born,F41,294,2017-03-01
+China - mainland born,F42,254,2017-03-01
+China - mainland born,F43,232,2017-03-01
+China - mainland born,FX1,95,2017-03-01
+China - mainland born,FX2,52,2017-03-01
+China - mainland born,FX3,5,2017-03-01
+China - mainland born,I51,288,2017-03-01
+China - mainland born,I52,197,2017-03-01
+China - mainland born,I53,333,2017-03-01
+China - mainland born,IH3,219,2017-03-01
+China - mainland born,IR1,139,2017-03-01
+China - mainland born,IR2,45,2017-03-01
+China - mainland born,IR5,595,2017-03-01
+China - mainland born,IW1,1,2017-03-01
+China - mainland born,SB1,3,2017-03-01
+China - mainland born,T51,5,2017-03-01
+China - mainland born,T52,2,2017-03-01
+China - mainland born,T53,6,2017-03-01
+China - Taiwan born,CR1,4,2017-03-01
+China - Taiwan born,DV1,9,2017-03-01
+China - Taiwan born,DV2,4,2017-03-01
+China - Taiwan born,DV3,2,2017-03-01
+China - Taiwan born,E13,1,2017-03-01
+China - Taiwan born,E21,3,2017-03-01
+China - Taiwan born,E22,3,2017-03-01
+China - Taiwan born,E23,2,2017-03-01
+China - Taiwan born,F11,1,2017-03-01
+China - Taiwan born,F24,2,2017-03-01
+China - Taiwan born,F31,5,2017-03-01
+China - Taiwan born,F32,6,2017-03-01
+China - Taiwan born,F33,6,2017-03-01
+China - Taiwan born,F41,8,2017-03-01
+China - Taiwan born,F42,5,2017-03-01
+China - Taiwan born,F43,10,2017-03-01
+China - Taiwan born,FX1,2,2017-03-01
+China - Taiwan born,FX2,1,2017-03-01
+China - Taiwan born,FX3,1,2017-03-01
+China - Taiwan born,I51,6,2017-03-01
+China - Taiwan born,I52,1,2017-03-01
+China - Taiwan born,I53,9,2017-03-01
+China - Taiwan born,IR1,5,2017-03-01
+China - Taiwan born,IR2,3,2017-03-01
+China - Taiwan born,IR3,3,2017-03-01
+China - Taiwan born,IR5,11,2017-03-01
+China - Taiwan born,SB1,1,2017-03-01
 Colombia,CR1,83,2017-03-01
 Colombia,CR2,34,2017-03-01
 Colombia,E35,1,2017-03-01
@@ -9566,8 +9566,8 @@ Suriname,F24,1,2017-06-01
 Suriname,FX1,1,2017-06-01
 Suriname,FX2,1,2017-06-01
 Suriname,IR2,1,2017-06-01
-Swaziland,E35,1,2017-06-01
-Swaziland,FX1,1,2017-06-01
+eSwatini,E35,1,2017-06-01
+eSwatini,FX1,1,2017-06-01
 Sweden,CR1,3,2017-06-01
 Sweden,DV1,5,2017-06-01
 Sweden,DV2,2,2017-06-01
@@ -11564,8 +11564,8 @@ Nigeria,SB1,1,2017-07-01
 Nigeria,SE1,1,2017-07-01
 Nigeria,SE2,1,2017-07-01
 Nigeria,SE3,4,2017-07-01
-Northern Ireland (DV only),DV1,1,2017-07-01
-Northern Ireland (DV only),DV2,1,2017-07-01
+Great Britain and Northern Ireland,DV1,1,2017-07-01
+Great Britain and Northern Ireland,DV2,1,2017-07-01
 Norway,CR1,3,2017-07-01
 Norway,DV1,1,2017-07-01
 Norway,FX1,1,2017-07-01
@@ -11932,8 +11932,8 @@ Suriname,F12,1,2017-07-01
 Suriname,F22,1,2017-07-01
 Suriname,IR1,1,2017-07-01
 Suriname,IR5,1,2017-07-01
-Swaziland,IR1,1,2017-07-01
-Swaziland,IR5,1,2017-07-01
+eSwatini,IR1,1,2017-07-01
+eSwatini,IR5,1,2017-07-01
 Sweden,CR1,3,2017-07-01
 Sweden,DV1,1,2017-07-01
 Sweden,DV2,1,2017-07-01
@@ -12795,18 +12795,18 @@ Costa Rica,FX1,2,2017-08-01
 Costa Rica,IR1,20,2017-08-01
 Costa Rica,IR2,14,2017-08-01
 Costa Rica,IR5,6,2017-08-01
-Cote d'Ivoire ,CR1,4,2017-08-01
-Cote d'Ivoire ,DV1,23,2017-08-01
-Cote d'Ivoire ,DV2,11,2017-08-01
-Cote d'Ivoire ,DV3,3,2017-08-01
-Cote d'Ivoire ,F41,1,2017-08-01
-Cote d'Ivoire ,FX2,1,2017-08-01
-Cote d'Ivoire ,IB1,1,2017-08-01
-Cote d'Ivoire ,IB3,2,2017-08-01
-Cote d'Ivoire ,IR1,1,2017-08-01
-Cote d'Ivoire ,IR2,6,2017-08-01
-Cote d'Ivoire ,IR3,2,2017-08-01
-Cote d'Ivoire ,IR5,5,2017-08-01
+Cote d'Ivoire,CR1,4,2017-08-01
+Cote d'Ivoire,DV1,23,2017-08-01
+Cote d'Ivoire,DV2,11,2017-08-01
+Cote d'Ivoire,DV3,3,2017-08-01
+Cote d'Ivoire,F41,1,2017-08-01
+Cote d'Ivoire,FX2,1,2017-08-01
+Cote d'Ivoire,IB1,1,2017-08-01
+Cote d'Ivoire,IB3,2,2017-08-01
+Cote d'Ivoire,IR1,1,2017-08-01
+Cote d'Ivoire,IR2,6,2017-08-01
+Cote d'Ivoire,IR3,2,2017-08-01
+Cote d'Ivoire,IR5,5,2017-08-01
 Croatia,CR1,1,2017-08-01
 Croatia,E11,2,2017-08-01
 Croatia,E15,1,2017-08-01
@@ -18389,7 +18389,7 @@ Nigeria,SD3,5,2017-10-01
 Nigeria,SE1,1,2017-10-01
 Nigeria,SE2,1,2017-10-01
 Nigeria,SE3,3,2017-10-01
-Northern Ireland (DV only),DV1,1,2017-10-01
+Great Britain and Northern Ireland,DV1,1,2017-10-01
 Norway,DV1,1,2017-10-01
 Norway,DV2,1,2017-10-01
 Norway,IR1,3,2017-10-01
@@ -28976,8 +28976,8 @@ Suriname,FX2,1,2018-02-01
 Suriname,IR1,2,2018-02-01
 Suriname,IR2,2,2018-02-01
 Suriname,IR5,1,2018-02-01
-Swaziland,CR1,1,2018-02-01
-Swaziland,CR2,1,2018-02-01
+eSwatini,CR1,1,2018-02-01
+eSwatini,CR2,1,2018-02-01
 Sweden,CR1,6,2018-02-01
 Sweden,CR2,1,2018-02-01
 Sweden,DV1,1,2018-02-01
@@ -31501,7 +31501,7 @@ Suriname,F11,2,2018-03-01
 Suriname,F32,1,2018-03-01
 Suriname,F33,2,2018-03-01
 Suriname,IR5,3,2018-03-01
-Swaziland,IR2,1,2018-03-01
+eSwatini,IR2,1,2018-03-01
 Sweden,CR1,2,2018-03-01
 Sweden,E12,1,2018-03-01
 Sweden,E34,1,2018-03-01
@@ -34105,7 +34105,7 @@ Suriname,F32,1,2018-04-01
 Suriname,F33,1,2018-04-01
 Suriname,IR1,1,2018-04-01
 Suriname,IR5,1,2018-04-01
-Swaziland,IR1,1,2018-04-01
+eSwatini,IR1,1,2018-04-01
 Sweden,CR1,4,2018-04-01
 Sweden,DV1,2,2018-04-01
 Sweden,DV2,1,2018-04-01
@@ -39423,7 +39423,7 @@ Suriname,F42,1,2018-06-01
 Suriname,FX1,1,2018-06-01
 Suriname,IR2,1,2018-06-01
 Suriname,IR5,1,2018-06-01
-Swaziland,F11,1,2018-06-01
+eSwatini,F11,1,2018-06-01
 Sweden,CR1,4,2018-06-01
 Sweden,DV1,2,2018-06-01
 Sweden,FX1,1,2018-06-01
@@ -42940,17 +42940,17 @@ Costa Rica,IH3,2,2018-08-01
 Costa Rica,IR1,17,2018-08-01
 Costa Rica,IR2,10,2018-08-01
 Costa Rica,IR5,6,2018-08-01
-Cote d'Ivoire ,CR1,5,2018-08-01
-Cote d'Ivoire ,DV1,33,2018-08-01
-Cote d'Ivoire ,DV2,7,2018-08-01
-Cote d'Ivoire ,DV3,2,2018-08-01
-Cote d'Ivoire ,F11,1,2018-08-01
-Cote d'Ivoire ,F12,2,2018-08-01
-Cote d'Ivoire ,FX1,1,2018-08-01
-Cote d'Ivoire ,FX2,6,2018-08-01
-Cote d'Ivoire ,IR1,6,2018-08-01
-Cote d'Ivoire ,IR2,6,2018-08-01
-Cote d'Ivoire ,IR5,11,2018-08-01
+Cote d'Ivoire,CR1,5,2018-08-01
+Cote d'Ivoire,DV1,33,2018-08-01
+Cote d'Ivoire,DV2,7,2018-08-01
+Cote d'Ivoire,DV3,2,2018-08-01
+Cote d'Ivoire,F11,1,2018-08-01
+Cote d'Ivoire,F12,2,2018-08-01
+Cote d'Ivoire,FX1,1,2018-08-01
+Cote d'Ivoire,FX2,6,2018-08-01
+Cote d'Ivoire,IR1,6,2018-08-01
+Cote d'Ivoire,IR2,6,2018-08-01
+Cote d'Ivoire,IR5,11,2018-08-01
 Croatia,CR1,1,2018-08-01
 Croatia,DV1,2,2018-08-01
 Croatia,DV2,1,2018-08-01
@@ -43138,8 +43138,8 @@ Eritrea,IR5,10,2018-08-01
 Eritrea,IW1,1,2018-08-01
 Eritrea,SE3,1,2018-08-01
 Estonia,IR5,1,2018-08-01
-Eswatini*,DV1,1,2018-08-01
-Eswatini*,IR1,1,2018-08-01
+eSwatini,DV1,1,2018-08-01
+eSwatini,IR1,1,2018-08-01
 Ethiopia,CR1,95,2018-08-01
 Ethiopia,CR2,3,2018-08-01
 Ethiopia,DV1,7,2018-08-01
@@ -45546,9 +45546,9 @@ Estonia,DV2,2,2018-09-01
 Estonia,DV3,8,2018-09-01
 Estonia,F11,1,2018-09-01
 Estonia,IR5,2,2018-09-01
-Eswatini,F41,1,2018-09-01
-Eswatini,F42,1,2018-09-01
-Eswatini,F43,2,2018-09-01
+eSwatini,F41,1,2018-09-01
+eSwatini,F42,1,2018-09-01
+eSwatini,F43,2,2018-09-01
 Ethiopia,CR1,71,2018-09-01
 Ethiopia,CR2,1,2018-09-01
 Ethiopia,DV1,58,2018-09-01
@@ -46384,7 +46384,7 @@ Nigeria,IR2,73,2018-09-01
 Nigeria,IR3,25,2018-09-01
 Nigeria,IR5,94,2018-09-01
 Nigeria,SB1,6,2018-09-01
-Northern Ireland (DV only),DV1,1,2018-09-01
+Great Britain and Northern Ireland,DV1,1,2018-09-01
 Norway,CR1,2,2018-09-01
 Norway,IR1,2,2018-09-01
 Norway,IR5,1,2018-09-01
@@ -63788,7 +63788,7 @@ North Macedonia,IR5,5,2019-04-01
 North Macedonia,SE1,1,2019-04-01
 North Macedonia,SE2,1,2019-04-01
 North Macedonia,SE3,1,2019-04-01
-Northern Ireland (DV only),DV1,1,2019-04-01
+Great Britain and Northern Ireland,DV1,1,2019-04-01
 Norway,CR1,1,2019-04-01
 Norway,IR1,3,2019-04-01
 Oman,CR1,1,2019-04-01
@@ -65120,21 +65120,21 @@ Costa Rica,FX1,1,2019-05-01
 Costa Rica,IR1,12,2019-05-01
 Costa Rica,IR2,9,2019-05-01
 Costa Rica,IR5,8,2019-05-01
-Cote d'Ivoire ,CR1,3,2019-05-01
-Cote d'Ivoire ,CR2,2,2019-05-01
-Cote d'Ivoire ,DV1,18,2019-05-01
-Cote d'Ivoire ,DV2,5,2019-05-01
-Cote d'Ivoire ,DV3,3,2019-05-01
-Cote d'Ivoire ,F11,2,2019-05-01
-Cote d'Ivoire ,F12,2,2019-05-01
-Cote d'Ivoire ,F41,1,2019-05-01
-Cote d'Ivoire ,F43,1,2019-05-01
-Cote d'Ivoire ,FX1,4,2019-05-01
-Cote d'Ivoire ,FX2,1,2019-05-01
-Cote d'Ivoire ,FX3,2,2019-05-01
-Cote d'Ivoire ,IR1,8,2019-05-01
-Cote d'Ivoire ,IR2,9,2019-05-01
-Cote d'Ivoire ,IR5,15,2019-05-01
+Cote d'Ivoire,CR1,3,2019-05-01
+Cote d'Ivoire,CR2,2,2019-05-01
+Cote d'Ivoire,DV1,18,2019-05-01
+Cote d'Ivoire,DV2,5,2019-05-01
+Cote d'Ivoire,DV3,3,2019-05-01
+Cote d'Ivoire,F11,2,2019-05-01
+Cote d'Ivoire,F12,2,2019-05-01
+Cote d'Ivoire,F41,1,2019-05-01
+Cote d'Ivoire,F43,1,2019-05-01
+Cote d'Ivoire,FX1,4,2019-05-01
+Cote d'Ivoire,FX2,1,2019-05-01
+Cote d'Ivoire,FX3,2,2019-05-01
+Cote d'Ivoire,IR1,8,2019-05-01
+Cote d'Ivoire,IR2,9,2019-05-01
+Cote d'Ivoire,IR5,15,2019-05-01
 Croatia,CR1,3,2019-05-01
 Croatia,DV1,3,2019-05-01
 Croatia,DV2,2,2019-05-01
@@ -65320,7 +65320,7 @@ Eritrea,SE1,2,2019-05-01
 Eritrea,SE2,2,2019-05-01
 Eritrea,SE3,7,2019-05-01
 Estonia,DV1,2,2019-05-01
-Eswatini,FX1,1,2019-05-01
+eSwatini,FX1,1,2019-05-01
 Ethiopia,CR1,36,2019-05-01
 Ethiopia,DV1,63,2019-05-01
 Ethiopia,DV2,13,2019-05-01
@@ -66316,8 +66316,8 @@ North Macedonia,FX1,1,2019-05-01
 North Macedonia,IR1,1,2019-05-01
 North Macedonia,IR2,6,2019-05-01
 North Macedonia,IR5,6,2019-05-01
-Northern Ireland (DV only),DV1,1,2019-05-01
-Northern Ireland (DV only),DV2,1,2019-05-01
+Great Britain and Northern Ireland,DV1,1,2019-05-01
+Great Britain and Northern Ireland,DV2,1,2019-05-01
 Norway,CR1,2,2019-05-01
 Norway,E31,1,2019-05-01
 Norway,F12,1,2019-05-01
@@ -67914,7 +67914,7 @@ Estonia,F32,2,2019-06-01
 Estonia,F33,2,2019-06-01
 Estonia,IR1,2,2019-06-01
 Estonia,IR2,1,2019-06-01
-Eswatini,CR2,1,2019-06-01
+eSwatini,CR2,1,2019-06-01
 Ethiopia,CR1,28,2019-06-01
 Ethiopia,DV1,164,2019-06-01
 Ethiopia,DV2,33,2019-06-01
@@ -81964,12 +81964,12 @@ Bulgaria,IR1,2,2019-12-01
 Bulgaria,IR2,5,2019-12-01
 Bulgaria,IR5,13,2019-12-01
 Bulgaria,SB1,1,2019-12-01
-Burkina-Faso,CR1,1,2019-12-01
-Burkina-Faso,DV1,4,2019-12-01
-Burkina-Faso,F41,1,2019-12-01
-Burkina-Faso,IH3,3,2019-12-01
-Burkina-Faso,IR2,2,2019-12-01
-Burkina-Faso,IR5,1,2019-12-01
+Burkina Faso,CR1,1,2019-12-01
+Burkina Faso,DV1,4,2019-12-01
+Burkina Faso,F41,1,2019-12-01
+Burkina Faso,IH3,3,2019-12-01
+Burkina Faso,IR2,2,2019-12-01
+Burkina Faso,IR5,1,2019-12-01
 Burma,CR1,10,2019-12-01
 Burma,DV1,10,2019-12-01
 Burma,DV2,5,2019-12-01
@@ -83362,7 +83362,7 @@ Nigeria,SD1,1,2019-12-01
 Nigeria,SD2,1,2019-12-01
 Nigeria,SE1,1,2019-12-01
 Nigeria,SE2,1,2019-12-01
-North Korea,IR1,1,2019-12-01
+"Korea, North",IR1,1,2019-12-01
 North Macedonia,CR1,3,2019-12-01
 North Macedonia,DV1,6,2019-12-01
 North Macedonia,DV2,3,2019-12-01
@@ -83723,12 +83723,12 @@ South Africa,IR5,19,2019-12-01
 South Africa,IW,1,2019-12-01
 South Africa,T51,2,2019-12-01
 South Africa,T52,1,2019-12-01
-South Korea,CR1,24,2019-12-01
-South Korea,IR1,28,2019-12-01
-South Korea,IR2,4,2019-12-01
-South Korea,IR3,45,2019-12-01
-South Korea,IR5,60,2019-12-01
-South Korea,IW,1,2019-12-01
+"Korea, South",CR1,24,2019-12-01
+"Korea, South",IR1,28,2019-12-01
+"Korea, South",IR2,4,2019-12-01
+"Korea, South",IR3,45,2019-12-01
+"Korea, South",IR5,60,2019-12-01
+"Korea, South",IW,1,2019-12-01
 South Sudan,CR1,1,2019-12-01
 South Sudan,F24,1,2019-12-01
 South Sudan,F25,1,2019-12-01
@@ -84257,10 +84257,10 @@ Azerbaijan,F42,1,2020-01-01
 Azerbaijan,F43,1,2020-01-01
 Azerbaijan,IR1,1,2020-01-01
 Azerbaijan,IR5,6,2020-01-01
-Bahamas,CR1,3,2020-01-01
-Bahamas,IR1,1,2020-01-01
-Bahamas,IR2,2,2020-01-01
-Bahamas,IR5,4,2020-01-01
+"Bahamas, The",CR1,3,2020-01-01
+"Bahamas, The",IR1,1,2020-01-01
+"Bahamas, The",IR2,2,2020-01-01
+"Bahamas, The",IR5,4,2020-01-01
 "Bahamas, The",F11,1,2020-01-01
 "Bahamas, The",F12,1,2020-01-01
 "Bahamas, The",F24,2,2020-01-01
@@ -84437,9 +84437,9 @@ Burkina Faso,F11,1,2020-01-01
 Burkina Faso,F24,2,2020-01-01
 Burkina Faso,FX1,1,2020-01-01
 Burkina Faso,FX2,2,2020-01-01
-Burkina-Faso,IR1,2,2020-01-01
-Burkina-Faso,IR2,12,2020-01-01
-Burkina-Faso,IR5,1,2020-01-01
+Burkina Faso,IR1,2,2020-01-01
+Burkina Faso,IR2,12,2020-01-01
+Burkina Faso,IR5,1,2020-01-01
 Burma,CR1,8,2020-01-01
 Burma,DV1,16,2020-01-01
 Burma,DV2,3,2020-01-01
@@ -84552,43 +84552,43 @@ Chile,IR1,3,2020-01-01
 Chile,IR2,4,2020-01-01
 Chile,IR5,4,2020-01-01
 Chile,SB1,1,2020-01-01
-China,CR1,71,2020-01-01
-China,CR2,6,2020-01-01
-China,IB1,1,2020-01-01
-China,IH3,51,2020-01-01
-China,IR1,77,2020-01-01
-China,IR2,22,2020-01-01
-China,IR5,370,2020-01-01
-China - Mainland born,BX1,1,2020-01-01
-China - Mainland born,C53,1,2020-01-01
-China - Mainland born,E11,11,2020-01-01
-China - Mainland born,E14,11,2020-01-01
-China - Mainland born,E15,15,2020-01-01
-China - Mainland born,E21,1,2020-01-01
-China - Mainland born,E31,2,2020-01-01
-China - Mainland born,E34,2,2020-01-01
-China - Mainland born,E35,4,2020-01-01
-China - Mainland born,EW5,1,2020-01-01
-China - Mainland born,F11,32,2020-01-01
-China - Mainland born,F12,17,2020-01-01
-China - Mainland born,F24,108,2020-01-01
-China - Mainland born,F25,38,2020-01-01
-China - Mainland born,F31,47,2020-01-01
-China - Mainland born,F32,40,2020-01-01
-China - Mainland born,F33,43,2020-01-01
-China - Mainland born,F41,477,2020-01-01
-China - Mainland born,F42,370,2020-01-01
-China - Mainland born,F43,370,2020-01-01
-China - Mainland born,FX1,167,2020-01-01
-China - Mainland born,FX2,75,2020-01-01
-China - Mainland born,FX3,12,2020-01-01
-China - Mainland born,I51,199,2020-01-01
-China - Mainland born,I52,114,2020-01-01
-China - Mainland born,I53,212,2020-01-01
-China - Mainland born,SB1,7,2020-01-01
-China - Mainland born,T51,5,2020-01-01
-China - Mainland born,T52,3,2020-01-01
-China - Mainland born,T53,7,2020-01-01
+China - mainland born,CR1,71,2020-01-01
+China - mainland born,CR2,6,2020-01-01
+China - mainland born,IB1,1,2020-01-01
+China - mainland born,IH3,51,2020-01-01
+China - mainland born,IR1,77,2020-01-01
+China - mainland born,IR2,22,2020-01-01
+China - mainland born,IR5,370,2020-01-01
+China - mainland born,BX1,1,2020-01-01
+China - mainland born,C53,1,2020-01-01
+China - mainland born,E11,11,2020-01-01
+China - mainland born,E14,11,2020-01-01
+China - mainland born,E15,15,2020-01-01
+China - mainland born,E21,1,2020-01-01
+China - mainland born,E31,2,2020-01-01
+China - mainland born,E34,2,2020-01-01
+China - mainland born,E35,4,2020-01-01
+China - mainland born,EW5,1,2020-01-01
+China - mainland born,F11,32,2020-01-01
+China - mainland born,F12,17,2020-01-01
+China - mainland born,F24,108,2020-01-01
+China - mainland born,F25,38,2020-01-01
+China - mainland born,F31,47,2020-01-01
+China - mainland born,F32,40,2020-01-01
+China - mainland born,F33,43,2020-01-01
+China - mainland born,F41,477,2020-01-01
+China - mainland born,F42,370,2020-01-01
+China - mainland born,F43,370,2020-01-01
+China - mainland born,FX1,167,2020-01-01
+China - mainland born,FX2,75,2020-01-01
+China - mainland born,FX3,12,2020-01-01
+China - mainland born,I51,199,2020-01-01
+China - mainland born,I52,114,2020-01-01
+China - mainland born,I53,212,2020-01-01
+China - mainland born,SB1,7,2020-01-01
+China - mainland born,T51,5,2020-01-01
+China - mainland born,T52,3,2020-01-01
+China - mainland born,T53,7,2020-01-01
 China - Taiwan born,CR1,4,2020-01-01
 China - Taiwan born,DV1,7,2020-01-01
 China - Taiwan born,DV2,4,2020-01-01
@@ -84721,11 +84721,11 @@ Cuba,IR2,24,2020-01-01
 Cuba,IR5,71,2020-01-01
 Curacao,CR1,1,2020-01-01
 Curacao,IR5,1,2020-01-01
-Czec Republic,DV1,1,2020-01-01
-Czec Republic,DV2,2,2020-01-01
-Czec Republic,DV3,1,2020-01-01
-Czec Republic,EW3,1,2020-01-01
-Czec Republic,F24,1,2020-01-01
+Czech Republic,DV1,1,2020-01-01
+Czech Republic,DV2,2,2020-01-01
+Czech Republic,DV3,1,2020-01-01
+Czech Republic,EW3,1,2020-01-01
+Czech Republic,F24,1,2020-01-01
 Czech Republic,CR1,1,2020-01-01
 Czech Republic,IR1,1,2020-01-01
 Denmark,CR1,1,2020-01-01
@@ -85538,14 +85538,14 @@ Kuwait,I51,1,2020-01-01
 Kuwait,IR1,4,2020-01-01
 Kuwait,IR2,3,2020-01-01
 Kuwait,IR5,7,2020-01-01
-Kyrgystan,DV1,12,2020-01-01
-Kyrgystan,DV2,4,2020-01-01
-Kyrgystan,DV3,8,2020-01-01
-Kyrgystan,E34,1,2020-01-01
-Kyrgystan,F11,1,2020-01-01
-Kyrgystan,F41,1,2020-01-01
-Kyrgystan,F43,2,2020-01-01
-Kyrgystan,FX2,1,2020-01-01
+Kyrgyzstan,DV1,12,2020-01-01
+Kyrgyzstan,DV2,4,2020-01-01
+Kyrgyzstan,DV3,8,2020-01-01
+Kyrgyzstan,E34,1,2020-01-01
+Kyrgyzstan,F11,1,2020-01-01
+Kyrgyzstan,F41,1,2020-01-01
+Kyrgyzstan,F43,2,2020-01-01
+Kyrgyzstan,FX2,1,2020-01-01
 Kyrgyzstan,CR1,2,2020-01-01
 Kyrgyzstan,IR1,2,2020-01-01
 Kyrgyzstan,IR5,7,2020-01-01
@@ -86180,12 +86180,12 @@ South Africa,I53,2,2020-01-01
 South Africa,IR1,15,2020-01-01
 South Africa,IR2,1,2020-01-01
 South Africa,IR5,21,2020-01-01
-South Korea,CR1,14,2020-01-01
-South Korea,CR2,3,2020-01-01
-South Korea,IR1,13,2020-01-01
-South Korea,IR2,3,2020-01-01
-South Korea,IR3,22,2020-01-01
-South Korea,IR5,33,2020-01-01
+"Korea, South",CR1,14,2020-01-01
+"Korea, South",CR2,3,2020-01-01
+"Korea, South",IR1,13,2020-01-01
+"Korea, South",IR2,3,2020-01-01
+"Korea, South",IR3,22,2020-01-01
+"Korea, South",IR5,33,2020-01-01
 South Sudan,DV1,1,2020-01-01
 South Sudan,F24,2,2020-01-01
 South Sudan,F25,1,2020-01-01
@@ -86801,18 +86801,18 @@ Bolivia,FX2,1,2020-02-01
 Bolivia,IR1,8,2020-02-01
 Bolivia,IR2,6,2020-02-01
 Bolivia,IR5,3,2020-02-01
-Bosnia-Herzegovina,CR1,2,2020-02-01
-Bosnia-Herzegovina,DV1,1,2020-02-01
-Bosnia-Herzegovina,DV2,1,2020-02-01
-Bosnia-Herzegovina,F11,1,2020-02-01
-Bosnia-Herzegovina,F31,1,2020-02-01
-Bosnia-Herzegovina,F32,1,2020-02-01
-Bosnia-Herzegovina,F33,2,2020-02-01
-Bosnia-Herzegovina,F41,3,2020-02-01
-Bosnia-Herzegovina,FX1,2,2020-02-01
-Bosnia-Herzegovina,FX2,2,2020-02-01
-Bosnia-Herzegovina,IR1,2,2020-02-01
-Bosnia-Herzegovina,IR5,4,2020-02-01
+Bosnia and Herzegovina,CR1,2,2020-02-01
+Bosnia and Herzegovina,DV1,1,2020-02-01
+Bosnia and Herzegovina,DV2,1,2020-02-01
+Bosnia and Herzegovina,F11,1,2020-02-01
+Bosnia and Herzegovina,F31,1,2020-02-01
+Bosnia and Herzegovina,F32,1,2020-02-01
+Bosnia and Herzegovina,F33,2,2020-02-01
+Bosnia and Herzegovina,F41,3,2020-02-01
+Bosnia and Herzegovina,FX1,2,2020-02-01
+Bosnia and Herzegovina,FX2,2,2020-02-01
+Bosnia and Herzegovina,IR1,2,2020-02-01
+Bosnia and Herzegovina,IR5,4,2020-02-01
 Brazil,CR1,9,2020-02-01
 Brazil,CR2,3,2020-02-01
 Brazil,E11,5,2020-02-01
@@ -86981,27 +86981,27 @@ Chile,FX1,1,2020-02-01
 Chile,IR1,4,2020-02-01
 Chile,IR2,3,2020-02-01
 Chile,IR5,6,2020-02-01
-China - Mainland born,CR1,8,2020-02-01
-China - Mainland born,E14,2,2020-02-01
-China - Mainland born,E35,1,2020-02-01
-China - Mainland born,F11,1,2020-02-01
-China - Mainland born,F24,7,2020-02-01
-China - Mainland born,F31,2,2020-02-01
-China - Mainland born,F32,1,2020-02-01
-China - Mainland born,F33,2,2020-02-01
-China - Mainland born,F41,25,2020-02-01
-China - Mainland born,F42,23,2020-02-01
-China - Mainland born,F43,14,2020-02-01
-China - Mainland born,FX1,9,2020-02-01
-China - Mainland born,FX2,1,2020-02-01
-China - Mainland born,FX3,2,2020-02-01
-China - Mainland born,I52,1,2020-02-01
-China - Mainland born,I53,3,2020-02-01
-China - Mainland born,IH3,1,2020-02-01
-China - Mainland born,IR1,9,2020-02-01
-China - Mainland born,IR2,3,2020-02-01
-China - Mainland born,IR5,18,2020-02-01
-China - Mainland born,SB1,1,2020-02-01
+China - mainland born,CR1,8,2020-02-01
+China - mainland born,E14,2,2020-02-01
+China - mainland born,E35,1,2020-02-01
+China - mainland born,F11,1,2020-02-01
+China - mainland born,F24,7,2020-02-01
+China - mainland born,F31,2,2020-02-01
+China - mainland born,F32,1,2020-02-01
+China - mainland born,F33,2,2020-02-01
+China - mainland born,F41,25,2020-02-01
+China - mainland born,F42,23,2020-02-01
+China - mainland born,F43,14,2020-02-01
+China - mainland born,FX1,9,2020-02-01
+China - mainland born,FX2,1,2020-02-01
+China - mainland born,FX3,2,2020-02-01
+China - mainland born,I52,1,2020-02-01
+China - mainland born,I53,3,2020-02-01
+China - mainland born,IH3,1,2020-02-01
+China - mainland born,IR1,9,2020-02-01
+China - mainland born,IR2,3,2020-02-01
+China - mainland born,IR5,18,2020-02-01
+China - mainland born,SB1,1,2020-02-01
 China - Taiwan born,CR1,5,2020-02-01
 China - Taiwan born,DV1,7,2020-02-01
 China - Taiwan born,DV2,3,2020-02-01
@@ -87267,7 +87267,7 @@ Eritrea,IR5,7,2020-02-01
 Estonia,CR1,1,2020-02-01
 Estonia,IR2,1,2020-02-01
 Estonia,IR5,1,2020-02-01
-Eswatini,CR1,1,2020-02-01
+eSwatini,CR1,1,2020-02-01
 Ethiopia,CR1,64,2020-02-01
 Ethiopia,DV1,67,2020-02-01
 Ethiopia,DV2,4,2020-02-01
@@ -87565,32 +87565,32 @@ Honduras,IR2,54,2020-02-01
 Honduras,IR3,4,2020-02-01
 Honduras,IR5,26,2020-02-01
 Honduras,IW1,1,2020-02-01
-Hong Kong S.A.R,CR1,4,2020-02-01
-Hong Kong S.A.R,DV1,2,2020-02-01
-Hong Kong S.A.R,DV2,2,2020-02-01
-Hong Kong S.A.R,DV3,3,2020-02-01
-Hong Kong S.A.R,E13,1,2020-02-01
-Hong Kong S.A.R,E14,1,2020-02-01
-Hong Kong S.A.R,E32,2,2020-02-01
-Hong Kong S.A.R,EW3,1,2020-02-01
-Hong Kong S.A.R,EW4,1,2020-02-01
-Hong Kong S.A.R,EW5,2,2020-02-01
-Hong Kong S.A.R,F11,2,2020-02-01
-Hong Kong S.A.R,F12,1,2020-02-01
-Hong Kong S.A.R,F25,1,2020-02-01
-Hong Kong S.A.R,F31,6,2020-02-01
-Hong Kong S.A.R,F32,7,2020-02-01
-Hong Kong S.A.R,F33,10,2020-02-01
-Hong Kong S.A.R,F41,18,2020-02-01
-Hong Kong S.A.R,F42,17,2020-02-01
-Hong Kong S.A.R,F43,31,2020-02-01
-Hong Kong S.A.R,FX1,2,2020-02-01
-Hong Kong S.A.R,FX3,4,2020-02-01
-Hong Kong S.A.R,I51,1,2020-02-01
-Hong Kong S.A.R,IH4,2,2020-02-01
-Hong Kong S.A.R,IR1,6,2020-02-01
-Hong Kong S.A.R,IR5,5,2020-02-01
-Hong Kong S.A.R,SB1,1,2020-02-01
+Hong Kong S.A.R.,CR1,4,2020-02-01
+Hong Kong S.A.R.,DV1,2,2020-02-01
+Hong Kong S.A.R.,DV2,2,2020-02-01
+Hong Kong S.A.R.,DV3,3,2020-02-01
+Hong Kong S.A.R.,E13,1,2020-02-01
+Hong Kong S.A.R.,E14,1,2020-02-01
+Hong Kong S.A.R.,E32,2,2020-02-01
+Hong Kong S.A.R.,EW3,1,2020-02-01
+Hong Kong S.A.R.,EW4,1,2020-02-01
+Hong Kong S.A.R.,EW5,2,2020-02-01
+Hong Kong S.A.R.,F11,2,2020-02-01
+Hong Kong S.A.R.,F12,1,2020-02-01
+Hong Kong S.A.R.,F25,1,2020-02-01
+Hong Kong S.A.R.,F31,6,2020-02-01
+Hong Kong S.A.R.,F32,7,2020-02-01
+Hong Kong S.A.R.,F33,10,2020-02-01
+Hong Kong S.A.R.,F41,18,2020-02-01
+Hong Kong S.A.R.,F42,17,2020-02-01
+Hong Kong S.A.R.,F43,31,2020-02-01
+Hong Kong S.A.R.,FX1,2,2020-02-01
+Hong Kong S.A.R.,FX3,4,2020-02-01
+Hong Kong S.A.R.,I51,1,2020-02-01
+Hong Kong S.A.R.,IH4,2,2020-02-01
+Hong Kong S.A.R.,IR1,6,2020-02-01
+Hong Kong S.A.R.,IR5,5,2020-02-01
+Hong Kong S.A.R.,SB1,1,2020-02-01
 Hungary,CR1,2,2020-02-01
 Hungary,DV1,2,2020-02-01
 Hungary,DV2,1,2020-02-01
@@ -89112,16 +89112,16 @@ Bolivia,FX3,1,2020-03-01
 Bolivia,IR1,2,2020-03-01
 Bolivia,IR2,4,2020-03-01
 Bolivia,IR5,4,2020-03-01
-Bosnia-Herzegovina,CR1,3,2020-03-01
-Bosnia-Herzegovina,E11,1,2020-03-01
-Bosnia-Herzegovina,E15,1,2020-03-01
-Bosnia-Herzegovina,F24,1,2020-03-01
-Bosnia-Herzegovina,F41,1,2020-03-01
-Bosnia-Herzegovina,F42,1,2020-03-01
-Bosnia-Herzegovina,F43,2,2020-03-01
-Bosnia-Herzegovina,FX1,1,2020-03-01
-Bosnia-Herzegovina,FX3,2,2020-03-01
-Bosnia-Herzegovina,IR5,3,2020-03-01
+Bosnia and Herzegovina,CR1,3,2020-03-01
+Bosnia and Herzegovina,E11,1,2020-03-01
+Bosnia and Herzegovina,E15,1,2020-03-01
+Bosnia and Herzegovina,F24,1,2020-03-01
+Bosnia and Herzegovina,F41,1,2020-03-01
+Bosnia and Herzegovina,F42,1,2020-03-01
+Bosnia and Herzegovina,F43,2,2020-03-01
+Bosnia and Herzegovina,FX1,1,2020-03-01
+Bosnia and Herzegovina,FX3,2,2020-03-01
+Bosnia and Herzegovina,IR5,3,2020-03-01
 Brazil,CR1,13,2020-03-01
 Brazil,CR2,7,2020-03-01
 Brazil,E11,4,2020-03-01
@@ -91985,8 +91985,8 @@ Belize,IR1,2,2020-07-01
 Benin,IR2,2,2020-07-01
 Bermuda,IR5,1,2020-07-01
 Bolivia,IR1,2,2020-07-01
-Bosnia-Herzegovina,CR1,2,2020-07-01
-Bosnia-Herzegovina,IR1,2,2020-07-01
+Bosnia and Herzegovina,CR1,2,2020-07-01
+Bosnia and Herzegovina,IR1,2,2020-07-01
 Brazil,CR1,6,2020-07-01
 Brazil,IR1,5,2020-07-01
 Brazil,IR2,2,2020-07-01
@@ -92148,14 +92148,14 @@ Honduras,CR1,1,2020-07-01
 Honduras,CR2,2,2020-07-01
 Honduras,IR1,27,2020-07-01
 Honduras,IR2,2,2020-07-01
-Hong Kong S.A.R,F31,1,2020-07-01
-Hong Kong S.A.R,F32,1,2020-07-01
-Hong Kong S.A.R,F33,1,2020-07-01
-Hong Kong S.A.R,F41,4,2020-07-01
-Hong Kong S.A.R,F42,1,2020-07-01
-Hong Kong S.A.R,F43,3,2020-07-01
-Hong Kong S.A.R,FX1,1,2020-07-01
-Hong Kong S.A.R,SB1,1,2020-07-01
+Hong Kong S.A.R.,F31,1,2020-07-01
+Hong Kong S.A.R.,F32,1,2020-07-01
+Hong Kong S.A.R.,F33,1,2020-07-01
+Hong Kong S.A.R.,F41,4,2020-07-01
+Hong Kong S.A.R.,F42,1,2020-07-01
+Hong Kong S.A.R.,F43,3,2020-07-01
+Hong Kong S.A.R.,FX1,1,2020-07-01
+Hong Kong S.A.R.,SB1,1,2020-07-01
 Hong Kong S.A.R.,CR1,1,2020-07-01
 Hong Kong S.A.R.,IH4,2,2020-07-01
 Hong Kong S.A.R.,IR1,9,2020-07-01
@@ -92547,9 +92547,9 @@ Bolivia,CR1,1,2020-08-01
 Bolivia,FX2,1,2020-08-01
 Bolivia,IR1,5,2020-08-01
 Bolivia,IR2,4,2020-08-01
-Bosnia-Herzegovina,CR1,4,2020-08-01
-Bosnia-Herzegovina,IR1,4,2020-08-01
-Bosnia-Herzegovina,IR2,3,2020-08-01
+Bosnia and Herzegovina,CR1,4,2020-08-01
+Bosnia and Herzegovina,IR1,4,2020-08-01
+Bosnia and Herzegovina,IR2,3,2020-08-01
 Brazil,CR1,4,2020-08-01
 Brazil,FX2,1,2020-08-01
 Brazil,IR1,7,2020-08-01
@@ -92760,7 +92760,7 @@ Honduras,CR1,2,2020-08-01
 Honduras,F43,1,2020-08-01
 Honduras,IR1,44,2020-08-01
 Honduras,IR2,13,2020-08-01
-Hong Kong S.A.R,SB1,1,2020-08-01
+Hong Kong S.A.R.,SB1,1,2020-08-01
 Hong Kong S.A.R.,IR1,11,2020-08-01
 Hong Kong S.A.R.,IR2,8,2020-08-01
 Hungary,CR1,4,2020-08-01
@@ -93263,13 +93263,13 @@ Bolivia,FX1,1,2020-09-01
 Bolivia,FX2,2,2020-09-01
 Bolivia,IR1,3,2020-09-01
 Bolivia,IR2,5,2020-09-01
-Bosnia-Herzegovina,CR1,4,2020-09-01
-Bosnia-Herzegovina,CR2,1,2020-09-01
-Bosnia-Herzegovina,DV1,5,2020-09-01
-Bosnia-Herzegovina,DV2,3,2020-09-01
-Bosnia-Herzegovina,DV3,1,2020-09-01
-Bosnia-Herzegovina,IR1,7,2020-09-01
-Bosnia-Herzegovina,IR2,3,2020-09-01
+Bosnia and Herzegovina,CR1,4,2020-09-01
+Bosnia and Herzegovina,CR2,1,2020-09-01
+Bosnia and Herzegovina,DV1,5,2020-09-01
+Bosnia and Herzegovina,DV2,3,2020-09-01
+Bosnia and Herzegovina,DV3,1,2020-09-01
+Bosnia and Herzegovina,IR1,7,2020-09-01
+Bosnia and Herzegovina,IR2,3,2020-09-01
 Brazil,CR1,4,2020-09-01
 Brazil,E11,1,2020-09-01
 Brazil,E14,1,2020-09-01
@@ -93474,7 +93474,7 @@ Eritrea,IR2,2,2020-09-01
 Estonia,CR1,2,2020-09-01
 Estonia,CR2,1,2020-09-01
 Estonia,SB1,1,2020-09-01
-Eswatini,IR1,1,2020-09-01
+eSwatini,IR1,1,2020-09-01
 Ethiopia,CR1,5,2020-09-01
 Ethiopia,DV1,24,2020-09-01
 Ethiopia,DV2,2,2020-09-01
@@ -93600,12 +93600,12 @@ Honduras,F25,5,2020-09-01
 Honduras,IR1,42,2020-09-01
 Honduras,IR2,17,2020-09-01
 Honduras,IR3,1,2020-09-01
-Hong Kong S.A.R,DV1,15,2020-09-01
-Hong Kong S.A.R,DV2,7,2020-09-01
-Hong Kong S.A.R,DV3,12,2020-09-01
-Hong Kong S.A.R,F41,1,2020-09-01
-Hong Kong S.A.R,F42,1,2020-09-01
-Hong Kong S.A.R,F43,3,2020-09-01
+Hong Kong S.A.R.,DV1,15,2020-09-01
+Hong Kong S.A.R.,DV2,7,2020-09-01
+Hong Kong S.A.R.,DV3,12,2020-09-01
+Hong Kong S.A.R.,F41,1,2020-09-01
+Hong Kong S.A.R.,F42,1,2020-09-01
+Hong Kong S.A.R.,F43,3,2020-09-01
 Hong Kong S.A.R.,CR1,11,2020-09-01
 Hong Kong S.A.R.,IH4,2,2020-09-01
 Hong Kong S.A.R.,IR1,25,2020-09-01
@@ -94297,9 +94297,9 @@ Bolivia,CR1,1,2020-10-01
 Bolivia,F41,1,2020-10-01
 Bolivia,F42,1,2020-10-01
 Bolivia,F43,2,2020-10-01
-Bosnia-Herzegovina,CR1,16,2020-10-01
-Bosnia-Herzegovina,IR1,5,2020-10-01
-Bosnia-Herzegovina,IR2,1,2020-10-01
+Bosnia and Herzegovina,CR1,16,2020-10-01
+Bosnia and Herzegovina,IR1,5,2020-10-01
+Bosnia and Herzegovina,IR2,1,2020-10-01
 Botswana,CR1,1,2020-10-01
 Botswana,CR2,5,2020-10-01
 Botswana,IR2,1,2020-10-01
@@ -94448,7 +94448,7 @@ Eritrea,FX1,2,2020-10-01
 Eritrea,FX3,1,2020-10-01
 Eritrea,IR1,4,2020-10-01
 Estonia,CR1,1,2020-10-01
-Eswatini,CR1,1,2020-10-01
+eSwatini,CR1,1,2020-10-01
 Ethiopia,CR1,8,2020-10-01
 Ethiopia,IR1,10,2020-10-01
 Ethiopia,IR2,1,2020-10-01
@@ -94538,8 +94538,8 @@ Honduras,IR1,54,2020-10-01
 Honduras,IR2,34,2020-10-01
 Honduras,IR5,2,2020-10-01
 Honduras,IW,3,2020-10-01
-Hong Kong S.A.R,F31,1,2020-10-01
-Hong Kong S.A.R,F41,1,2020-10-01
+Hong Kong S.A.R.,F31,1,2020-10-01
+Hong Kong S.A.R.,F41,1,2020-10-01
 Hong Kong S.A.R.,CR1,12,2020-10-01
 Hong Kong S.A.R.,CR2,2,2020-10-01
 Hong Kong S.A.R.,IR1,13,2020-10-01
@@ -95065,9 +95065,9 @@ Benin,CR1,1,2020-11-01
 Bermuda,E35,1,2020-11-01
 Bermuda,IR1,2,2020-11-01
 Bolivia,IR1,1,2020-11-01
-Bosnia-Herzegovina,CR1,7,2020-11-01
-Bosnia-Herzegovina,IR1,4,2020-11-01
-Bosnia-Herzegovina,IR2,1,2020-11-01
+Bosnia and Herzegovina,CR1,7,2020-11-01
+Bosnia and Herzegovina,IR1,4,2020-11-01
+Bosnia and Herzegovina,IR2,1,2020-11-01
 Brazil,CR1,8,2020-11-01
 Brazil,FX1,1,2020-11-01
 Brazil,FX3,1,2020-11-01
@@ -95238,7 +95238,7 @@ Eritrea,FX1,2,2020-11-01
 Eritrea,FX3,1,2020-11-01
 Eritrea,IR1,5,2020-11-01
 Estonia,IR1,1,2020-11-01
-Eswatini,IR2,1,2020-11-01
+eSwatini,IR2,1,2020-11-01
 Ethiopia,CR1,10,2020-11-01
 Ethiopia,E31,1,2020-11-01
 Ethiopia,IR1,11,2020-11-01
@@ -95347,12 +95347,12 @@ Honduras,IR1,42,2020-11-01
 Honduras,IR2,11,2020-11-01
 Honduras,IR5,2,2020-11-01
 Honduras,IW,3,2020-11-01
-Hong Kong S.A.R,F31,1,2020-11-01
-Hong Kong S.A.R,F32,1,2020-11-01
-Hong Kong S.A.R,F33,1,2020-11-01
-Hong Kong S.A.R,F41,2,2020-11-01
-Hong Kong S.A.R,F42,2,2020-11-01
-Hong Kong S.A.R,F43,3,2020-11-01
+Hong Kong S.A.R.,F31,1,2020-11-01
+Hong Kong S.A.R.,F32,1,2020-11-01
+Hong Kong S.A.R.,F33,1,2020-11-01
+Hong Kong S.A.R.,F41,2,2020-11-01
+Hong Kong S.A.R.,F42,2,2020-11-01
+Hong Kong S.A.R.,F43,3,2020-11-01
 Hong Kong S.A.R.,CR1,7,2020-11-01
 Hong Kong S.A.R.,CR2,1,2020-11-01
 Hong Kong S.A.R.,IH4,1,2020-11-01
@@ -95901,9 +95901,9 @@ Bolivia,CR2,1,2020-12-01
 Bolivia,F12,1,2020-12-01
 Bolivia,IR1,6,2020-12-01
 Bolivia,IR2,5,2020-12-01
-Bosnia-Herzegovina,CR1,3,2020-12-01
-Bosnia-Herzegovina,IR1,5,2020-12-01
-Bosnia-Herzegovina,IR2,1,2020-12-01
+Bosnia and Herzegovina,CR1,3,2020-12-01
+Bosnia and Herzegovina,IR1,5,2020-12-01
+Bosnia and Herzegovina,IR2,1,2020-12-01
 Brazil,CR1,6,2020-12-01
 Brazil,CR2,1,2020-12-01
 Brazil,E21,1,2020-12-01
@@ -96191,8 +96191,8 @@ Honduras,IR1,68,2020-12-01
 Honduras,IR2,19,2020-12-01
 Honduras,IR5,1,2020-12-01
 Honduras,IW,2,2020-12-01
-Hong Kong S.A.R,F41,1,2020-12-01
-Hong Kong S.A.R,SB1,1,2020-12-01
+Hong Kong S.A.R.,F41,1,2020-12-01
+Hong Kong S.A.R.,SB1,1,2020-12-01
 Hong Kong S.A.R.,CR1,5,2020-12-01
 Hong Kong S.A.R.,IR1,10,2020-12-01
 Hong Kong S.A.R.,IR2,3,2020-12-01
@@ -96778,9 +96778,9 @@ Bermuda,CR1,2,2021-01-01
 Bermuda,IR1,1,2021-01-01
 Bermuda,IR2,3,2021-01-01
 Bolivia,IR1,1,2021-01-01
-Bosnia-Herzegovina,CR1,5,2021-01-01
-Bosnia-Herzegovina,IR1,1,2021-01-01
-Bosnia-Herzegovina,IR2,2,2021-01-01
+Bosnia and Herzegovina,CR1,5,2021-01-01
+Bosnia and Herzegovina,IR1,1,2021-01-01
+Bosnia and Herzegovina,IR2,2,2021-01-01
 Botswana,CR1,1,2021-01-01
 Brazil,CR1,6,2021-01-01
 Brazil,CR2,2,2021-01-01
@@ -97049,9 +97049,9 @@ Honduras,IR1,43,2021-01-01
 Honduras,IR2,39,2021-01-01
 Honduras,IR3,1,2021-01-01
 Honduras,IR5,2,2021-01-01
-Hong Kong S.A.R,F41,1,2021-01-01
-Hong Kong S.A.R,F42,1,2021-01-01
-Hong Kong S.A.R,F43,1,2021-01-01
+Hong Kong S.A.R.,F41,1,2021-01-01
+Hong Kong S.A.R.,F42,1,2021-01-01
+Hong Kong S.A.R.,F43,1,2021-01-01
 Hong Kong S.A.R.,CR1,4,2021-01-01
 Hong Kong S.A.R.,IR1,16,2021-01-01
 Hong Kong S.A.R.,IR2,7,2021-01-01
@@ -97641,8 +97641,8 @@ Bhutan,CR2,1,2021-02-01
 Bhutan,IR2,3,2021-02-01
 Bolivia,IR1,3,2021-02-01
 Bolivia,IR2,5,2021-02-01
-Bosnia-Herzegovina,CR1,3,2021-02-01
-Bosnia-Herzegovina,IR1,5,2021-02-01
+Bosnia and Herzegovina,CR1,3,2021-02-01
+Bosnia and Herzegovina,IR1,5,2021-02-01
 Botswana,IR2,2,2021-02-01
 Brazil,CR1,4,2021-02-01
 Brazil,CR2,1,2021-02-01
@@ -98426,8 +98426,8 @@ Bolivia,CR1,1,2021-03-01
 Bolivia,FX,1,2021-03-01
 Bolivia,IR1,3,2021-03-01
 Bolivia,IR2,3,2021-03-01
-Bosnia-Herzegovina,CR1,3,2021-03-01
-Bosnia-Herzegovina,IR1,2,2021-03-01
+Bosnia and Herzegovina,CR1,3,2021-03-01
+Bosnia and Herzegovina,IR1,2,2021-03-01
 Botswana,CR1,1,2021-03-01
 Botswana,IB1,1,2021-03-01
 Brazil,CR1,28,2021-03-01
@@ -99517,12 +99517,12 @@ Bolivia,F2B,2,2021-04-01
 Bolivia,F4,6,2021-04-01
 Bolivia,IR1,10,2021-04-01
 Bolivia,IR2,8,2021-04-01
-Bosnia-Herzegovina,CR1,1,2021-04-01
-Bosnia-Herzegovina,E2,1,2021-04-01
-Bosnia-Herzegovina,F4,12,2021-04-01
-Bosnia-Herzegovina,FX,1,2021-04-01
-Bosnia-Herzegovina,IR1,2,2021-04-01
-Bosnia-Herzegovina,IR5,15,2021-04-01
+Bosnia and Herzegovina,CR1,1,2021-04-01
+Bosnia and Herzegovina,E2,1,2021-04-01
+Bosnia and Herzegovina,F4,12,2021-04-01
+Bosnia and Herzegovina,FX,1,2021-04-01
+Bosnia and Herzegovina,IR1,2,2021-04-01
+Bosnia and Herzegovina,IR5,15,2021-04-01
 Botswana,CR1,1,2021-04-01
 Botswana,IR1,1,2021-04-01
 Brazil,CR1,15,2021-04-01
@@ -100868,16 +100868,16 @@ Bolivia,IR2,8,2021-05-01
 Bolivia,IR5,3,2021-05-01
 Bolivia,IW,1,2021-05-01
 Bolivia,SB1,1,2021-05-01
-Bosnia-Herzegovina,CR1,1,2021-05-01
-Bosnia-Herzegovina,DV,2,2021-05-01
-Bosnia-Herzegovina,F1,1,2021-05-01
-Bosnia-Herzegovina,F3,2,2021-05-01
-Bosnia-Herzegovina,F4,5,2021-05-01
-Bosnia-Herzegovina,FX,3,2021-05-01
-Bosnia-Herzegovina,IR1,7,2021-05-01
-Bosnia-Herzegovina,IR2,1,2021-05-01
-Bosnia-Herzegovina,IR5,8,2021-05-01
-Bosnia-Herzegovina,SB1,1,2021-05-01
+Bosnia and Herzegovina,CR1,1,2021-05-01
+Bosnia and Herzegovina,DV,2,2021-05-01
+Bosnia and Herzegovina,F1,1,2021-05-01
+Bosnia and Herzegovina,F3,2,2021-05-01
+Bosnia and Herzegovina,F4,5,2021-05-01
+Bosnia and Herzegovina,FX,3,2021-05-01
+Bosnia and Herzegovina,IR1,7,2021-05-01
+Bosnia and Herzegovina,IR2,1,2021-05-01
+Bosnia and Herzegovina,IR5,8,2021-05-01
+Bosnia and Herzegovina,SB1,1,2021-05-01
 Brazil,CR1,7,2021-05-01
 Brazil,CR2,1,2021-05-01
 Brazil,E3,7,2021-05-01
@@ -101934,28 +101934,28 @@ Syria,FX,3,2021-05-01
 Syria,IR1,8,2021-05-01
 Syria,IR2,3,2021-05-01
 Syria,IR5,24,2021-05-01
-Taiwan,CR1,4,2021-05-01
-Taiwan,CR2,2,2021-05-01
-Taiwan,DV,19,2021-05-01
-Taiwan,E1,1,2021-05-01
-Taiwan,E2,10,2021-05-01
-Taiwan,E3,17,2021-05-01
-Taiwan,EW,1,2021-05-01
-Taiwan,F1,1,2021-05-01
-Taiwan,F2B,4,2021-05-01
-Taiwan,F3,10,2021-05-01
-Taiwan,F4,60,2021-05-01
-Taiwan,FX,24,2021-05-01
-Taiwan,I5,14,2021-05-01
-Taiwan,IB1,1,2021-05-01
-Taiwan,IR1,12,2021-05-01
-Taiwan,IR2,2,2021-05-01
-Taiwan,IR3,6,2021-05-01
-Taiwan,IR5,38,2021-05-01
-Taiwan,SB1,12,2021-05-01
-Taiwan,SD,4,2021-05-01
-Taiwan,SE,1,2021-05-01
-Taiwan,T5,4,2021-05-01
+China - Taiwan born,CR1,4,2021-05-01
+China - Taiwan born,CR2,2,2021-05-01
+China - Taiwan born,DV,19,2021-05-01
+China - Taiwan born,E1,1,2021-05-01
+China - Taiwan born,E2,10,2021-05-01
+China - Taiwan born,E3,17,2021-05-01
+China - Taiwan born,EW,1,2021-05-01
+China - Taiwan born,F1,1,2021-05-01
+China - Taiwan born,F2B,4,2021-05-01
+China - Taiwan born,F3,10,2021-05-01
+China - Taiwan born,F4,60,2021-05-01
+China - Taiwan born,FX,24,2021-05-01
+China - Taiwan born,I5,14,2021-05-01
+China - Taiwan born,IB1,1,2021-05-01
+China - Taiwan born,IR1,12,2021-05-01
+China - Taiwan born,IR2,2,2021-05-01
+China - Taiwan born,IR3,6,2021-05-01
+China - Taiwan born,IR5,38,2021-05-01
+China - Taiwan born,SB1,12,2021-05-01
+China - Taiwan born,SD,4,2021-05-01
+China - Taiwan born,SE,1,2021-05-01
+China - Taiwan born,T5,4,2021-05-01
 Tajikistan,CR1,1,2021-05-01
 Tajikistan,E3,4,2021-05-01
 Tajikistan,IR1,4,2021-05-01
@@ -102298,16 +102298,16 @@ Bolivia,IR2,11,2021-06-01
 Bolivia,IR5,5,2021-06-01
 Bolivia,IW,1,2021-06-01
 Bolivia,SB1,1,2021-06-01
-Bosnia-Herzegovina,CR1,2,2021-06-01
-Bosnia-Herzegovina,DV,1,2021-06-01
-Bosnia-Herzegovina,F3,6,2021-06-01
-Bosnia-Herzegovina,F4,4,2021-06-01
-Bosnia-Herzegovina,FX,3,2021-06-01
-Bosnia-Herzegovina,IR1,2,2021-06-01
-Bosnia-Herzegovina,IR2,1,2021-06-01
-Bosnia-Herzegovina,IR5,5,2021-06-01
-Bosnia-Herzegovina,SB1,1,2021-06-01
-Bosnia-Herzegovina,SE,7,2021-06-01
+Bosnia and Herzegovina,CR1,2,2021-06-01
+Bosnia and Herzegovina,DV,1,2021-06-01
+Bosnia and Herzegovina,F3,6,2021-06-01
+Bosnia and Herzegovina,F4,4,2021-06-01
+Bosnia and Herzegovina,FX,3,2021-06-01
+Bosnia and Herzegovina,IR1,2,2021-06-01
+Bosnia and Herzegovina,IR2,1,2021-06-01
+Bosnia and Herzegovina,IR5,5,2021-06-01
+Bosnia and Herzegovina,SB1,1,2021-06-01
+Bosnia and Herzegovina,SE,7,2021-06-01
 Botswana,FX,1,2021-06-01
 Botswana,IR1,1,2021-06-01
 Brazil,CR1,11,2021-06-01
@@ -103479,21 +103479,21 @@ Syria,IR2,4,2021-06-01
 Syria,IR5,34,2021-06-01
 Syria,SB1,3,2021-06-01
 Syria,SE,1,2021-06-01
-Taiwan,DV,4,2021-06-01
-Taiwan,E1,5,2021-06-01
-Taiwan,E2,18,2021-06-01
-Taiwan,E3,5,2021-06-01
-Taiwan,F1,10,2021-06-01
-Taiwan,F2B,1,2021-06-01
-Taiwan,F3,10,2021-06-01
-Taiwan,F4,86,2021-06-01
-Taiwan,FX,33,2021-06-01
-Taiwan,I5,33,2021-06-01
-Taiwan,IR1,11,2021-06-01
-Taiwan,IR2,6,2021-06-01
-Taiwan,IR3,7,2021-06-01
-Taiwan,IR5,29,2021-06-01
-Taiwan,SB1,27,2021-06-01
+China - Taiwan born,DV,4,2021-06-01
+China - Taiwan born,E1,5,2021-06-01
+China - Taiwan born,E2,18,2021-06-01
+China - Taiwan born,E3,5,2021-06-01
+China - Taiwan born,F1,10,2021-06-01
+China - Taiwan born,F2B,1,2021-06-01
+China - Taiwan born,F3,10,2021-06-01
+China - Taiwan born,F4,86,2021-06-01
+China - Taiwan born,FX,33,2021-06-01
+China - Taiwan born,I5,33,2021-06-01
+China - Taiwan born,IR1,11,2021-06-01
+China - Taiwan born,IR2,6,2021-06-01
+China - Taiwan born,IR3,7,2021-06-01
+China - Taiwan born,IR5,29,2021-06-01
+China - Taiwan born,SB1,27,2021-06-01
 Tajikistan,CR1,2,2021-06-01
 Tajikistan,CR2,1,2021-06-01
 Tajikistan,DV,63,2021-06-01
@@ -103850,14 +103850,14 @@ Bolivia,FX,5,2021-07-01
 Bolivia,IR1,20,2021-07-01
 Bolivia,IR2,6,2021-07-01
 Bolivia,IR5,13,2021-07-01
-Bosnia-Herzegovina,DV,1,2021-07-01
-Bosnia-Herzegovina,F3,9,2021-07-01
-Bosnia-Herzegovina,F4,1,2021-07-01
-Bosnia-Herzegovina,FX,1,2021-07-01
-Bosnia-Herzegovina,IR1,1,2021-07-01
-Bosnia-Herzegovina,IR5,5,2021-07-01
-Bosnia-Herzegovina,SD,1,2021-07-01
-Bosnia-Herzegovina,SE,2,2021-07-01
+Bosnia and Herzegovina,DV,1,2021-07-01
+Bosnia and Herzegovina,F3,9,2021-07-01
+Bosnia and Herzegovina,F4,1,2021-07-01
+Bosnia and Herzegovina,FX,1,2021-07-01
+Bosnia and Herzegovina,IR1,1,2021-07-01
+Bosnia and Herzegovina,IR5,5,2021-07-01
+Bosnia and Herzegovina,SD,1,2021-07-01
+Bosnia and Herzegovina,SE,2,2021-07-01
 Brazil,CR1,24,2021-07-01
 Brazil,CR2,1,2021-07-01
 Brazil,E1,27,2021-07-01
@@ -104752,7 +104752,6 @@ North Macedonia,IR2,3,2021-07-01
 North Macedonia,IR5,23,2021-07-01
 Norway,IR1,1,2021-07-01
 Oman,E3,1,2021-07-01
-Other,IR5,1,2021-07-01
 Pakistan,CR1,56,2021-07-01
 Pakistan,E1,1,2021-07-01
 Pakistan,E2,7,2021-07-01
@@ -105040,21 +105039,21 @@ Syria,IR2,1,2021-07-01
 Syria,IR5,38,2021-07-01
 Syria,SB1,1,2021-07-01
 Syria,SQ,1,2021-07-01
-Taiwan,CR1,4,2021-07-01
-Taiwan,DV,1,2021-07-01
-Taiwan,E1,5,2021-07-01
-Taiwan,E2,3,2021-07-01
-Taiwan,E3,15,2021-07-01
-Taiwan,F1,8,2021-07-01
-Taiwan,F2B,5,2021-07-01
-Taiwan,F3,15,2021-07-01
-Taiwan,F4,138,2021-07-01
-Taiwan,FX,26,2021-07-01
-Taiwan,IR1,13,2021-07-01
-Taiwan,IR2,5,2021-07-01
-Taiwan,IR5,23,2021-07-01
-Taiwan,IW,1,2021-07-01
-Taiwan,SB1,47,2021-07-01
+China - Taiwan born,CR1,4,2021-07-01
+China - Taiwan born,DV,1,2021-07-01
+China - Taiwan born,E1,5,2021-07-01
+China - Taiwan born,E2,3,2021-07-01
+China - Taiwan born,E3,15,2021-07-01
+China - Taiwan born,F1,8,2021-07-01
+China - Taiwan born,F2B,5,2021-07-01
+China - Taiwan born,F3,15,2021-07-01
+China - Taiwan born,F4,138,2021-07-01
+China - Taiwan born,FX,26,2021-07-01
+China - Taiwan born,IR1,13,2021-07-01
+China - Taiwan born,IR2,5,2021-07-01
+China - Taiwan born,IR5,23,2021-07-01
+China - Taiwan born,IW,1,2021-07-01
+China - Taiwan born,SB1,47,2021-07-01
 Tajikistan,DV,31,2021-07-01
 Tajikistan,F2B,2,2021-07-01
 Tajikistan,FX,14,2021-07-01
@@ -105415,15 +105414,15 @@ Bolivia,FX,27,2021-08-01
 Bolivia,IR1,33,2021-08-01
 Bolivia,IR2,35,2021-08-01
 Bolivia,IR5,56,2021-08-01
-Bosnia-Herzegovina,CR1,1,2021-08-01
-Bosnia-Herzegovina,F1,1,2021-08-01
-Bosnia-Herzegovina,F3,3,2021-08-01
-Bosnia-Herzegovina,F4,5,2021-08-01
-Bosnia-Herzegovina,FX,1,2021-08-01
-Bosnia-Herzegovina,IR1,3,2021-08-01
-Bosnia-Herzegovina,IR2,2,2021-08-01
-Bosnia-Herzegovina,IR5,1,2021-08-01
-Bosnia-Herzegovina,SB1,1,2021-08-01
+Bosnia and Herzegovina,CR1,1,2021-08-01
+Bosnia and Herzegovina,F1,1,2021-08-01
+Bosnia and Herzegovina,F3,3,2021-08-01
+Bosnia and Herzegovina,F4,5,2021-08-01
+Bosnia and Herzegovina,FX,1,2021-08-01
+Bosnia and Herzegovina,IR1,3,2021-08-01
+Bosnia and Herzegovina,IR2,2,2021-08-01
+Bosnia and Herzegovina,IR5,1,2021-08-01
+Bosnia and Herzegovina,SB1,1,2021-08-01
 Botswana,IR2,1,2021-08-01
 Brazil,CR1,47,2021-08-01
 Brazil,CR2,6,2021-08-01
@@ -106618,23 +106617,23 @@ Syria,FX,12,2021-08-01
 Syria,IR1,24,2021-08-01
 Syria,IR2,1,2021-08-01
 Syria,IR5,36,2021-08-01
-Taiwan,CR1,3,2021-08-01
-Taiwan,CX,1,2021-08-01
-Taiwan,DV,28,2021-08-01
-Taiwan,E1,9,2021-08-01
-Taiwan,E2,19,2021-08-01
-Taiwan,E3,4,2021-08-01
-Taiwan,EW,1,2021-08-01
-Taiwan,F1,8,2021-08-01
-Taiwan,F2B,3,2021-08-01
-Taiwan,F3,10,2021-08-01
-Taiwan,F4,86,2021-08-01
-Taiwan,FX,8,2021-08-01
-Taiwan,IR1,10,2021-08-01
-Taiwan,IR2,5,2021-08-01
-Taiwan,IR5,15,2021-08-01
-Taiwan,IW,1,2021-08-01
-Taiwan,SB1,33,2021-08-01
+China - Taiwan born,CR1,3,2021-08-01
+China - Taiwan born,CX,1,2021-08-01
+China - Taiwan born,DV,28,2021-08-01
+China - Taiwan born,E1,9,2021-08-01
+China - Taiwan born,E2,19,2021-08-01
+China - Taiwan born,E3,4,2021-08-01
+China - Taiwan born,EW,1,2021-08-01
+China - Taiwan born,F1,8,2021-08-01
+China - Taiwan born,F2B,3,2021-08-01
+China - Taiwan born,F3,10,2021-08-01
+China - Taiwan born,F4,86,2021-08-01
+China - Taiwan born,FX,8,2021-08-01
+China - Taiwan born,IR1,10,2021-08-01
+China - Taiwan born,IR2,5,2021-08-01
+China - Taiwan born,IR5,15,2021-08-01
+China - Taiwan born,IW,1,2021-08-01
+China - Taiwan born,SB1,33,2021-08-01
 Tajikistan,C2A,1,2021-08-01
 Tajikistan,CR1,2,2021-08-01
 Tajikistan,DV,71,2021-08-01
@@ -106999,15 +106998,15 @@ Bolivia,IR5,31,2021-09-01
 Bolivia,SB1,1,2021-09-01
 Bolivia,SE,3,2021-09-01
 Bolivia,SR,4,2021-09-01
-Bosnia-Herzegovina,CR1,3,2021-09-01
-Bosnia-Herzegovina,DV,10,2021-09-01
-Bosnia-Herzegovina,EW,3,2021-09-01
-Bosnia-Herzegovina,F3,10,2021-09-01
-Bosnia-Herzegovina,F4,5,2021-09-01
-Bosnia-Herzegovina,FX,4,2021-09-01
-Bosnia-Herzegovina,IR1,2,2021-09-01
-Bosnia-Herzegovina,IR2,1,2021-09-01
-Bosnia-Herzegovina,SB1,2,2021-09-01
+Bosnia and Herzegovina,CR1,3,2021-09-01
+Bosnia and Herzegovina,DV,10,2021-09-01
+Bosnia and Herzegovina,EW,3,2021-09-01
+Bosnia and Herzegovina,F3,10,2021-09-01
+Bosnia and Herzegovina,F4,5,2021-09-01
+Bosnia and Herzegovina,FX,4,2021-09-01
+Bosnia and Herzegovina,IR1,2,2021-09-01
+Bosnia and Herzegovina,IR2,1,2021-09-01
+Bosnia and Herzegovina,SB1,2,2021-09-01
 Botswana,E3,1,2021-09-01
 Botswana,IR2,3,2021-09-01
 Botswana,IR5,1,2021-09-01
@@ -108226,21 +108225,21 @@ Syria,FX,4,2021-09-01
 Syria,IR1,9,2021-09-01
 Syria,IR5,30,2021-09-01
 Syria,SB1,1,2021-09-01
-Taiwan,CR1,2,2021-09-01
-Taiwan,DV,56,2021-09-01
-Taiwan,E2,24,2021-09-01
-Taiwan,E3,3,2021-09-01
-Taiwan,EW,2,2021-09-01
-Taiwan,F1,2,2021-09-01
-Taiwan,F2B,3,2021-09-01
-Taiwan,F3,7,2021-09-01
-Taiwan,F4,64,2021-09-01
-Taiwan,FX,14,2021-09-01
-Taiwan,IR1,6,2021-09-01
-Taiwan,IR2,1,2021-09-01
-Taiwan,IR3,4,2021-09-01
-Taiwan,IR5,12,2021-09-01
-Taiwan,SB1,22,2021-09-01
+China - Taiwan born,CR1,2,2021-09-01
+China - Taiwan born,DV,56,2021-09-01
+China - Taiwan born,E2,24,2021-09-01
+China - Taiwan born,E3,3,2021-09-01
+China - Taiwan born,EW,2,2021-09-01
+China - Taiwan born,F1,2,2021-09-01
+China - Taiwan born,F2B,3,2021-09-01
+China - Taiwan born,F3,7,2021-09-01
+China - Taiwan born,F4,64,2021-09-01
+China - Taiwan born,FX,14,2021-09-01
+China - Taiwan born,IR1,6,2021-09-01
+China - Taiwan born,IR2,1,2021-09-01
+China - Taiwan born,IR3,4,2021-09-01
+China - Taiwan born,IR5,12,2021-09-01
+China - Taiwan born,SB1,22,2021-09-01
 Tajikistan,DV,74,2021-09-01
 Tajikistan,F1,1,2021-09-01
 Tajikistan,F2B,2,2021-09-01
@@ -108592,12 +108591,12 @@ Bolivia,FX,27,2021-10-01
 Bolivia,IR1,13,2021-10-01
 Bolivia,IR2,9,2021-10-01
 Bolivia,IR5,15,2021-10-01
-Bosnia-Herzegovina,CR1,3,2021-10-01
-Bosnia-Herzegovina,F1,2,2021-10-01
-Bosnia-Herzegovina,F3,14,2021-10-01
-Bosnia-Herzegovina,F4,4,2021-10-01
-Bosnia-Herzegovina,IR1,3,2021-10-01
-Bosnia-Herzegovina,IR2,2,2021-10-01
+Bosnia and Herzegovina,CR1,3,2021-10-01
+Bosnia and Herzegovina,F1,2,2021-10-01
+Bosnia and Herzegovina,F3,14,2021-10-01
+Bosnia and Herzegovina,F4,4,2021-10-01
+Bosnia and Herzegovina,IR1,3,2021-10-01
+Bosnia and Herzegovina,IR2,2,2021-10-01
 Botswana,IR2,1,2021-10-01
 Brazil,CR1,6,2021-10-01
 Brazil,CR2,2,2021-10-01
@@ -108880,7 +108879,7 @@ Estonia,CR2,1,2021-10-01
 Estonia,E3,1,2021-10-01
 Estonia,IR5,2,2021-10-01
 Estonia,SB1,1,2021-10-01
-Eswatini,CR1,1,2021-10-01
+eSwatini,CR1,1,2021-10-01
 Ethiopia,CR1,11,2021-10-01
 Ethiopia,F1,4,2021-10-01
 Ethiopia,F2B,17,2021-10-01
@@ -109591,7 +109590,7 @@ Saint Lucia,FX,18,2021-10-01
 Saint Lucia,IR1,3,2021-10-01
 Saint Lucia,IR2,5,2021-10-01
 Saint Lucia,IR5,8,2021-10-01
-Saint Maarten,FX,1,2021-10-01
+Sint Maarten,FX,1,2021-10-01
 Saint Martin,F2B,2,2021-10-01
 Saint Vincent and the Grenadines,F1,11,2021-10-01
 Saint Vincent and the Grenadines,F4,1,2021-10-01
@@ -109709,20 +109708,20 @@ Syria,IR1,12,2021-10-01
 Syria,IR2,8,2021-10-01
 Syria,IR5,45,2021-10-01
 Syria,SB1,1,2021-10-01
-Taiwan,CR1,4,2021-10-01
-Taiwan,E1,5,2021-10-01
-Taiwan,E2,11,2021-10-01
-Taiwan,E3,7,2021-10-01
-Taiwan,EW,3,2021-10-01
-Taiwan,F1,5,2021-10-01
-Taiwan,F2B,2,2021-10-01
-Taiwan,F3,10,2021-10-01
-Taiwan,F4,45,2021-10-01
-Taiwan,FX,14,2021-10-01
-Taiwan,IR1,9,2021-10-01
-Taiwan,IR3,7,2021-10-01
-Taiwan,IR5,18,2021-10-01
-Taiwan,SB1,16,2021-10-01
+China - Taiwan born,CR1,4,2021-10-01
+China - Taiwan born,E1,5,2021-10-01
+China - Taiwan born,E2,11,2021-10-01
+China - Taiwan born,E3,7,2021-10-01
+China - Taiwan born,EW,3,2021-10-01
+China - Taiwan born,F1,5,2021-10-01
+China - Taiwan born,F2B,2,2021-10-01
+China - Taiwan born,F3,10,2021-10-01
+China - Taiwan born,F4,45,2021-10-01
+China - Taiwan born,FX,14,2021-10-01
+China - Taiwan born,IR1,9,2021-10-01
+China - Taiwan born,IR3,7,2021-10-01
+China - Taiwan born,IR5,18,2021-10-01
+China - Taiwan born,SB1,16,2021-10-01
 Tajikistan,CR1,1,2021-10-01
 Tajikistan,E2,4,2021-10-01
 Tajikistan,F1,2,2021-10-01
@@ -110065,14 +110064,14 @@ Bolivia,IR1,5,2021-11-01
 Bolivia,IR2,8,2021-11-01
 Bolivia,IR5,15,2021-11-01
 Bolivia,SE,1,2021-11-01
-Bosnia-Herzegovina,CR1,2,2021-11-01
-Bosnia-Herzegovina,E3,1,2021-11-01
-Bosnia-Herzegovina,F1,2,2021-11-01
-Bosnia-Herzegovina,F4,8,2021-11-01
-Bosnia-Herzegovina,FX,1,2021-11-01
-Bosnia-Herzegovina,IR1,1,2021-11-01
-Bosnia-Herzegovina,IR2,1,2021-11-01
-Bosnia-Herzegovina,IR5,2,2021-11-01
+Bosnia and Herzegovina,CR1,2,2021-11-01
+Bosnia and Herzegovina,E3,1,2021-11-01
+Bosnia and Herzegovina,F1,2,2021-11-01
+Bosnia and Herzegovina,F4,8,2021-11-01
+Bosnia and Herzegovina,FX,1,2021-11-01
+Bosnia and Herzegovina,IR1,1,2021-11-01
+Bosnia and Herzegovina,IR2,1,2021-11-01
+Bosnia and Herzegovina,IR5,2,2021-11-01
 Botswana,CR1,2,2021-11-01
 Botswana,FX,3,2021-11-01
 Brazil,CR1,11,2021-11-01
@@ -110354,7 +110353,7 @@ Eritrea,IR5,8,2021-11-01
 Eritrea,SB1,1,2021-11-01
 Eritrea,SE,12,2021-11-01
 Estonia,CR1,1,2021-11-01
-Eswatini,SB1,1,2021-11-01
+eSwatini,SB1,1,2021-11-01
 Ethiopia,CR1,13,2021-11-01
 Ethiopia,E1,2,2021-11-01
 Ethiopia,E2,5,2021-11-01
@@ -111033,7 +111032,7 @@ Saint Lucia,F2B,2,2021-11-01
 Saint Lucia,FX,4,2021-11-01
 Saint Lucia,IR1,2,2021-11-01
 Saint Lucia,IR2,1,2021-11-01
-Saint Maarten,FX,1,2021-11-01
+Sint Maarten,FX,1,2021-11-01
 Saint Martin,F1,1,2021-11-01
 Saint Vincent and the Grenadines,CR1,1,2021-11-01
 Saint Vincent and the Grenadines,E3,2,2021-11-01
@@ -111161,20 +111160,20 @@ Syria,IR1,20,2021-11-01
 Syria,IR2,11,2021-11-01
 Syria,IR5,56,2021-11-01
 Syria,SB1,1,2021-11-01
-Taiwan,CR1,2,2021-11-01
-Taiwan,E2,11,2021-11-01
-Taiwan,E3,2,2021-11-01
-Taiwan,EW,2,2021-11-01
-Taiwan,F1,1,2021-11-01
-Taiwan,F2B,5,2021-11-01
-Taiwan,F3,5,2021-11-01
-Taiwan,F4,40,2021-11-01
-Taiwan,FX,6,2021-11-01
-Taiwan,IR1,12,2021-11-01
-Taiwan,IR2,6,2021-11-01
-Taiwan,IR3,4,2021-11-01
-Taiwan,IR5,10,2021-11-01
-Taiwan,SB1,25,2021-11-01
+China - Taiwan born,CR1,2,2021-11-01
+China - Taiwan born,E2,11,2021-11-01
+China - Taiwan born,E3,2,2021-11-01
+China - Taiwan born,EW,2,2021-11-01
+China - Taiwan born,F1,1,2021-11-01
+China - Taiwan born,F2B,5,2021-11-01
+China - Taiwan born,F3,5,2021-11-01
+China - Taiwan born,F4,40,2021-11-01
+China - Taiwan born,FX,6,2021-11-01
+China - Taiwan born,IR1,12,2021-11-01
+China - Taiwan born,IR2,6,2021-11-01
+China - Taiwan born,IR3,4,2021-11-01
+China - Taiwan born,IR5,10,2021-11-01
+China - Taiwan born,SB1,25,2021-11-01
 Tajikistan,BC1,5,2021-11-01
 Tajikistan,E3,1,2021-11-01
 Tajikistan,EW,1,2021-11-01
@@ -111503,16 +111502,16 @@ Bolivia,FX,10,2021-12-01
 Bolivia,IR1,4,2021-12-01
 Bolivia,IR2,6,2021-12-01
 Bolivia,IR5,11,2021-12-01
-Bosnia-Herzegovina,CR2,1,2021-12-01
-Bosnia-Herzegovina,E3,1,2021-12-01
-Bosnia-Herzegovina,F1,1,2021-12-01
-Bosnia-Herzegovina,F3,3,2021-12-01
-Bosnia-Herzegovina,F4,5,2021-12-01
-Bosnia-Herzegovina,FX,3,2021-12-01
-Bosnia-Herzegovina,IR1,3,2021-12-01
-Bosnia-Herzegovina,IR2,2,2021-12-01
-Bosnia-Herzegovina,IR5,1,2021-12-01
-Bosnia-Herzegovina,SE,4,2021-12-01
+Bosnia and Herzegovina,CR2,1,2021-12-01
+Bosnia and Herzegovina,E3,1,2021-12-01
+Bosnia and Herzegovina,F1,1,2021-12-01
+Bosnia and Herzegovina,F3,3,2021-12-01
+Bosnia and Herzegovina,F4,5,2021-12-01
+Bosnia and Herzegovina,FX,3,2021-12-01
+Bosnia and Herzegovina,IR1,3,2021-12-01
+Bosnia and Herzegovina,IR2,2,2021-12-01
+Bosnia and Herzegovina,IR5,1,2021-12-01
+Bosnia and Herzegovina,SE,4,2021-12-01
 Botswana,CR1,1,2021-12-01
 Brazil,CR1,18,2021-12-01
 Brazil,CR2,1,2021-12-01
@@ -112644,20 +112643,20 @@ Syria,IR1,32,2021-12-01
 Syria,IR2,5,2021-12-01
 Syria,IR5,60,2021-12-01
 Syria,SE,5,2021-12-01
-Taiwan,CR1,3,2021-12-01
-Taiwan,E2,7,2021-12-01
-Taiwan,E3,12,2021-12-01
-Taiwan,EW,12,2021-12-01
-Taiwan,F1,2,2021-12-01
-Taiwan,F2B,1,2021-12-01
-Taiwan,F3,5,2021-12-01
-Taiwan,F4,21,2021-12-01
-Taiwan,FX,8,2021-12-01
-Taiwan,IR1,9,2021-12-01
-Taiwan,IR2,4,2021-12-01
-Taiwan,IR3,9,2021-12-01
-Taiwan,IR5,13,2021-12-01
-Taiwan,SB1,17,2021-12-01
+China - Taiwan born,CR1,3,2021-12-01
+China - Taiwan born,E2,7,2021-12-01
+China - Taiwan born,E3,12,2021-12-01
+China - Taiwan born,EW,12,2021-12-01
+China - Taiwan born,F1,2,2021-12-01
+China - Taiwan born,F2B,1,2021-12-01
+China - Taiwan born,F3,5,2021-12-01
+China - Taiwan born,F4,21,2021-12-01
+China - Taiwan born,FX,8,2021-12-01
+China - Taiwan born,IR1,9,2021-12-01
+China - Taiwan born,IR2,4,2021-12-01
+China - Taiwan born,IR3,9,2021-12-01
+China - Taiwan born,IR5,13,2021-12-01
+China - Taiwan born,SB1,17,2021-12-01
 Tajikistan,BC1,5,2021-12-01
 Tajikistan,E1,1,2021-12-01
 Tajikistan,IR1,1,2021-12-01
@@ -112985,12 +112984,12 @@ Bolivia,IR1,2,2022-01-01
 Bolivia,IR2,1,2022-01-01
 Bolivia,IR5,2,2022-01-01
 Bolivia,SB1,1,2022-01-01
-Bosnia-Herzegovina,CR1,1,2022-01-01
-Bosnia-Herzegovina,CR2,1,2022-01-01
-Bosnia-Herzegovina,F1,1,2022-01-01
-Bosnia-Herzegovina,FX,2,2022-01-01
-Bosnia-Herzegovina,IR1,3,2022-01-01
-Bosnia-Herzegovina,IR5,3,2022-01-01
+Bosnia and Herzegovina,CR1,1,2022-01-01
+Bosnia and Herzegovina,CR2,1,2022-01-01
+Bosnia and Herzegovina,F1,1,2022-01-01
+Bosnia and Herzegovina,FX,2,2022-01-01
+Bosnia and Herzegovina,IR1,3,2022-01-01
+Bosnia and Herzegovina,IR5,3,2022-01-01
 Brazil,CR1,7,2022-01-01
 Brazil,CR2,1,2022-01-01
 Brazil,E1,44,2022-01-01
@@ -113964,8 +113963,8 @@ Saint Lucia,F3,4,2022-01-01
 Saint Lucia,IR1,3,2022-01-01
 Saint Lucia,IR2,2,2022-01-01
 Saint Lucia,IR5,6,2022-01-01
-Saint Maarten,F1,2,2022-01-01
-Saint Maarten,F2B,1,2022-01-01
+Sint Maarten,F1,2,2022-01-01
+Sint Maarten,F2B,1,2022-01-01
 Saint Vincent and the Grenadines,CR1,1,2022-01-01
 Saint Vincent and the Grenadines,F1,1,2022-01-01
 Saint Vincent and the Grenadines,F3,2,2022-01-01
@@ -114098,20 +114097,20 @@ Syria,IR1,23,2022-01-01
 Syria,IR2,1,2022-01-01
 Syria,IR5,34,2022-01-01
 Syria,SB1,4,2022-01-01
-Taiwan,CR1,7,2022-01-01
-Taiwan,DV,4,2022-01-01
-Taiwan,E1,1,2022-01-01
-Taiwan,E2,14,2022-01-01
-Taiwan,E3,6,2022-01-01
-Taiwan,EW,3,2022-01-01
-Taiwan,F1,1,2022-01-01
-Taiwan,F3,3,2022-01-01
-Taiwan,F4,24,2022-01-01
-Taiwan,FX,5,2022-01-01
-Taiwan,IR1,6,2022-01-01
-Taiwan,IR3,5,2022-01-01
-Taiwan,IR5,10,2022-01-01
-Taiwan,SB1,10,2022-01-01
+China - Taiwan born,CR1,7,2022-01-01
+China - Taiwan born,DV,4,2022-01-01
+China - Taiwan born,E1,1,2022-01-01
+China - Taiwan born,E2,14,2022-01-01
+China - Taiwan born,E3,6,2022-01-01
+China - Taiwan born,EW,3,2022-01-01
+China - Taiwan born,F1,1,2022-01-01
+China - Taiwan born,F3,3,2022-01-01
+China - Taiwan born,F4,24,2022-01-01
+China - Taiwan born,FX,5,2022-01-01
+China - Taiwan born,IR1,6,2022-01-01
+China - Taiwan born,IR3,5,2022-01-01
+China - Taiwan born,IR5,10,2022-01-01
+China - Taiwan born,SB1,10,2022-01-01
 Tajikistan,CR1,1,2022-01-01
 Tajikistan,DV,21,2022-01-01
 Tajikistan,FX,1,2022-01-01
@@ -114462,14 +114461,14 @@ Bolivia,FX,6,2022-02-01
 Bolivia,IR1,6,2022-02-01
 Bolivia,IR2,5,2022-02-01
 Bolivia,IR5,4,2022-02-01
-Bosnia-Herzegovina,DV,7,2022-02-01
-Bosnia-Herzegovina,F3,6,2022-02-01
-Bosnia-Herzegovina,F4,7,2022-02-01
-Bosnia-Herzegovina,FX,5,2022-02-01
-Bosnia-Herzegovina,IR1,2,2022-02-01
-Bosnia-Herzegovina,IR5,1,2022-02-01
-Bosnia-Herzegovina,SB1,1,2022-02-01
-Bosnia-Herzegovina,SE,3,2022-02-01
+Bosnia and Herzegovina,DV,7,2022-02-01
+Bosnia and Herzegovina,F3,6,2022-02-01
+Bosnia and Herzegovina,F4,7,2022-02-01
+Bosnia and Herzegovina,FX,5,2022-02-01
+Bosnia and Herzegovina,IR1,2,2022-02-01
+Bosnia and Herzegovina,IR5,1,2022-02-01
+Bosnia and Herzegovina,SB1,1,2022-02-01
+Bosnia and Herzegovina,SE,3,2022-02-01
 Botswana,IR5,1,2022-02-01
 Brazil,CR1,14,2022-02-01
 Brazil,CR2,8,2022-02-01
@@ -114762,7 +114761,7 @@ Eritrea,IR5,4,2022-02-01
 Eritrea,SB1,2,2022-02-01
 Estonia,CR1,1,2022-02-01
 Estonia,IR1,1,2022-02-01
-Eswatini,FX,1,2022-02-01
+eSwatini,FX,1,2022-02-01
 Ethiopia,CR1,12,2022-02-01
 Ethiopia,DV,3,2022-02-01
 Ethiopia,F1,4,2022-02-01
@@ -115613,22 +115612,22 @@ Syria,FX,7,2022-02-01
 Syria,IR1,14,2022-02-01
 Syria,IR2,5,2022-02-01
 Syria,IR5,57,2022-02-01
-Taiwan,CR1,4,2022-02-01
-Taiwan,DV,6,2022-02-01
-Taiwan,E2,8,2022-02-01
-Taiwan,E3,4,2022-02-01
-Taiwan,EW,1,2022-02-01
-Taiwan,F1,3,2022-02-01
-Taiwan,F2B,1,2022-02-01
-Taiwan,F3,6,2022-02-01
-Taiwan,F4,14,2022-02-01
-Taiwan,FX,4,2022-02-01
-Taiwan,IR1,12,2022-02-01
-Taiwan,IR2,1,2022-02-01
-Taiwan,IR3,1,2022-02-01
-Taiwan,IR5,14,2022-02-01
-Taiwan,SB1,3,2022-02-01
-Taiwan,SE,2,2022-02-01
+China - Taiwan born,CR1,4,2022-02-01
+China - Taiwan born,DV,6,2022-02-01
+China - Taiwan born,E2,8,2022-02-01
+China - Taiwan born,E3,4,2022-02-01
+China - Taiwan born,EW,1,2022-02-01
+China - Taiwan born,F1,3,2022-02-01
+China - Taiwan born,F2B,1,2022-02-01
+China - Taiwan born,F3,6,2022-02-01
+China - Taiwan born,F4,14,2022-02-01
+China - Taiwan born,FX,4,2022-02-01
+China - Taiwan born,IR1,12,2022-02-01
+China - Taiwan born,IR2,1,2022-02-01
+China - Taiwan born,IR3,1,2022-02-01
+China - Taiwan born,IR5,14,2022-02-01
+China - Taiwan born,SB1,3,2022-02-01
+China - Taiwan born,SE,2,2022-02-01
 Tajikistan,CR1,2,2022-02-01
 Tajikistan,DV,22,2022-02-01
 Tajikistan,FX,1,2022-02-01
@@ -116014,13 +116013,13 @@ Bolivia,IR1,12,2022-03-01
 Bolivia,IR2,6,2022-03-01
 Bolivia,IR5,12,2022-03-01
 Bolivia,SU,2,2022-03-01
-Bosnia-Herzegovina,CR1,2,2022-03-01
-Bosnia-Herzegovina,DV,4,2022-03-01
-Bosnia-Herzegovina,F1,1,2022-03-01
-Bosnia-Herzegovina,F4,1,2022-03-01
-Bosnia-Herzegovina,FX,1,2022-03-01
-Bosnia-Herzegovina,IR1,2,2022-03-01
-Bosnia-Herzegovina,IR5,3,2022-03-01
+Bosnia and Herzegovina,CR1,2,2022-03-01
+Bosnia and Herzegovina,DV,4,2022-03-01
+Bosnia and Herzegovina,F1,1,2022-03-01
+Bosnia and Herzegovina,F4,1,2022-03-01
+Bosnia and Herzegovina,FX,1,2022-03-01
+Bosnia and Herzegovina,IR1,2,2022-03-01
+Bosnia and Herzegovina,IR5,3,2022-03-01
 Botswana,E2,2,2022-03-01
 Botswana,IR2,2,2022-03-01
 Brazil,CR1,12,2022-03-01
@@ -117055,10 +117054,10 @@ Saint Lucia,FX,2,2022-03-01
 Saint Lucia,IR1,1,2022-03-01
 Saint Lucia,IR2,3,2022-03-01
 Saint Lucia,IR5,6,2022-03-01
-Saint Maarten,E3,1,2022-03-01
-Saint Maarten,FX,1,2022-03-01
-Saint Maarten,IR1,1,2022-03-01
-Saint Maarten,IR5,1,2022-03-01
+Sint Maarten,E3,1,2022-03-01
+Sint Maarten,FX,1,2022-03-01
+Sint Maarten,IR1,1,2022-03-01
+Sint Maarten,IR5,1,2022-03-01
 Saint Martin,IR2,1,2022-03-01
 Saint Vincent and the Grenadines,E3,1,2022-03-01
 Saint Vincent and the Grenadines,F1,7,2022-03-01
@@ -117206,19 +117205,19 @@ Syria,IR1,15,2022-03-01
 Syria,IR2,5,2022-03-01
 Syria,IR5,46,2022-03-01
 Syria,SE,6,2022-03-01
-Taiwan,CR1,5,2022-03-01
-Taiwan,DV,19,2022-03-01
-Taiwan,E2,9,2022-03-01
-Taiwan,E3,6,2022-03-01
-Taiwan,EW,3,2022-03-01
-Taiwan,F1,1,2022-03-01
-Taiwan,F3,17,2022-03-01
-Taiwan,F4,13,2022-03-01
-Taiwan,FX,7,2022-03-01
-Taiwan,IR1,11,2022-03-01
-Taiwan,IR3,7,2022-03-01
-Taiwan,IR5,16,2022-03-01
-Taiwan,SB1,9,2022-03-01
+China - Taiwan born,CR1,5,2022-03-01
+China - Taiwan born,DV,19,2022-03-01
+China - Taiwan born,E2,9,2022-03-01
+China - Taiwan born,E3,6,2022-03-01
+China - Taiwan born,EW,3,2022-03-01
+China - Taiwan born,F1,1,2022-03-01
+China - Taiwan born,F3,17,2022-03-01
+China - Taiwan born,F4,13,2022-03-01
+China - Taiwan born,FX,7,2022-03-01
+China - Taiwan born,IR1,11,2022-03-01
+China - Taiwan born,IR3,7,2022-03-01
+China - Taiwan born,IR5,16,2022-03-01
+China - Taiwan born,SB1,9,2022-03-01
 Tajikistan,CR1,1,2022-03-01
 Tajikistan,DV,36,2022-03-01
 Tajikistan,FX,2,2022-03-01
@@ -117577,10 +117576,10 @@ Bolivia,FX,4,2022-04-01
 Bolivia,IR1,11,2022-04-01
 Bolivia,IR2,11,2022-04-01
 Bolivia,IR5,15,2022-04-01
-Bosnia-Herzegovina,DV,9,2022-04-01
-Bosnia-Herzegovina,F4,1,2022-04-01
-Bosnia-Herzegovina,FX,1,2022-04-01
-Bosnia-Herzegovina,IR1,1,2022-04-01
+Bosnia and Herzegovina,DV,9,2022-04-01
+Bosnia and Herzegovina,F4,1,2022-04-01
+Bosnia and Herzegovina,FX,1,2022-04-01
+Bosnia and Herzegovina,IR1,1,2022-04-01
 Botswana,IR2,1,2022-04-01
 Brazil,C2A,1,2022-04-01
 Brazil,CR1,18,2022-04-01
@@ -117867,7 +117866,7 @@ Estonia,CR1,1,2022-04-01
 Estonia,DV,1,2022-04-01
 Estonia,IR1,1,2022-04-01
 Estonia,IR5,1,2022-04-01
-Eswatini,E3,3,2022-04-01
+eSwatini,E3,3,2022-04-01
 Ethiopia,CR1,7,2022-04-01
 Ethiopia,DV,52,2022-04-01
 Ethiopia,F1,16,2022-04-01
@@ -118582,7 +118581,7 @@ Saint Lucia,FX,2,2022-04-01
 Saint Lucia,IR1,4,2022-04-01
 Saint Lucia,IR2,5,2022-04-01
 Saint Lucia,IR5,3,2022-04-01
-Saint Maarten,E3,1,2022-04-01
+Sint Maarten,E3,1,2022-04-01
 Saint Vincent and the Grenadines,E3,2,2022-04-01
 Saint Vincent and the Grenadines,F1,1,2022-04-01
 Saint Vincent and the Grenadines,F2B,4,2022-04-01
@@ -118724,22 +118723,22 @@ Syria,IR2,1,2022-04-01
 Syria,IR5,36,2022-04-01
 Syria,SB1,2,2022-04-01
 Syria,SE,4,2022-04-01
-Taiwan,CR1,1,2022-04-01
-Taiwan,DV,30,2022-04-01
-Taiwan,E1,11,2022-04-01
-Taiwan,E2,10,2022-04-01
-Taiwan,E3,1,2022-04-01
-Taiwan,F1,3,2022-04-01
-Taiwan,F2B,1,2022-04-01
-Taiwan,F3,9,2022-04-01
-Taiwan,F4,26,2022-04-01
-Taiwan,FX,7,2022-04-01
-Taiwan,I5,3,2022-04-01
-Taiwan,IR1,8,2022-04-01
-Taiwan,IR2,5,2022-04-01
-Taiwan,IR3,6,2022-04-01
-Taiwan,IR5,19,2022-04-01
-Taiwan,SB1,12,2022-04-01
+China - Taiwan born,CR1,1,2022-04-01
+China - Taiwan born,DV,30,2022-04-01
+China - Taiwan born,E1,11,2022-04-01
+China - Taiwan born,E2,10,2022-04-01
+China - Taiwan born,E3,1,2022-04-01
+China - Taiwan born,F1,3,2022-04-01
+China - Taiwan born,F2B,1,2022-04-01
+China - Taiwan born,F3,9,2022-04-01
+China - Taiwan born,F4,26,2022-04-01
+China - Taiwan born,FX,7,2022-04-01
+China - Taiwan born,I5,3,2022-04-01
+China - Taiwan born,IR1,8,2022-04-01
+China - Taiwan born,IR2,5,2022-04-01
+China - Taiwan born,IR3,6,2022-04-01
+China - Taiwan born,IR5,19,2022-04-01
+China - Taiwan born,SB1,12,2022-04-01
 Tajikistan,DV,26,2022-04-01
 Tajikistan,FX,3,2022-04-01
 Tajikistan,IR1,3,2022-04-01
@@ -119076,14 +119075,14 @@ Bolivia,FX,7,2022-05-01
 Bolivia,IR1,5,2022-05-01
 Bolivia,IR2,10,2022-05-01
 Bolivia,IR5,15,2022-05-01
-Bosnia-Herzegovina,CR1,1,2022-05-01
-Bosnia-Herzegovina,DV,15,2022-05-01
-Bosnia-Herzegovina,EW,2,2022-05-01
-Bosnia-Herzegovina,F1,1,2022-05-01
-Bosnia-Herzegovina,F4,3,2022-05-01
-Bosnia-Herzegovina,IR1,3,2022-05-01
-Bosnia-Herzegovina,IR2,2,2022-05-01
-Bosnia-Herzegovina,IR5,5,2022-05-01
+Bosnia and Herzegovina,CR1,1,2022-05-01
+Bosnia and Herzegovina,DV,15,2022-05-01
+Bosnia and Herzegovina,EW,2,2022-05-01
+Bosnia and Herzegovina,F1,1,2022-05-01
+Bosnia and Herzegovina,F4,3,2022-05-01
+Bosnia and Herzegovina,IR1,3,2022-05-01
+Bosnia and Herzegovina,IR2,2,2022-05-01
+Bosnia and Herzegovina,IR5,5,2022-05-01
 Botswana,IR2,2,2022-05-01
 Brazil,CR1,23,2022-05-01
 Brazil,CR2,5,2022-05-01
@@ -119373,8 +119372,8 @@ Estonia,CR1,1,2022-05-01
 Estonia,IR1,1,2022-05-01
 Estonia,IR2,2,2022-05-01
 Estonia,IR5,1,2022-05-01
-Eswatini,E3,3,2022-05-01
-Eswatini,IR1,1,2022-05-01
+eSwatini,E3,3,2022-05-01
+eSwatini,IR1,1,2022-05-01
 Ethiopia,CR1,4,2022-05-01
 Ethiopia,DV,41,2022-05-01
 Ethiopia,E2,1,2022-05-01
@@ -120227,23 +120226,23 @@ Syria,FX,10,2022-05-01
 Syria,IR1,5,2022-05-01
 Syria,IR2,2,2022-05-01
 Syria,IR5,56,2022-05-01
-Taiwan,CR1,5,2022-05-01
-Taiwan,DV,56,2022-05-01
-Taiwan,E1,2,2022-05-01
-Taiwan,E2,25,2022-05-01
-Taiwan,E3,2,2022-05-01
-Taiwan,EW,5,2022-05-01
-Taiwan,F1,1,2022-05-01
-Taiwan,F2B,1,2022-05-01
-Taiwan,F3,7,2022-05-01
-Taiwan,F4,18,2022-05-01
-Taiwan,FX,8,2022-05-01
-Taiwan,I5,50,2022-05-01
-Taiwan,IR1,14,2022-05-01
-Taiwan,IR2,3,2022-05-01
-Taiwan,IR3,4,2022-05-01
-Taiwan,IR5,21,2022-05-01
-Taiwan,SB1,6,2022-05-01
+China - Taiwan born,CR1,5,2022-05-01
+China - Taiwan born,DV,56,2022-05-01
+China - Taiwan born,E1,2,2022-05-01
+China - Taiwan born,E2,25,2022-05-01
+China - Taiwan born,E3,2,2022-05-01
+China - Taiwan born,EW,5,2022-05-01
+China - Taiwan born,F1,1,2022-05-01
+China - Taiwan born,F2B,1,2022-05-01
+China - Taiwan born,F3,7,2022-05-01
+China - Taiwan born,F4,18,2022-05-01
+China - Taiwan born,FX,8,2022-05-01
+China - Taiwan born,I5,50,2022-05-01
+China - Taiwan born,IR1,14,2022-05-01
+China - Taiwan born,IR2,3,2022-05-01
+China - Taiwan born,IR3,4,2022-05-01
+China - Taiwan born,IR5,21,2022-05-01
+China - Taiwan born,SB1,6,2022-05-01
 Tajikistan,DV,94,2022-05-01
 Tajikistan,FX,1,2022-05-01
 Tajikistan,IR1,1,2022-05-01
@@ -120580,11 +120579,11 @@ Bolivia,IR1,9,2022-06-01
 Bolivia,IR2,6,2022-06-01
 Bolivia,IR5,8,2022-06-01
 Bolivia,IW,1,2022-06-01
-Bosnia-Herzegovina,CR1,1,2022-06-01
-Bosnia-Herzegovina,DV,16,2022-06-01
-Bosnia-Herzegovina,FX,1,2022-06-01
-Bosnia-Herzegovina,IR1,2,2022-06-01
-Bosnia-Herzegovina,IR5,3,2022-06-01
+Bosnia and Herzegovina,CR1,1,2022-06-01
+Bosnia and Herzegovina,DV,16,2022-06-01
+Bosnia and Herzegovina,FX,1,2022-06-01
+Bosnia and Herzegovina,IR1,2,2022-06-01
+Bosnia and Herzegovina,IR5,3,2022-06-01
 Botswana,DV,1,2022-06-01
 Botswana,IR5,1,2022-06-01
 Botswana,SB1,1,2022-06-01
@@ -120895,7 +120894,7 @@ Eritrea,SB1,2,2022-06-01
 Eritrea,SE,4,2022-06-01
 Estonia,DV,1,2022-06-01
 Estonia,IR1,1,2022-06-01
-Eswatini,IR1,1,2022-06-01
+eSwatini,IR1,1,2022-06-01
 Ethiopia,CR1,3,2022-06-01
 Ethiopia,CR2,2,2022-06-01
 Ethiopia,DV,79,2022-06-01
@@ -121647,7 +121646,7 @@ Saint Lucia,FX,3,2022-06-01
 Saint Lucia,IR1,1,2022-06-01
 Saint Lucia,IR2,3,2022-06-01
 Saint Lucia,IR5,4,2022-06-01
-Saint Maarten,FX,1,2022-06-01
+Sint Maarten,FX,1,2022-06-01
 Saint Vincent and the Grenadines,CR1,1,2022-06-01
 Saint Vincent and the Grenadines,CR2,1,2022-06-01
 Saint Vincent and the Grenadines,F1,2,2022-06-01
@@ -121800,22 +121799,22 @@ Syria,FX,14,2022-06-01
 Syria,IR1,27,2022-06-01
 Syria,IR2,6,2022-06-01
 Syria,IR5,103,2022-06-01
-Taiwan,CR1,2,2022-06-01
-Taiwan,DV,26,2022-06-01
-Taiwan,E1,1,2022-06-01
-Taiwan,E2,12,2022-06-01
-Taiwan,E3,8,2022-06-01
-Taiwan,F1,6,2022-06-01
-Taiwan,F2B,2,2022-06-01
-Taiwan,F3,6,2022-06-01
-Taiwan,F4,16,2022-06-01
-Taiwan,FX,4,2022-06-01
-Taiwan,I5,60,2022-06-01
-Taiwan,IR1,11,2022-06-01
-Taiwan,IR2,2,2022-06-01
-Taiwan,IR3,8,2022-06-01
-Taiwan,IR5,13,2022-06-01
-Taiwan,SB1,7,2022-06-01
+China - Taiwan born,CR1,2,2022-06-01
+China - Taiwan born,DV,26,2022-06-01
+China - Taiwan born,E1,1,2022-06-01
+China - Taiwan born,E2,12,2022-06-01
+China - Taiwan born,E3,8,2022-06-01
+China - Taiwan born,F1,6,2022-06-01
+China - Taiwan born,F2B,2,2022-06-01
+China - Taiwan born,F3,6,2022-06-01
+China - Taiwan born,F4,16,2022-06-01
+China - Taiwan born,FX,4,2022-06-01
+China - Taiwan born,I5,60,2022-06-01
+China - Taiwan born,IR1,11,2022-06-01
+China - Taiwan born,IR2,2,2022-06-01
+China - Taiwan born,IR3,8,2022-06-01
+China - Taiwan born,IR5,13,2022-06-01
+China - Taiwan born,SB1,7,2022-06-01
 Tajikistan,CR1,1,2022-06-01
 Tajikistan,DV,93,2022-06-01
 Tajikistan,F2B,2,2022-06-01
@@ -122176,14 +122175,14 @@ Bolivia,I5,1,2022-07-01
 Bolivia,IR1,3,2022-07-01
 Bolivia,IR2,6,2022-07-01
 Bolivia,IR5,8,2022-07-01
-Bosnia-Herzegovina,CR1,1,2022-07-01
-Bosnia-Herzegovina,DV,2,2022-07-01
-Bosnia-Herzegovina,E2,2,2022-07-01
-Bosnia-Herzegovina,F4,10,2022-07-01
-Bosnia-Herzegovina,IR1,2,2022-07-01
-Bosnia-Herzegovina,IR2,1,2022-07-01
-Bosnia-Herzegovina,IR5,1,2022-07-01
-Bosnia-Herzegovina,SE,4,2022-07-01
+Bosnia and Herzegovina,CR1,1,2022-07-01
+Bosnia and Herzegovina,DV,2,2022-07-01
+Bosnia and Herzegovina,E2,2,2022-07-01
+Bosnia and Herzegovina,F4,10,2022-07-01
+Bosnia and Herzegovina,IR1,2,2022-07-01
+Bosnia and Herzegovina,IR2,1,2022-07-01
+Bosnia and Herzegovina,IR5,1,2022-07-01
+Bosnia and Herzegovina,SE,4,2022-07-01
 Brazil,CR1,21,2022-07-01
 Brazil,CR2,3,2022-07-01
 Brazil,E1,40,2022-07-01
@@ -122462,7 +122461,7 @@ Eritrea,SB1,1,2022-07-01
 Estonia,CR1,1,2022-07-01
 Estonia,E1,1,2022-07-01
 Estonia,E3,1,2022-07-01
-Eswatini,EW,1,2022-07-01
+eSwatini,EW,1,2022-07-01
 Ethiopia,CR1,6,2022-07-01
 Ethiopia,DV,89,2022-07-01
 Ethiopia,E3,1,2022-07-01
@@ -123151,7 +123150,7 @@ Saint Kitts and Nevis,IR5,1,2022-07-01
 Saint Lucia,F1,1,2022-07-01
 Saint Lucia,IR1,1,2022-07-01
 Saint Lucia,IR2,2,2022-07-01
-Saint Maarten,IR1,1,2022-07-01
+Sint Maarten,IR1,1,2022-07-01
 Saint Vincent and the Grenadines,F4,1,2022-07-01
 Saint Vincent and the Grenadines,FX,2,2022-07-01
 Samoa,IR1,1,2022-07-01
@@ -123279,22 +123278,22 @@ Syria,IR2,3,2022-07-01
 Syria,IR5,35,2022-07-01
 Syria,IW,1,2022-07-01
 Syria,SE,5,2022-07-01
-Taiwan,CR1,1,2022-07-01
-Taiwan,DV,40,2022-07-01
-Taiwan,E1,9,2022-07-01
-Taiwan,E2,3,2022-07-01
-Taiwan,E3,7,2022-07-01
-Taiwan,F1,3,2022-07-01
-Taiwan,F2B,1,2022-07-01
-Taiwan,F3,3,2022-07-01
-Taiwan,F4,25,2022-07-01
-Taiwan,FX,4,2022-07-01
-Taiwan,I5,50,2022-07-01
-Taiwan,IR1,17,2022-07-01
-Taiwan,IR2,9,2022-07-01
-Taiwan,IR3,6,2022-07-01
-Taiwan,IR5,8,2022-07-01
-Taiwan,SB1,4,2022-07-01
+China - Taiwan born,CR1,1,2022-07-01
+China - Taiwan born,DV,40,2022-07-01
+China - Taiwan born,E1,9,2022-07-01
+China - Taiwan born,E2,3,2022-07-01
+China - Taiwan born,E3,7,2022-07-01
+China - Taiwan born,F1,3,2022-07-01
+China - Taiwan born,F2B,1,2022-07-01
+China - Taiwan born,F3,3,2022-07-01
+China - Taiwan born,F4,25,2022-07-01
+China - Taiwan born,FX,4,2022-07-01
+China - Taiwan born,I5,50,2022-07-01
+China - Taiwan born,IR1,17,2022-07-01
+China - Taiwan born,IR2,9,2022-07-01
+China - Taiwan born,IR3,6,2022-07-01
+China - Taiwan born,IR5,8,2022-07-01
+China - Taiwan born,SB1,4,2022-07-01
 Tajikistan,DV,55,2022-07-01
 Tajikistan,F1,1,2022-07-01
 Tajikistan,FX,2,2022-07-01
@@ -123670,11 +123669,11 @@ Bolivia,IR1,4,2022-08-01
 Bolivia,IR2,4,2022-08-01
 Bolivia,IR5,12,2022-08-01
 Bolivia,SE,3,2022-08-01
-Bosnia-Herzegovina,CR1,1,2022-08-01
-Bosnia-Herzegovina,DV,4,2022-08-01
-Bosnia-Herzegovina,IR1,5,2022-08-01
-Bosnia-Herzegovina,IR2,1,2022-08-01
-Bosnia-Herzegovina,IR5,7,2022-08-01
+Bosnia and Herzegovina,CR1,1,2022-08-01
+Bosnia and Herzegovina,DV,4,2022-08-01
+Bosnia and Herzegovina,IR1,5,2022-08-01
+Bosnia and Herzegovina,IR2,1,2022-08-01
+Bosnia and Herzegovina,IR5,7,2022-08-01
 Botswana,DV,1,2022-08-01
 Botswana,IR1,1,2022-08-01
 Botswana,SB1,1,2022-08-01
@@ -123984,7 +123983,7 @@ Eritrea,IR2,13,2022-08-01
 Eritrea,IR5,8,2022-08-01
 Eritrea,SB1,2,2022-08-01
 Estonia,DV,4,2022-08-01
-Eswatini,E3,1,2022-08-01
+eSwatini,E3,1,2022-08-01
 Ethiopia,CR1,5,2022-08-01
 Ethiopia,DV,217,2022-08-01
 Ethiopia,E3,2,2022-08-01
@@ -124746,11 +124745,11 @@ Saint Kitts and Nevis,IR1,1,2022-08-01
 Saint Lucia,CR1,1,2022-08-01
 Saint Lucia,F1,2,2022-08-01
 Saint Lucia,IR2,2,2022-08-01
-Saint Maarten,DV,2,2022-08-01
-Saint Maarten,E3,1,2022-08-01
-Saint Maarten,FX,3,2022-08-01
-Saint Maarten,IR1,1,2022-08-01
-Saint Maarten,IR2,1,2022-08-01
+Sint Maarten,DV,2,2022-08-01
+Sint Maarten,E3,1,2022-08-01
+Sint Maarten,FX,3,2022-08-01
+Sint Maarten,IR1,1,2022-08-01
+Sint Maarten,IR2,1,2022-08-01
 Saint Martin,F4,1,2022-08-01
 Saint Vincent and the Grenadines,IR2,2,2022-08-01
 Saint Vincent and the Grenadines,IR3,1,2022-08-01
@@ -124894,23 +124893,23 @@ Syria,IR2,7,2022-08-01
 Syria,IR5,51,2022-08-01
 Syria,SB1,1,2022-08-01
 Syria,SE,3,2022-08-01
-Taiwan,CR1,5,2022-08-01
-Taiwan,DV,39,2022-08-01
-Taiwan,E1,6,2022-08-01
-Taiwan,E2,5,2022-08-01
-Taiwan,E3,8,2022-08-01
-Taiwan,F1,3,2022-08-01
-Taiwan,F2A,5,2022-08-01
-Taiwan,F2B,2,2022-08-01
-Taiwan,F3,6,2022-08-01
-Taiwan,F4,19,2022-08-01
-Taiwan,I5,41,2022-08-01
-Taiwan,IR1,17,2022-08-01
-Taiwan,IR2,8,2022-08-01
-Taiwan,IR3,5,2022-08-01
-Taiwan,IR5,18,2022-08-01
-Taiwan,IW,1,2022-08-01
-Taiwan,SB1,9,2022-08-01
+China - Taiwan born,CR1,5,2022-08-01
+China - Taiwan born,DV,39,2022-08-01
+China - Taiwan born,E1,6,2022-08-01
+China - Taiwan born,E2,5,2022-08-01
+China - Taiwan born,E3,8,2022-08-01
+China - Taiwan born,F1,3,2022-08-01
+China - Taiwan born,F2A,5,2022-08-01
+China - Taiwan born,F2B,2,2022-08-01
+China - Taiwan born,F3,6,2022-08-01
+China - Taiwan born,F4,19,2022-08-01
+China - Taiwan born,I5,41,2022-08-01
+China - Taiwan born,IR1,17,2022-08-01
+China - Taiwan born,IR2,8,2022-08-01
+China - Taiwan born,IR3,5,2022-08-01
+China - Taiwan born,IR5,18,2022-08-01
+China - Taiwan born,IW,1,2022-08-01
+China - Taiwan born,SB1,9,2022-08-01
 Tajikistan,DV,63,2022-08-01
 Tajikistan,F1,1,2022-08-01
 Tajikistan,F2A,14,2022-08-01
@@ -125275,12 +125274,12 @@ Bolivia,IR1,10,2022-09-01
 Bolivia,IR2,6,2022-09-01
 Bolivia,IR5,14,2022-09-01
 Bolivia,SE,3,2022-09-01
-Bosnia-Herzegovina,CR1,2,2022-09-01
-Bosnia-Herzegovina,DV,4,2022-09-01
-Bosnia-Herzegovina,F1,2,2022-09-01
-Bosnia-Herzegovina,F4,5,2022-09-01
-Bosnia-Herzegovina,IR1,2,2022-09-01
-Bosnia-Herzegovina,IR5,3,2022-09-01
+Bosnia and Herzegovina,CR1,2,2022-09-01
+Bosnia and Herzegovina,DV,4,2022-09-01
+Bosnia and Herzegovina,F1,2,2022-09-01
+Bosnia and Herzegovina,F4,5,2022-09-01
+Bosnia and Herzegovina,IR1,2,2022-09-01
+Bosnia and Herzegovina,IR5,3,2022-09-01
 Botswana,DV,2,2022-09-01
 Brazil,C2A,1,2022-09-01
 Brazil,CR1,24,2022-09-01
@@ -125583,7 +125582,7 @@ Eritrea,SB1,1,2022-09-01
 Eritrea,SE,1,2022-09-01
 Estonia,DV,1,2022-09-01
 Estonia,IR5,1,2022-09-01
-Eswatini,IR1,1,2022-09-01
+eSwatini,IR1,1,2022-09-01
 Ethiopia,CR1,3,2022-09-01
 Ethiopia,DV,180,2022-09-01
 Ethiopia,F1,29,2022-09-01
@@ -126421,23 +126420,23 @@ Syria,IR1,9,2022-09-01
 Syria,IR2,3,2022-09-01
 Syria,IR5,48,2022-09-01
 Syria,SE,8,2022-09-01
-Taiwan,CR1,5,2022-09-01
-Taiwan,DV,15,2022-09-01
-Taiwan,E1,1,2022-09-01
-Taiwan,E2,6,2022-09-01
-Taiwan,E3,1,2022-09-01
-Taiwan,F1,3,2022-09-01
-Taiwan,F2A,5,2022-09-01
-Taiwan,F2B,3,2022-09-01
-Taiwan,F3,11,2022-09-01
-Taiwan,F4,12,2022-09-01
-Taiwan,I5,10,2022-09-01
-Taiwan,IR1,13,2022-09-01
-Taiwan,IR2,3,2022-09-01
-Taiwan,IR3,6,2022-09-01
-Taiwan,IR5,25,2022-09-01
-Taiwan,SB1,12,2022-09-01
-Taiwan,T5,4,2022-09-01
+China - Taiwan born,CR1,5,2022-09-01
+China - Taiwan born,DV,15,2022-09-01
+China - Taiwan born,E1,1,2022-09-01
+China - Taiwan born,E2,6,2022-09-01
+China - Taiwan born,E3,1,2022-09-01
+China - Taiwan born,F1,3,2022-09-01
+China - Taiwan born,F2A,5,2022-09-01
+China - Taiwan born,F2B,3,2022-09-01
+China - Taiwan born,F3,11,2022-09-01
+China - Taiwan born,F4,12,2022-09-01
+China - Taiwan born,I5,10,2022-09-01
+China - Taiwan born,IR1,13,2022-09-01
+China - Taiwan born,IR2,3,2022-09-01
+China - Taiwan born,IR3,6,2022-09-01
+China - Taiwan born,IR5,25,2022-09-01
+China - Taiwan born,SB1,12,2022-09-01
+China - Taiwan born,T5,4,2022-09-01
 Tajikistan,CR1,1,2022-09-01
 Tajikistan,DV,303,2022-09-01
 Tajikistan,F2A,15,2022-09-01
@@ -126782,14 +126781,14 @@ Bolivia,IR1,6,2022-10-01
 Bolivia,IR2,2,2022-10-01
 Bolivia,IR5,18,2022-10-01
 Bolivia,SE,1,2022-10-01
-Bosnia-Herzegovina,CR1,3,2022-10-01
-Bosnia-Herzegovina,DV,1,2022-10-01
-Bosnia-Herzegovina,E3,3,2022-10-01
-Bosnia-Herzegovina,F3,3,2022-10-01
-Bosnia-Herzegovina,F4,8,2022-10-01
-Bosnia-Herzegovina,FX,4,2022-10-01
-Bosnia-Herzegovina,IR1,1,2022-10-01
-Bosnia-Herzegovina,IR5,7,2022-10-01
+Bosnia and Herzegovina,CR1,3,2022-10-01
+Bosnia and Herzegovina,DV,1,2022-10-01
+Bosnia and Herzegovina,E3,3,2022-10-01
+Bosnia and Herzegovina,F3,3,2022-10-01
+Bosnia and Herzegovina,F4,8,2022-10-01
+Bosnia and Herzegovina,FX,4,2022-10-01
+Bosnia and Herzegovina,IR1,1,2022-10-01
+Bosnia and Herzegovina,IR5,7,2022-10-01
 Brazil,CR1,21,2022-10-01
 Brazil,CR2,5,2022-10-01
 Brazil,E1,43,2022-10-01
@@ -127077,7 +127076,7 @@ Eritrea,SB1,2,2022-10-01
 Eritrea,SE,1,2022-10-01
 Estonia,IR1,1,2022-10-01
 Estonia,IR5,1,2022-10-01
-Eswatini,IR2,2,2022-10-01
+eSwatini,IR2,2,2022-10-01
 Ethiopia,CR1,8,2022-10-01
 Ethiopia,DV,23,2022-10-01
 Ethiopia,E2,4,2022-10-01
@@ -127809,7 +127808,7 @@ Saint Lucia,F3,1,2022-10-01
 Saint Lucia,IR1,1,2022-10-01
 Saint Lucia,IR2,4,2022-10-01
 Saint Lucia,IR5,8,2022-10-01
-Saint Maarten,FX,1,2022-10-01
+Sint Maarten,FX,1,2022-10-01
 Saint Vincent and the Grenadines,F1,2,2022-10-01
 Saint Vincent and the Grenadines,IR1,1,2022-10-01
 Saint Vincent and the Grenadines,IR2,2,2022-10-01
@@ -127950,20 +127949,20 @@ Syria,IR2,2,2022-10-01
 Syria,IR5,65,2022-10-01
 Syria,IW,2,2022-10-01
 Syria,SB1,1,2022-10-01
-Taiwan,CR1,2,2022-10-01
-Taiwan,DV,2,2022-10-01
-Taiwan,E1,5,2022-10-01
-Taiwan,E2,12,2022-10-01
-Taiwan,E3,9,2022-10-01
-Taiwan,F3,10,2022-10-01
-Taiwan,F4,24,2022-10-01
-Taiwan,FX,6,2022-10-01
-Taiwan,I5,19,2022-10-01
-Taiwan,IR1,14,2022-10-01
-Taiwan,IR2,5,2022-10-01
-Taiwan,IR3,3,2022-10-01
-Taiwan,IR5,16,2022-10-01
-Taiwan,SB1,10,2022-10-01
+China - Taiwan born,CR1,2,2022-10-01
+China - Taiwan born,DV,2,2022-10-01
+China - Taiwan born,E1,5,2022-10-01
+China - Taiwan born,E2,12,2022-10-01
+China - Taiwan born,E3,9,2022-10-01
+China - Taiwan born,F3,10,2022-10-01
+China - Taiwan born,F4,24,2022-10-01
+China - Taiwan born,FX,6,2022-10-01
+China - Taiwan born,I5,19,2022-10-01
+China - Taiwan born,IR1,14,2022-10-01
+China - Taiwan born,IR2,5,2022-10-01
+China - Taiwan born,IR3,3,2022-10-01
+China - Taiwan born,IR5,16,2022-10-01
+China - Taiwan born,SB1,10,2022-10-01
 Tajikistan,CR1,1,2022-10-01
 Tajikistan,CR2,1,2022-10-01
 Tajikistan,DV,27,2022-10-01
@@ -128339,10 +128338,10 @@ Bolivia,FX,14,2022-11-01
 Bolivia,IR1,6,2022-11-01
 Bolivia,IR2,11,2022-11-01
 Bolivia,IR5,18,2022-11-01
-Bosnia-Herzegovina,CR1,1,2022-11-01
-Bosnia-Herzegovina,F3,1,2022-11-01
-Bosnia-Herzegovina,IR1,3,2022-11-01
-Bosnia-Herzegovina,IR5,4,2022-11-01
+Bosnia and Herzegovina,CR1,1,2022-11-01
+Bosnia and Herzegovina,F3,1,2022-11-01
+Bosnia and Herzegovina,IR1,3,2022-11-01
+Bosnia and Herzegovina,IR5,4,2022-11-01
 Botswana,E2,1,2022-11-01
 Botswana,IR1,2,2022-11-01
 Brazil,CR1,16,2022-11-01
@@ -129488,22 +129487,22 @@ Syria,I5,1,2022-11-01
 Syria,IR1,24,2022-11-01
 Syria,IR2,3,2022-11-01
 Syria,IR5,79,2022-11-01
-Taiwan,CR1,6,2022-11-01
-Taiwan,E1,1,2022-11-01
-Taiwan,E2,14,2022-11-01
-Taiwan,E3,15,2022-11-01
-Taiwan,EW,4,2022-11-01
-Taiwan,F2B,1,2022-11-01
-Taiwan,F3,11,2022-11-01
-Taiwan,F4,13,2022-11-01
-Taiwan,FX,7,2022-11-01
-Taiwan,I5,47,2022-11-01
-Taiwan,IR1,13,2022-11-01
-Taiwan,IR2,1,2022-11-01
-Taiwan,IR3,4,2022-11-01
-Taiwan,IR5,19,2022-11-01
-Taiwan,SB1,5,2022-11-01
-Taiwan,SR,1,2022-11-01
+China - Taiwan born,CR1,6,2022-11-01
+China - Taiwan born,E1,1,2022-11-01
+China - Taiwan born,E2,14,2022-11-01
+China - Taiwan born,E3,15,2022-11-01
+China - Taiwan born,EW,4,2022-11-01
+China - Taiwan born,F2B,1,2022-11-01
+China - Taiwan born,F3,11,2022-11-01
+China - Taiwan born,F4,13,2022-11-01
+China - Taiwan born,FX,7,2022-11-01
+China - Taiwan born,I5,47,2022-11-01
+China - Taiwan born,IR1,13,2022-11-01
+China - Taiwan born,IR2,1,2022-11-01
+China - Taiwan born,IR3,4,2022-11-01
+China - Taiwan born,IR5,19,2022-11-01
+China - Taiwan born,SB1,5,2022-11-01
+China - Taiwan born,SR,1,2022-11-01
 Tajikistan,CR1,1,2022-11-01
 Tajikistan,DV,37,2022-11-01
 Tajikistan,FX,6,2022-11-01
@@ -129855,10 +129854,10 @@ Bolivia,FX,8,2022-12-01
 Bolivia,IR1,3,2022-12-01
 Bolivia,IR2,4,2022-12-01
 Bolivia,IR5,14,2022-12-01
-Bosnia-Herzegovina,CR1,4,2022-12-01
-Bosnia-Herzegovina,F4,4,2022-12-01
-Bosnia-Herzegovina,IR1,5,2022-12-01
-Bosnia-Herzegovina,IR5,7,2022-12-01
+Bosnia and Herzegovina,CR1,4,2022-12-01
+Bosnia and Herzegovina,F4,4,2022-12-01
+Bosnia and Herzegovina,IR1,5,2022-12-01
+Bosnia and Herzegovina,IR5,7,2022-12-01
 Botswana,IR2,1,2022-12-01
 Brazil,CR1,28,2022-12-01
 Brazil,CR2,8,2022-12-01
@@ -130835,8 +130834,8 @@ Saint Lucia,FX,5,2022-12-01
 Saint Lucia,IR1,4,2022-12-01
 Saint Lucia,IR2,6,2022-12-01
 Saint Lucia,IR5,7,2022-12-01
-Saint Maarten,CR2,1,2022-12-01
-Saint Maarten,IR2,1,2022-12-01
+Sint Maarten,CR2,1,2022-12-01
+Sint Maarten,IR2,1,2022-12-01
 Saint Vincent and the Grenadines,F1,2,2022-12-01
 Saint Vincent and the Grenadines,FX,3,2022-12-01
 Samoa,F4,2,2022-12-01
@@ -130970,21 +130969,21 @@ Syria,IR1,14,2022-12-01
 Syria,IR2,4,2022-12-01
 Syria,IR5,84,2022-12-01
 Syria,SE,5,2022-12-01
-Taiwan,CR1,1,2022-12-01
-Taiwan,E1,1,2022-12-01
-Taiwan,E2,17,2022-12-01
-Taiwan,E3,5,2022-12-01
-Taiwan,EW,1,2022-12-01
-Taiwan,F2B,1,2022-12-01
-Taiwan,F3,11,2022-12-01
-Taiwan,F4,20,2022-12-01
-Taiwan,FX,14,2022-12-01
-Taiwan,I5,23,2022-12-01
-Taiwan,IR1,13,2022-12-01
-Taiwan,IR2,4,2022-12-01
-Taiwan,IR3,5,2022-12-01
-Taiwan,IR5,21,2022-12-01
-Taiwan,SB1,8,2022-12-01
+China - Taiwan born,CR1,1,2022-12-01
+China - Taiwan born,E1,1,2022-12-01
+China - Taiwan born,E2,17,2022-12-01
+China - Taiwan born,E3,5,2022-12-01
+China - Taiwan born,EW,1,2022-12-01
+China - Taiwan born,F2B,1,2022-12-01
+China - Taiwan born,F3,11,2022-12-01
+China - Taiwan born,F4,20,2022-12-01
+China - Taiwan born,FX,14,2022-12-01
+China - Taiwan born,I5,23,2022-12-01
+China - Taiwan born,IR1,13,2022-12-01
+China - Taiwan born,IR2,4,2022-12-01
+China - Taiwan born,IR3,5,2022-12-01
+China - Taiwan born,IR5,21,2022-12-01
+China - Taiwan born,SB1,8,2022-12-01
 Tajikistan,CR1,2,2022-12-01
 Tajikistan,CR2,1,2022-12-01
 Tajikistan,DV,29,2022-12-01
@@ -131340,11 +131339,11 @@ Bolivia,FX,4,2023-01-01
 Bolivia,IR1,10,2023-01-01
 Bolivia,IR2,3,2023-01-01
 Bolivia,IR5,15,2023-01-01
-Bosnia-Herzegovina,DV,4,2023-01-01
-Bosnia-Herzegovina,FX,4,2023-01-01
-Bosnia-Herzegovina,IR1,2,2023-01-01
-Bosnia-Herzegovina,IR5,1,2023-01-01
-Bosnia-Herzegovina,SB1,1,2023-01-01
+Bosnia and Herzegovina,DV,4,2023-01-01
+Bosnia and Herzegovina,FX,4,2023-01-01
+Bosnia and Herzegovina,IR1,2,2023-01-01
+Bosnia and Herzegovina,IR5,1,2023-01-01
+Bosnia and Herzegovina,SB1,1,2023-01-01
 Botswana,F3,2,2023-01-01
 Brazil,CR1,23,2023-01-01
 Brazil,CR2,8,2023-01-01
@@ -131472,7 +131471,7 @@ China - mainland born,IR5,249,2023-01-01
 China - mainland born,IW,1,2023-01-01
 China - mainland born,SB1,10,2023-01-01
 China - mainland born,T5,1,2023-01-01
-Cocos (Keeling) Islands,DV,1,2023-01-01
+Cocos Islands,DV,1,2023-01-01
 Colombia,CR1,50,2023-01-01
 Colombia,CR2,11,2023-01-01
 Colombia,E1,1,2023-01-01
@@ -131626,7 +131625,7 @@ Eritrea,SB1,4,2023-01-01
 Eritrea,SE,1,2023-01-01
 Estonia,DV,5,2023-01-01
 Estonia,SB1,1,2023-01-01
-Eswatini,IR1,1,2023-01-01
+eSwatini,IR1,1,2023-01-01
 Ethiopia,CR1,9,2023-01-01
 Ethiopia,DV,53,2023-01-01
 Ethiopia,E3,1,2023-01-01
@@ -132327,8 +132326,8 @@ Saint Lucia,FX,4,2023-01-01
 Saint Lucia,IR1,3,2023-01-01
 Saint Lucia,IR2,6,2023-01-01
 Saint Lucia,IR5,4,2023-01-01
-Saint Maarten,F1,1,2023-01-01
-Saint Maarten,IR2,1,2023-01-01
+Sint Maarten,F1,1,2023-01-01
+Sint Maarten,IR2,1,2023-01-01
 Saint Vincent and the Grenadines,CR1,1,2023-01-01
 Saint Vincent and the Grenadines,F1,3,2023-01-01
 Saint Vincent and the Grenadines,F3,3,2023-01-01
@@ -132462,23 +132461,23 @@ Syria,FX,8,2023-01-01
 Syria,IR1,31,2023-01-01
 Syria,IR2,3,2023-01-01
 Syria,IR5,150,2023-01-01
-Taiwan,CR1,4,2023-01-01
-Taiwan,DV,5,2023-01-01
-Taiwan,E1,2,2023-01-01
-Taiwan,E2,4,2023-01-01
-Taiwan,E3,8,2023-01-01
-Taiwan,EW,4,2023-01-01
-Taiwan,F1,2,2023-01-01
-Taiwan,F2B,1,2023-01-01
-Taiwan,F3,2,2023-01-01
-Taiwan,F4,10,2023-01-01
-Taiwan,FX,7,2023-01-01
-Taiwan,I5,20,2023-01-01
-Taiwan,IR1,21,2023-01-01
-Taiwan,IR2,5,2023-01-01
-Taiwan,IR3,4,2023-01-01
-Taiwan,IR5,21,2023-01-01
-Taiwan,SB1,9,2023-01-01
+China - Taiwan born,CR1,4,2023-01-01
+China - Taiwan born,DV,5,2023-01-01
+China - Taiwan born,E1,2,2023-01-01
+China - Taiwan born,E2,4,2023-01-01
+China - Taiwan born,E3,8,2023-01-01
+China - Taiwan born,EW,4,2023-01-01
+China - Taiwan born,F1,2,2023-01-01
+China - Taiwan born,F2B,1,2023-01-01
+China - Taiwan born,F3,2,2023-01-01
+China - Taiwan born,F4,10,2023-01-01
+China - Taiwan born,FX,7,2023-01-01
+China - Taiwan born,I5,20,2023-01-01
+China - Taiwan born,IR1,21,2023-01-01
+China - Taiwan born,IR2,5,2023-01-01
+China - Taiwan born,IR3,4,2023-01-01
+China - Taiwan born,IR5,21,2023-01-01
+China - Taiwan born,SB1,9,2023-01-01
 Tajikistan,CR2,1,2023-01-01
 Tajikistan,DV,146,2023-01-01
 Tajikistan,FX,8,2023-01-01
@@ -132835,11 +132834,11 @@ Bolivia,FX,7,2023-02-01
 Bolivia,IR1,6,2023-02-01
 Bolivia,IR2,4,2023-02-01
 Bolivia,IR5,23,2023-02-01
-Bosnia-Herzegovina,DV,6,2023-02-01
-Bosnia-Herzegovina,E3,4,2023-02-01
-Bosnia-Herzegovina,IR1,5,2023-02-01
-Bosnia-Herzegovina,IR2,1,2023-02-01
-Bosnia-Herzegovina,IR5,7,2023-02-01
+Bosnia and Herzegovina,DV,6,2023-02-01
+Bosnia and Herzegovina,E3,4,2023-02-01
+Bosnia and Herzegovina,IR1,5,2023-02-01
+Bosnia and Herzegovina,IR2,1,2023-02-01
+Bosnia and Herzegovina,IR5,7,2023-02-01
 Brazil,CR1,16,2023-02-01
 Brazil,CR2,1,2023-02-01
 Brazil,E1,12,2023-02-01
@@ -133961,23 +133960,23 @@ Syria,FX,17,2023-02-01
 Syria,IR1,25,2023-02-01
 Syria,IR2,7,2023-02-01
 Syria,IR5,103,2023-02-01
-Taiwan,CR1,4,2023-02-01
-Taiwan,DV,27,2023-02-01
-Taiwan,E1,1,2023-02-01
-Taiwan,E2,18,2023-02-01
-Taiwan,E3,8,2023-02-01
-Taiwan,EW,1,2023-02-01
-Taiwan,F1,4,2023-02-01
-Taiwan,F3,8,2023-02-01
-Taiwan,F4,21,2023-02-01
-Taiwan,FX,5,2023-02-01
-Taiwan,I5,24,2023-02-01
-Taiwan,IR1,13,2023-02-01
-Taiwan,IR2,3,2023-02-01
-Taiwan,IR3,6,2023-02-01
-Taiwan,IR5,29,2023-02-01
-Taiwan,SB1,9,2023-02-01
-Taiwan,SR,1,2023-02-01
+China - Taiwan born,CR1,4,2023-02-01
+China - Taiwan born,DV,27,2023-02-01
+China - Taiwan born,E1,1,2023-02-01
+China - Taiwan born,E2,18,2023-02-01
+China - Taiwan born,E3,8,2023-02-01
+China - Taiwan born,EW,1,2023-02-01
+China - Taiwan born,F1,4,2023-02-01
+China - Taiwan born,F3,8,2023-02-01
+China - Taiwan born,F4,21,2023-02-01
+China - Taiwan born,FX,5,2023-02-01
+China - Taiwan born,I5,24,2023-02-01
+China - Taiwan born,IR1,13,2023-02-01
+China - Taiwan born,IR2,3,2023-02-01
+China - Taiwan born,IR3,6,2023-02-01
+China - Taiwan born,IR5,29,2023-02-01
+China - Taiwan born,SB1,9,2023-02-01
+China - Taiwan born,SR,1,2023-02-01
 Tajikistan,DV,148,2023-02-01
 Tajikistan,FX,15,2023-02-01
 Tajikistan,IR1,3,2023-02-01
@@ -134357,11 +134356,11 @@ Bolivia,FX,11,2023-03-01
 Bolivia,IR1,12,2023-03-01
 Bolivia,IR2,8,2023-03-01
 Bolivia,IR5,17,2023-03-01
-Bosnia-Herzegovina,DV,7,2023-03-01
-Bosnia-Herzegovina,F4,3,2023-03-01
-Bosnia-Herzegovina,FX,1,2023-03-01
-Bosnia-Herzegovina,IR1,4,2023-03-01
-Bosnia-Herzegovina,IR5,1,2023-03-01
+Bosnia and Herzegovina,DV,7,2023-03-01
+Bosnia and Herzegovina,F4,3,2023-03-01
+Bosnia and Herzegovina,FX,1,2023-03-01
+Bosnia and Herzegovina,IR1,4,2023-03-01
+Bosnia and Herzegovina,IR5,1,2023-03-01
 Botswana,IR3,1,2023-03-01
 Brazil,CR1,42,2023-03-01
 Brazil,CR2,10,2023-03-01
@@ -135407,7 +135406,7 @@ Saint Lucia,F2B,3,2023-03-01
 Saint Lucia,FX,4,2023-03-01
 Saint Lucia,IR1,1,2023-03-01
 Saint Lucia,IR5,3,2023-03-01
-Saint Maarten,FX,1,2023-03-01
+Sint Maarten,FX,1,2023-03-01
 Saint Vincent and the Grenadines,E3,1,2023-03-01
 Saint Vincent and the Grenadines,F1,1,2023-03-01
 Saint Vincent and the Grenadines,FX,3,2023-03-01
@@ -135555,23 +135554,23 @@ Syria,FX,8,2023-03-01
 Syria,IR1,25,2023-03-01
 Syria,IR2,4,2023-03-01
 Syria,IR5,90,2023-03-01
-Taiwan,CR1,5,2023-03-01
-Taiwan,DV,27,2023-03-01
-Taiwan,E1,2,2023-03-01
-Taiwan,E2,11,2023-03-01
-Taiwan,E3,10,2023-03-01
-Taiwan,F1,2,2023-03-01
-Taiwan,F2A,1,2023-03-01
-Taiwan,F2B,1,2023-03-01
-Taiwan,F3,6,2023-03-01
-Taiwan,F4,10,2023-03-01
-Taiwan,FX,7,2023-03-01
-Taiwan,I5,23,2023-03-01
-Taiwan,IR1,24,2023-03-01
-Taiwan,IR2,3,2023-03-01
-Taiwan,IR3,5,2023-03-01
-Taiwan,IR5,41,2023-03-01
-Taiwan,SB1,13,2023-03-01
+China - Taiwan born,CR1,5,2023-03-01
+China - Taiwan born,DV,27,2023-03-01
+China - Taiwan born,E1,2,2023-03-01
+China - Taiwan born,E2,11,2023-03-01
+China - Taiwan born,E3,10,2023-03-01
+China - Taiwan born,F1,2,2023-03-01
+China - Taiwan born,F2A,1,2023-03-01
+China - Taiwan born,F2B,1,2023-03-01
+China - Taiwan born,F3,6,2023-03-01
+China - Taiwan born,F4,10,2023-03-01
+China - Taiwan born,FX,7,2023-03-01
+China - Taiwan born,I5,23,2023-03-01
+China - Taiwan born,IR1,24,2023-03-01
+China - Taiwan born,IR2,3,2023-03-01
+China - Taiwan born,IR3,5,2023-03-01
+China - Taiwan born,IR5,41,2023-03-01
+China - Taiwan born,SB1,13,2023-03-01
 Tajikistan,DV,94,2023-03-01
 Tajikistan,FX,5,2023-03-01
 Tajikistan,IR1,2,2023-03-01
@@ -135937,10 +135936,10 @@ Bolivia,IR1,7,2023-04-01
 Bolivia,IR2,12,2023-04-01
 Bolivia,IR5,15,2023-04-01
 Bolivia,SB1,1,2023-04-01
-Bosnia-Herzegovina,DV,10,2023-04-01
-Bosnia-Herzegovina,E3,4,2023-04-01
-Bosnia-Herzegovina,IR1,5,2023-04-01
-Bosnia-Herzegovina,IR5,10,2023-04-01
+Bosnia and Herzegovina,DV,10,2023-04-01
+Bosnia and Herzegovina,E3,4,2023-04-01
+Bosnia and Herzegovina,IR1,5,2023-04-01
+Bosnia and Herzegovina,IR5,10,2023-04-01
 Botswana,EW,1,2023-04-01
 Brazil,CR1,10,2023-04-01
 Brazil,CR2,3,2023-04-01
@@ -136911,7 +136910,7 @@ Saint Lucia,F2A,1,2023-04-01
 Saint Lucia,IR1,1,2023-04-01
 Saint Lucia,IR2,7,2023-04-01
 Saint Lucia,IR5,2,2023-04-01
-Saint Maarten,IR2,2,2023-04-01
+Sint Maarten,IR2,2,2023-04-01
 Saint Martin,IR2,1,2023-04-01
 Saint Vincent and the Grenadines,F1,2,2023-04-01
 Saint Vincent and the Grenadines,F2A,1,2023-04-01
@@ -137048,23 +137047,23 @@ Syria,F4,39,2023-04-01
 Syria,IR1,25,2023-04-01
 Syria,IR2,2,2023-04-01
 Syria,IR5,80,2023-04-01
-Taiwan,CR1,7,2023-04-01
-Taiwan,DV,13,2023-04-01
-Taiwan,E1,2,2023-04-01
-Taiwan,E2,16,2023-04-01
-Taiwan,E3,3,2023-04-01
-Taiwan,F1,2,2023-04-01
-Taiwan,F2A,2,2023-04-01
-Taiwan,F3,10,2023-04-01
-Taiwan,F4,21,2023-04-01
-Taiwan,FX,1,2023-04-01
-Taiwan,I5,24,2023-04-01
-Taiwan,IR1,15,2023-04-01
-Taiwan,IR2,6,2023-04-01
-Taiwan,IR3,3,2023-04-01
-Taiwan,IR5,25,2023-04-01
-Taiwan,IW,1,2023-04-01
-Taiwan,SB1,9,2023-04-01
+China - Taiwan born,CR1,7,2023-04-01
+China - Taiwan born,DV,13,2023-04-01
+China - Taiwan born,E1,2,2023-04-01
+China - Taiwan born,E2,16,2023-04-01
+China - Taiwan born,E3,3,2023-04-01
+China - Taiwan born,F1,2,2023-04-01
+China - Taiwan born,F2A,2,2023-04-01
+China - Taiwan born,F3,10,2023-04-01
+China - Taiwan born,F4,21,2023-04-01
+China - Taiwan born,FX,1,2023-04-01
+China - Taiwan born,I5,24,2023-04-01
+China - Taiwan born,IR1,15,2023-04-01
+China - Taiwan born,IR2,6,2023-04-01
+China - Taiwan born,IR3,3,2023-04-01
+China - Taiwan born,IR5,25,2023-04-01
+China - Taiwan born,IW,1,2023-04-01
+China - Taiwan born,SB1,9,2023-04-01
 Tajikistan,CR1,5,2023-04-01
 Tajikistan,DV,280,2023-04-01
 Tajikistan,F3,3,2023-04-01
@@ -137434,15 +137433,15 @@ Bolivia,I5,4,2023-05-01
 Bolivia,IR1,8,2023-05-01
 Bolivia,IR2,7,2023-05-01
 Bolivia,IR5,14,2023-05-01
-Bosnia-Herzegovina,CR1,8,2023-05-01
-Bosnia-Herzegovina,DV,2,2023-05-01
-Bosnia-Herzegovina,E3,1,2023-05-01
-Bosnia-Herzegovina,F1,1,2023-05-01
-Bosnia-Herzegovina,F2A,1,2023-05-01
-Bosnia-Herzegovina,F4,4,2023-05-01
-Bosnia-Herzegovina,IR1,4,2023-05-01
-Bosnia-Herzegovina,IR2,1,2023-05-01
-Bosnia-Herzegovina,IR5,4,2023-05-01
+Bosnia and Herzegovina,CR1,8,2023-05-01
+Bosnia and Herzegovina,DV,2,2023-05-01
+Bosnia and Herzegovina,E3,1,2023-05-01
+Bosnia and Herzegovina,F1,1,2023-05-01
+Bosnia and Herzegovina,F2A,1,2023-05-01
+Bosnia and Herzegovina,F4,4,2023-05-01
+Bosnia and Herzegovina,IR1,4,2023-05-01
+Bosnia and Herzegovina,IR2,1,2023-05-01
+Bosnia and Herzegovina,IR5,4,2023-05-01
 Brazil,CR1,24,2023-05-01
 Brazil,CR2,8,2023-05-01
 Brazil,E1,80,2023-05-01
@@ -137557,27 +137556,27 @@ Chile,F3,2,2023-05-01
 Chile,IR1,6,2023-05-01
 Chile,IR2,1,2023-05-01
 Chile,IR5,7,2023-05-01
-China – mainland born,B2A,1,2023-05-01
-China – mainland born,C5,1,2023-05-01
-China – mainland born,CR1,11,2023-05-01
-China – mainland born,CR2,3,2023-05-01
-China – mainland born,E1,176,2023-05-01
-China – mainland born,E2,38,2023-05-01
-China – mainland born,E3,84,2023-05-01
-China – mainland born,EW,17,2023-05-01
-China – mainland born,F1,17,2023-05-01
-China – mainland born,F2A,88,2023-05-01
-China – mainland born,F2B,32,2023-05-01
-China – mainland born,F3,15,2023-05-01
-China – mainland born,F4,146,2023-05-01
-China – mainland born,FX,47,2023-05-01
-China – mainland born,I5,827,2023-05-01
-China – mainland born,IH3,1,2023-05-01
-China – mainland born,IR1,104,2023-05-01
-China – mainland born,IR2,37,2023-05-01
-China – mainland born,IR5,553,2023-05-01
-China – mainland born,SB1,12,2023-05-01
-China – mainland born,T5,12,2023-05-01
+China - mainland born,B2A,1,2023-05-01
+China - mainland born,C5,1,2023-05-01
+China - mainland born,CR1,11,2023-05-01
+China - mainland born,CR2,3,2023-05-01
+China - mainland born,E1,176,2023-05-01
+China - mainland born,E2,38,2023-05-01
+China - mainland born,E3,84,2023-05-01
+China - mainland born,EW,17,2023-05-01
+China - mainland born,F1,17,2023-05-01
+China - mainland born,F2A,88,2023-05-01
+China - mainland born,F2B,32,2023-05-01
+China - mainland born,F3,15,2023-05-01
+China - mainland born,F4,146,2023-05-01
+China - mainland born,FX,47,2023-05-01
+China - mainland born,I5,827,2023-05-01
+China - mainland born,IH3,1,2023-05-01
+China - mainland born,IR1,104,2023-05-01
+China - mainland born,IR2,37,2023-05-01
+China - mainland born,IR5,553,2023-05-01
+China - mainland born,SB1,12,2023-05-01
+China - mainland born,T5,12,2023-05-01
 Colombia,CR1,69,2023-05-01
 Colombia,CR2,12,2023-05-01
 Colombia,E1,5,2023-05-01
@@ -138453,8 +138452,8 @@ Saint Lucia,E3,1,2023-05-01
 Saint Lucia,IR1,3,2023-05-01
 Saint Lucia,IR2,3,2023-05-01
 Saint Lucia,IR5,7,2023-05-01
-Saint Maarten,FX,1,2023-05-01
-Saint Maarten,SB1,1,2023-05-01
+Sint Maarten,FX,1,2023-05-01
+Sint Maarten,SB1,1,2023-05-01
 Saint Martin,CR1,1,2023-05-01
 Saint Martin,FX,1,2023-05-01
 Saint Vincent and the Grenadines,F1,1,2023-05-01
@@ -138590,23 +138589,23 @@ Syria,IR1,29,2023-05-01
 Syria,IR2,7,2023-05-01
 Syria,IR5,87,2023-05-01
 Syria,SI3,1,2023-05-01
-Taiwan,CR1,7,2023-05-01
-Taiwan,DV,9,2023-05-01
-Taiwan,E1,7,2023-05-01
-Taiwan,E2,17,2023-05-01
-Taiwan,E3,4,2023-05-01
-Taiwan,EW,3,2023-05-01
-Taiwan,F2A,4,2023-05-01
-Taiwan,F3,5,2023-05-01
-Taiwan,F4,20,2023-05-01
-Taiwan,FX,1,2023-05-01
-Taiwan,I5,14,2023-05-01
-Taiwan,IR1,23,2023-05-01
-Taiwan,IR2,10,2023-05-01
-Taiwan,IR3,9,2023-05-01
-Taiwan,IR5,31,2023-05-01
-Taiwan,SB1,8,2023-05-01
-Taiwan,T5,1,2023-05-01
+China - Taiwan born,CR1,7,2023-05-01
+China - Taiwan born,DV,9,2023-05-01
+China - Taiwan born,E1,7,2023-05-01
+China - Taiwan born,E2,17,2023-05-01
+China - Taiwan born,E3,4,2023-05-01
+China - Taiwan born,EW,3,2023-05-01
+China - Taiwan born,F2A,4,2023-05-01
+China - Taiwan born,F3,5,2023-05-01
+China - Taiwan born,F4,20,2023-05-01
+China - Taiwan born,FX,1,2023-05-01
+China - Taiwan born,I5,14,2023-05-01
+China - Taiwan born,IR1,23,2023-05-01
+China - Taiwan born,IR2,10,2023-05-01
+China - Taiwan born,IR3,9,2023-05-01
+China - Taiwan born,IR5,31,2023-05-01
+China - Taiwan born,SB1,8,2023-05-01
+China - Taiwan born,T5,1,2023-05-01
 Tajikistan,CR1,1,2023-05-01
 Tajikistan,DV,294,2023-05-01
 Tajikistan,IB1,3,2023-05-01
@@ -138951,11 +138950,11 @@ Bolivia,F4,3,2023-06-01
 Bolivia,IR1,5,2023-06-01
 Bolivia,IR2,14,2023-06-01
 Bolivia,IR5,13,2023-06-01
-Bosnia-Herzegovina,CR1,3,2023-06-01
-Bosnia-Herzegovina,DV,2,2023-06-01
-Bosnia-Herzegovina,E3,1,2023-06-01
-Bosnia-Herzegovina,IR1,5,2023-06-01
-Bosnia-Herzegovina,IR5,2,2023-06-01
+Bosnia and Herzegovina,CR1,3,2023-06-01
+Bosnia and Herzegovina,DV,2,2023-06-01
+Bosnia and Herzegovina,E3,1,2023-06-01
+Bosnia and Herzegovina,IR1,5,2023-06-01
+Bosnia and Herzegovina,IR5,2,2023-06-01
 Brazil,CR1,26,2023-06-01
 Brazil,CR2,9,2023-06-01
 Brazil,E1,10,2023-06-01
@@ -139937,7 +139936,7 @@ Saint Lucia,IR1,1,2023-06-01
 Saint Lucia,IR2,1,2023-06-01
 Saint Lucia,IR4,2,2023-06-01
 Saint Lucia,IR5,4,2023-06-01
-Saint Maarten,F1,2,2023-06-01
+Sint Maarten,F1,2,2023-06-01
 Saint Vincent and the Grenadines,E3,1,2023-06-01
 Saint Vincent and the Grenadines,F1,5,2023-06-01
 Saint Vincent and the Grenadines,F2A,2,2023-06-01
@@ -140082,22 +140081,22 @@ Syria,IR1,13,2023-06-01
 Syria,IR2,7,2023-06-01
 Syria,IR5,37,2023-06-01
 Syria,SB1,1,2023-06-01
-Taiwan,CR1,4,2023-06-01
-Taiwan,DV,3,2023-06-01
-Taiwan,E1,1,2023-06-01
-Taiwan,E2,1,2023-06-01
-Taiwan,E3,1,2023-06-01
-Taiwan,EW,8,2023-06-01
-Taiwan,F1,6,2023-06-01
-Taiwan,F2A,9,2023-06-01
-Taiwan,F2B,1,2023-06-01
-Taiwan,F4,26,2023-06-01
-Taiwan,FX,1,2023-06-01
-Taiwan,I5,15,2023-06-01
-Taiwan,IR1,15,2023-06-01
-Taiwan,IR2,6,2023-06-01
-Taiwan,IR5,32,2023-06-01
-Taiwan,SB1,7,2023-06-01
+China - Taiwan born,CR1,4,2023-06-01
+China - Taiwan born,DV,3,2023-06-01
+China - Taiwan born,E1,1,2023-06-01
+China - Taiwan born,E2,1,2023-06-01
+China - Taiwan born,E3,1,2023-06-01
+China - Taiwan born,EW,8,2023-06-01
+China - Taiwan born,F1,6,2023-06-01
+China - Taiwan born,F2A,9,2023-06-01
+China - Taiwan born,F2B,1,2023-06-01
+China - Taiwan born,F4,26,2023-06-01
+China - Taiwan born,FX,1,2023-06-01
+China - Taiwan born,I5,15,2023-06-01
+China - Taiwan born,IR1,15,2023-06-01
+China - Taiwan born,IR2,6,2023-06-01
+China - Taiwan born,IR5,32,2023-06-01
+China - Taiwan born,SB1,7,2023-06-01
 Tajikistan,CR1,1,2023-06-01
 Tajikistan,DV,255,2023-06-01
 Tajikistan,F1,2,2023-06-01
@@ -140430,10 +140429,10 @@ Bolivia,F3,9,2023-07-01
 Bolivia,IR1,9,2023-07-01
 Bolivia,IR2,10,2023-07-01
 Bolivia,IR5,9,2023-07-01
-Bosnia-Herzegovina,CR1,1,2023-07-01
-Bosnia-Herzegovina,CR2,1,2023-07-01
-Bosnia-Herzegovina,DV,1,2023-07-01
-Bosnia-Herzegovina,IR5,3,2023-07-01
+Bosnia and Herzegovina,CR1,1,2023-07-01
+Bosnia and Herzegovina,CR2,1,2023-07-01
+Bosnia and Herzegovina,DV,1,2023-07-01
+Bosnia and Herzegovina,IR5,3,2023-07-01
 Brazil,CR1,27,2023-07-01
 Brazil,CR2,5,2023-07-01
 Brazil,E1,10,2023-07-01
@@ -140561,25 +140560,25 @@ Chile,F4,2,2023-07-01
 Chile,IR1,6,2023-07-01
 Chile,IR2,2,2023-07-01
 Chile,IR5,8,2023-07-01
-China – mainland born,CR1,3,2023-07-01
-China – mainland born,CR2,1,2023-07-01
-China – mainland born,E1,52,2023-07-01
-China – mainland born,E2,32,2023-07-01
-China – mainland born,E3,14,2023-07-01
-China – mainland born,EW,14,2023-07-01
-China – mainland born,F1,7,2023-07-01
-China – mainland born,F2A,37,2023-07-01
-China – mainland born,F2B,7,2023-07-01
-China – mainland born,F3,17,2023-07-01
-China – mainland born,F4,91,2023-07-01
-China – mainland born,FX,16,2023-07-01
-China – mainland born,I5,661,2023-07-01
-China – mainland born,IH3,3,2023-07-01
-China – mainland born,IR1,48,2023-07-01
-China – mainland born,IR2,25,2023-07-01
-China – mainland born,IR5,242,2023-07-01
-China – mainland born,IW,2,2023-07-01
-China – mainland born,SB1,6,2023-07-01
+China - mainland born,CR1,3,2023-07-01
+China - mainland born,CR2,1,2023-07-01
+China - mainland born,E1,52,2023-07-01
+China - mainland born,E2,32,2023-07-01
+China - mainland born,E3,14,2023-07-01
+China - mainland born,EW,14,2023-07-01
+China - mainland born,F1,7,2023-07-01
+China - mainland born,F2A,37,2023-07-01
+China - mainland born,F2B,7,2023-07-01
+China - mainland born,F3,17,2023-07-01
+China - mainland born,F4,91,2023-07-01
+China - mainland born,FX,16,2023-07-01
+China - mainland born,I5,661,2023-07-01
+China - mainland born,IH3,3,2023-07-01
+China - mainland born,IR1,48,2023-07-01
+China - mainland born,IR2,25,2023-07-01
+China - mainland born,IR5,242,2023-07-01
+China - mainland born,IW,2,2023-07-01
+China - mainland born,SB1,6,2023-07-01
 Colombia,CR1,75,2023-07-01
 Colombia,CR2,18,2023-07-01
 Colombia,E1,4,2023-07-01
@@ -140745,8 +140744,8 @@ Eritrea,IR5,9,2023-07-01
 Eritrea,IW,1,2023-07-01
 Eritrea,SD,3,2023-07-01
 Estonia,IR5,1,2023-07-01
-Eswatini,CR1,1,2023-07-01
-Eswatini,IR1,1,2023-07-01
+eSwatini,CR1,1,2023-07-01
+eSwatini,IR1,1,2023-07-01
 Ethiopia,CR1,4,2023-07-01
 Ethiopia,CR2,3,2023-07-01
 Ethiopia,DV,67,2023-07-01
@@ -141587,20 +141586,20 @@ Syria,IR1,24,2023-07-01
 Syria,IR2,3,2023-07-01
 Syria,IR5,74,2023-07-01
 Syria,IW,2,2023-07-01
-Taiwan,CR1,6,2023-07-01
-Taiwan,DV,6,2023-07-01
-Taiwan,E1,20,2023-07-01
-Taiwan,E3,2,2023-07-01
-Taiwan,F1,2,2023-07-01
-Taiwan,F2A,1,2023-07-01
-Taiwan,F3,2,2023-07-01
-Taiwan,F4,7,2023-07-01
-Taiwan,I5,21,2023-07-01
-Taiwan,IR1,17,2023-07-01
-Taiwan,IR2,3,2023-07-01
-Taiwan,IR3,2,2023-07-01
-Taiwan,IR5,11,2023-07-01
-Taiwan,SB1,8,2023-07-01
+China - Taiwan born,CR1,6,2023-07-01
+China - Taiwan born,DV,6,2023-07-01
+China - Taiwan born,E1,20,2023-07-01
+China - Taiwan born,E3,2,2023-07-01
+China - Taiwan born,F1,2,2023-07-01
+China - Taiwan born,F2A,1,2023-07-01
+China - Taiwan born,F3,2,2023-07-01
+China - Taiwan born,F4,7,2023-07-01
+China - Taiwan born,I5,21,2023-07-01
+China - Taiwan born,IR1,17,2023-07-01
+China - Taiwan born,IR2,3,2023-07-01
+China - Taiwan born,IR3,2,2023-07-01
+China - Taiwan born,IR5,11,2023-07-01
+China - Taiwan born,SB1,8,2023-07-01
 Tajikistan,CR1,1,2023-07-01
 Tajikistan,DV,274,2023-07-01
 Tajikistan,E1,6,2023-07-01
@@ -141926,9 +141925,9 @@ Bolivia,IR1,7,2023-08-01
 Bolivia,IR2,10,2023-08-01
 Bolivia,IR5,21,2023-08-01
 Bolivia,IW,1,2023-08-01
-Bosnia-Herzegovina,CR1,2,2023-08-01
-Bosnia-Herzegovina,IR1,5,2023-08-01
-Bosnia-Herzegovina,IR5,4,2023-08-01
+Bosnia and Herzegovina,CR1,2,2023-08-01
+Bosnia and Herzegovina,IR1,5,2023-08-01
+Bosnia and Herzegovina,IR5,4,2023-08-01
 Brazil,CR1,45,2023-08-01
 Brazil,CR2,10,2023-08-01
 Brazil,E1,13,2023-08-01
@@ -142030,26 +142029,26 @@ Chile,IR2,3,2023-08-01
 Chile,IR5,3,2023-08-01
 Chile,IW,1,2023-08-01
 Chile,SB1,2,2023-08-01
-China – mainland born,C5,6,2023-08-01
-China – mainland born,CR1,8,2023-08-01
-China – mainland born,CR2,2,2023-08-01
-China – mainland born,E1,64,2023-08-01
-China – mainland born,E2,18,2023-08-01
-China – mainland born,E3,14,2023-08-01
-China – mainland born,EW,37,2023-08-01
-China – mainland born,F1,7,2023-08-01
-China – mainland born,F2A,9,2023-08-01
-China – mainland born,F2B,2,2023-08-01
-China – mainland born,F3,13,2023-08-01
-China – mainland born,F4,118,2023-08-01
-China – mainland born,I5,967,2023-08-01
-China – mainland born,IH3,7,2023-08-01
-China – mainland born,IR1,62,2023-08-01
-China – mainland born,IR2,31,2023-08-01
-China – mainland born,IR5,297,2023-08-01
-China – mainland born,R5,1,2023-08-01
-China – mainland born,SB1,24,2023-08-01
-China – mainland born,T5,14,2023-08-01
+China - mainland born,C5,6,2023-08-01
+China - mainland born,CR1,8,2023-08-01
+China - mainland born,CR2,2,2023-08-01
+China - mainland born,E1,64,2023-08-01
+China - mainland born,E2,18,2023-08-01
+China - mainland born,E3,14,2023-08-01
+China - mainland born,EW,37,2023-08-01
+China - mainland born,F1,7,2023-08-01
+China - mainland born,F2A,9,2023-08-01
+China - mainland born,F2B,2,2023-08-01
+China - mainland born,F3,13,2023-08-01
+China - mainland born,F4,118,2023-08-01
+China - mainland born,I5,967,2023-08-01
+China - mainland born,IH3,7,2023-08-01
+China - mainland born,IR1,62,2023-08-01
+China - mainland born,IR2,31,2023-08-01
+China - mainland born,IR5,297,2023-08-01
+China - mainland born,R5,1,2023-08-01
+China - mainland born,SB1,24,2023-08-01
+China - mainland born,T5,14,2023-08-01
 Colombia,CR1,90,2023-08-01
 Colombia,CR2,31,2023-08-01
 Colombia,E1,8,2023-08-01
@@ -142198,7 +142197,7 @@ Eritrea,IW,2,2023-08-01
 Estonia,CR1,2,2023-08-01
 Estonia,IR1,1,2023-08-01
 Estonia,IR2,2,2023-08-01
-Eswatini,IR1,1,2023-08-01
+eSwatini,IR1,1,2023-08-01
 Ethiopia,CR1,2,2023-08-01
 Ethiopia,DV,64,2023-08-01
 Ethiopia,F1,23,2023-08-01
@@ -142842,7 +142841,7 @@ Saint Lucia,F4,4,2023-08-01
 Saint Lucia,IR1,4,2023-08-01
 Saint Lucia,IR2,3,2023-08-01
 Saint Lucia,IR5,7,2023-08-01
-Saint Maarten,F2B,1,2023-08-01
+Sint Maarten,F2B,1,2023-08-01
 Saint Martin,F1,2,2023-08-01
 Saint Vincent and the Grenadines,CR1,2,2023-08-01
 Saint Vincent and the Grenadines,F1,2,2023-08-01
@@ -142962,19 +142961,19 @@ Syria,FX,1,2023-08-01
 Syria,IR1,21,2023-08-01
 Syria,IR2,4,2023-08-01
 Syria,IR5,86,2023-08-01
-Taiwan,CR1,7,2023-08-01
-Taiwan,DV,2,2023-08-01
-Taiwan,E1,1,2023-08-01
-Taiwan,E2,11,2023-08-01
-Taiwan,E3,1,2023-08-01
-Taiwan,F3,6,2023-08-01
-Taiwan,F4,22,2023-08-01
-Taiwan,I5,20,2023-08-01
-Taiwan,IR1,17,2023-08-01
-Taiwan,IR2,5,2023-08-01
-Taiwan,IR3,10,2023-08-01
-Taiwan,IR5,26,2023-08-01
-Taiwan,SB1,8,2023-08-01
+China - Taiwan born,CR1,7,2023-08-01
+China - Taiwan born,DV,2,2023-08-01
+China - Taiwan born,E1,1,2023-08-01
+China - Taiwan born,E2,11,2023-08-01
+China - Taiwan born,E3,1,2023-08-01
+China - Taiwan born,F3,6,2023-08-01
+China - Taiwan born,F4,22,2023-08-01
+China - Taiwan born,I5,20,2023-08-01
+China - Taiwan born,IR1,17,2023-08-01
+China - Taiwan born,IR2,5,2023-08-01
+China - Taiwan born,IR3,10,2023-08-01
+China - Taiwan born,IR5,26,2023-08-01
+China - Taiwan born,SB1,8,2023-08-01
 Tajikistan,CR1,1,2023-08-01
 Tajikistan,DV,162,2023-08-01
 Tajikistan,IR1,2,2023-08-01
@@ -143298,10 +143297,10 @@ Bolivia,I5,2,2023-09-01
 Bolivia,IR1,5,2023-09-01
 Bolivia,IR2,6,2023-09-01
 Bolivia,IR5,14,2023-09-01
-Bosnia-Herzegovina,CR1,1,2023-09-01
-Bosnia-Herzegovina,E1,1,2023-09-01
-Bosnia-Herzegovina,IR1,4,2023-09-01
-Bosnia-Herzegovina,IR5,3,2023-09-01
+Bosnia and Herzegovina,CR1,1,2023-09-01
+Bosnia and Herzegovina,E1,1,2023-09-01
+Bosnia and Herzegovina,IR1,4,2023-09-01
+Bosnia and Herzegovina,IR5,3,2023-09-01
 Brazil,CR1,19,2023-09-01
 Brazil,CR2,5,2023-09-01
 Brazil,E1,26,2023-09-01
@@ -144363,21 +144362,21 @@ Syria,F4,7,2023-09-01
 Syria,IR1,17,2023-09-01
 Syria,IR2,4,2023-09-01
 Syria,IR5,64,2023-09-01
-Taiwan,CR1,5,2023-09-01
-Taiwan,DV,1,2023-09-01
-Taiwan,E1,7,2023-09-01
-Taiwan,E2,16,2023-09-01
-Taiwan,E3,3,2023-09-01
-Taiwan,EW,1,2023-09-01
-Taiwan,F1,1,2023-09-01
-Taiwan,F3,3,2023-09-01
-Taiwan,F4,10,2023-09-01
-Taiwan,IR1,9,2023-09-01
-Taiwan,IR2,2,2023-09-01
-Taiwan,IR3,7,2023-09-01
-Taiwan,IR5,21,2023-09-01
-Taiwan,IW,1,2023-09-01
-Taiwan,SB1,3,2023-09-01
+China - Taiwan born,CR1,5,2023-09-01
+China - Taiwan born,DV,1,2023-09-01
+China - Taiwan born,E1,7,2023-09-01
+China - Taiwan born,E2,16,2023-09-01
+China - Taiwan born,E3,3,2023-09-01
+China - Taiwan born,EW,1,2023-09-01
+China - Taiwan born,F1,1,2023-09-01
+China - Taiwan born,F3,3,2023-09-01
+China - Taiwan born,F4,10,2023-09-01
+China - Taiwan born,IR1,9,2023-09-01
+China - Taiwan born,IR2,2,2023-09-01
+China - Taiwan born,IR3,7,2023-09-01
+China - Taiwan born,IR5,21,2023-09-01
+China - Taiwan born,IW,1,2023-09-01
+China - Taiwan born,SB1,3,2023-09-01
 Tajikistan,DV,40,2023-09-01
 Tajikistan,IR1,2,2023-09-01
 Tajikistan,IR2,13,2023-09-01
@@ -144704,9 +144703,9 @@ Bolivia,FX,1,2023-10-01
 Bolivia,IR1,8,2023-10-01
 Bolivia,IR2,9,2023-10-01
 Bolivia,IR5,13,2023-10-01
-Bosnia-Herzegovina,CR1,3,2023-10-01
-Bosnia-Herzegovina,IR1,4,2023-10-01
-Bosnia-Herzegovina,IR5,2,2023-10-01
+Bosnia and Herzegovina,CR1,3,2023-10-01
+Bosnia and Herzegovina,IR1,4,2023-10-01
+Bosnia and Herzegovina,IR5,2,2023-10-01
 Botswana,DV,1,2023-10-01
 Botswana,IR2,4,2023-10-01
 Brazil,C5,2,2023-10-01
@@ -144810,26 +144809,26 @@ Chile,E2,3,2023-10-01
 Chile,IR1,5,2023-10-01
 Chile,IR2,1,2023-10-01
 Chile,IR5,8,2023-10-01
-China – mainland born,C5,3,2023-10-01
-China – mainland born,CR1,16,2023-10-01
-China – mainland born,CR2,2,2023-10-01
-China – mainland born,E1,24,2023-10-01
-China – mainland born,E2,15,2023-10-01
-China – mainland born,E3,93,2023-10-01
-China – mainland born,EW,8,2023-10-01
-China – mainland born,F1,5,2023-10-01
-China – mainland born,F2B,4,2023-10-01
-China – mainland born,F3,29,2023-10-01
-China – mainland born,F4,98,2023-10-01
-China – mainland born,FX,6,2023-10-01
-China – mainland born,I5,380,2023-10-01
-China – mainland born,IH3,1,2023-10-01
-China – mainland born,IR1,71,2023-10-01
-China – mainland born,IR2,25,2023-10-01
-China – mainland born,IR5,412,2023-10-01
-China – mainland born,R5,3,2023-10-01
-China – mainland born,SB1,12,2023-10-01
-China – mainland born,T5,11,2023-10-01
+China - mainland born,C5,3,2023-10-01
+China - mainland born,CR1,16,2023-10-01
+China - mainland born,CR2,2,2023-10-01
+China - mainland born,E1,24,2023-10-01
+China - mainland born,E2,15,2023-10-01
+China - mainland born,E3,93,2023-10-01
+China - mainland born,EW,8,2023-10-01
+China - mainland born,F1,5,2023-10-01
+China - mainland born,F2B,4,2023-10-01
+China - mainland born,F3,29,2023-10-01
+China - mainland born,F4,98,2023-10-01
+China - mainland born,FX,6,2023-10-01
+China - mainland born,I5,380,2023-10-01
+China - mainland born,IH3,1,2023-10-01
+China - mainland born,IR1,71,2023-10-01
+China - mainland born,IR2,25,2023-10-01
+China - mainland born,IR5,412,2023-10-01
+China - mainland born,R5,3,2023-10-01
+China - mainland born,SB1,12,2023-10-01
+China - mainland born,T5,11,2023-10-01
 Colombia,CR1,90,2023-10-01
 Colombia,CR2,27,2023-10-01
 Colombia,E1,37,2023-10-01
@@ -145671,8 +145670,8 @@ Saint Lucia,F2B,5,2023-10-01
 Saint Lucia,IR1,3,2023-10-01
 Saint Lucia,IR2,5,2023-10-01
 Saint Lucia,IR5,9,2023-10-01
-Saint Maarten,IR1,1,2023-10-01
-Saint Maarten,IR2,3,2023-10-01
+Sint Maarten,IR1,1,2023-10-01
+Sint Maarten,IR2,3,2023-10-01
 Saint Martin,F3,1,2023-10-01
 Saint Vincent and the Grenadines,IR1,2,2023-10-01
 Saint Vincent and the Grenadines,IR2,1,2023-10-01
@@ -145802,20 +145801,20 @@ Syria,FX,1,2023-10-01
 Syria,IR1,25,2023-10-01
 Syria,IR2,7,2023-10-01
 Syria,IR5,106,2023-10-01
-Taiwan,CR1,4,2023-10-01
-Taiwan,E1,6,2023-10-01
-Taiwan,E2,30,2023-10-01
-Taiwan,F1,1,2023-10-01
-Taiwan,F2B,1,2023-10-01
-Taiwan,F3,4,2023-10-01
-Taiwan,F4,23,2023-10-01
-Taiwan,I5,10,2023-10-01
-Taiwan,IR1,15,2023-10-01
-Taiwan,IR2,4,2023-10-01
-Taiwan,IR3,5,2023-10-01
-Taiwan,IR5,24,2023-10-01
-Taiwan,IW,1,2023-10-01
-Taiwan,SB1,3,2023-10-01
+China - Taiwan born,CR1,4,2023-10-01
+China - Taiwan born,E1,6,2023-10-01
+China - Taiwan born,E2,30,2023-10-01
+China - Taiwan born,F1,1,2023-10-01
+China - Taiwan born,F2B,1,2023-10-01
+China - Taiwan born,F3,4,2023-10-01
+China - Taiwan born,F4,23,2023-10-01
+China - Taiwan born,I5,10,2023-10-01
+China - Taiwan born,IR1,15,2023-10-01
+China - Taiwan born,IR2,4,2023-10-01
+China - Taiwan born,IR3,5,2023-10-01
+China - Taiwan born,IR5,24,2023-10-01
+China - Taiwan born,IW,1,2023-10-01
+China - Taiwan born,SB1,3,2023-10-01
 Tajikistan,CR1,1,2023-10-01
 Tajikistan,DV,85,2023-10-01
 Tajikistan,E1,1,2023-10-01
@@ -146140,12 +146139,12 @@ Bolivia,F4,4,2023-11-01
 Bolivia,IR1,5,2023-11-01
 Bolivia,IR2,11,2023-11-01
 Bolivia,IR5,15,2023-11-01
-Bosnia-Herzegovina,CR1,2,2023-11-01
-Bosnia-Herzegovina,F1,1,2023-11-01
-Bosnia-Herzegovina,IR1,8,2023-11-01
-Bosnia-Herzegovina,IR2,1,2023-11-01
-Bosnia-Herzegovina,IR5,4,2023-11-01
-Bosnia-Herzegovina,SB1,1,2023-11-01
+Bosnia and Herzegovina,CR1,2,2023-11-01
+Bosnia and Herzegovina,F1,1,2023-11-01
+Bosnia and Herzegovina,IR1,8,2023-11-01
+Bosnia and Herzegovina,IR2,1,2023-11-01
+Bosnia and Herzegovina,IR5,4,2023-11-01
+Bosnia and Herzegovina,SB1,1,2023-11-01
 Botswana,IR1,1,2023-11-01
 Botswana,IR2,1,2023-11-01
 Brazil,CR1,45,2023-11-01
@@ -147080,7 +147079,7 @@ Saint Lucia,DV,1,2023-11-01
 Saint Lucia,IR1,2,2023-11-01
 Saint Lucia,IR2,5,2023-11-01
 Saint Lucia,IR5,10,2023-11-01
-Saint Maarten,FX,1,2023-11-01
+Sint Maarten,FX,1,2023-11-01
 Saint Martin,IR2,1,2023-11-01
 Saint Vincent and the Grenadines,CR1,2,2023-11-01
 Saint Vincent and the Grenadines,E1,2,2023-11-01
@@ -147213,22 +147212,22 @@ Syria,I5,3,2023-11-01
 Syria,IR1,31,2023-11-01
 Syria,IR2,7,2023-11-01
 Syria,IR5,95,2023-11-01
-Taiwan,C5,1,2023-11-01
-Taiwan,CR1,14,2023-11-01
-Taiwan,DV,1,2023-11-01
-Taiwan,E1,6,2023-11-01
-Taiwan,E2,7,2023-11-01
-Taiwan,E3,9,2023-11-01
-Taiwan,EW,3,2023-11-01
-Taiwan,F1,2,2023-11-01
-Taiwan,F3,9,2023-11-01
-Taiwan,F4,16,2023-11-01
-Taiwan,I5,19,2023-11-01
-Taiwan,IR1,30,2023-11-01
-Taiwan,IR2,7,2023-11-01
-Taiwan,IR3,9,2023-11-01
-Taiwan,IR5,44,2023-11-01
-Taiwan,SB1,3,2023-11-01
+China - Taiwan born,C5,1,2023-11-01
+China - Taiwan born,CR1,14,2023-11-01
+China - Taiwan born,DV,1,2023-11-01
+China - Taiwan born,E1,6,2023-11-01
+China - Taiwan born,E2,7,2023-11-01
+China - Taiwan born,E3,9,2023-11-01
+China - Taiwan born,EW,3,2023-11-01
+China - Taiwan born,F1,2,2023-11-01
+China - Taiwan born,F3,9,2023-11-01
+China - Taiwan born,F4,16,2023-11-01
+China - Taiwan born,I5,19,2023-11-01
+China - Taiwan born,IR1,30,2023-11-01
+China - Taiwan born,IR2,7,2023-11-01
+China - Taiwan born,IR3,9,2023-11-01
+China - Taiwan born,IR5,44,2023-11-01
+China - Taiwan born,SB1,3,2023-11-01
 Tajikistan,CR1,1,2023-11-01
 Tajikistan,DV,142,2023-11-01
 Tajikistan,E1,9,2023-11-01
@@ -147571,10 +147570,10 @@ Bolivia,IR1,2,2023-12-01
 Bolivia,IR2,10,2023-12-01
 Bolivia,IR5,30,2023-12-01
 Bolivia,IW,1,2023-12-01
-Bosnia-Herzegovina,CR1,8,2023-12-01
-Bosnia-Herzegovina,E3,3,2023-12-01
-Bosnia-Herzegovina,IR1,5,2023-12-01
-Bosnia-Herzegovina,IR5,4,2023-12-01
+Bosnia and Herzegovina,CR1,8,2023-12-01
+Bosnia and Herzegovina,E3,3,2023-12-01
+Bosnia and Herzegovina,IR1,5,2023-12-01
+Bosnia and Herzegovina,IR5,4,2023-12-01
 Botswana,IR5,1,2023-12-01
 Brazil,CR1,36,2023-12-01
 Brazil,CR2,6,2023-12-01
@@ -147679,23 +147678,23 @@ Chile,IB2,1,2023-12-01
 Chile,IR1,9,2023-12-01
 Chile,IR2,4,2023-12-01
 Chile,IR5,12,2023-12-01
-China – mainland born,CR1,27,2023-12-01
-China – mainland born,CR2,1,2023-12-01
-China – mainland born,E1,39,2023-12-01
-China – mainland born,E2,9,2023-12-01
-China – mainland born,E3,17,2023-12-01
-China – mainland born,F1,14,2023-12-01
-China – mainland born,F2B,8,2023-12-01
-China – mainland born,F3,18,2023-12-01
-China – mainland born,F4,83,2023-12-01
-China – mainland born,FX,22,2023-12-01
-China – mainland born,I5,139,2023-12-01
-China – mainland born,IH3,2,2023-12-01
-China – mainland born,IR1,73,2023-12-01
-China – mainland born,IR2,23,2023-12-01
-China – mainland born,IR5,454,2023-12-01
-China – mainland born,SB1,14,2023-12-01
-China – mainland born,T5,4,2023-12-01
+China - mainland born,CR1,27,2023-12-01
+China - mainland born,CR2,1,2023-12-01
+China - mainland born,E1,39,2023-12-01
+China - mainland born,E2,9,2023-12-01
+China - mainland born,E3,17,2023-12-01
+China - mainland born,F1,14,2023-12-01
+China - mainland born,F2B,8,2023-12-01
+China - mainland born,F3,18,2023-12-01
+China - mainland born,F4,83,2023-12-01
+China - mainland born,FX,22,2023-12-01
+China - mainland born,I5,139,2023-12-01
+China - mainland born,IH3,2,2023-12-01
+China - mainland born,IR1,73,2023-12-01
+China - mainland born,IR2,23,2023-12-01
+China - mainland born,IR5,454,2023-12-01
+China - mainland born,SB1,14,2023-12-01
+China - mainland born,T5,4,2023-12-01
 Colombia,CR1,123,2023-12-01
 Colombia,CR2,34,2023-12-01
 Colombia,E1,30,2023-12-01
@@ -148499,9 +148498,9 @@ Saint Lucia,IB2,1,2023-12-01
 Saint Lucia,IR1,2,2023-12-01
 Saint Lucia,IR2,4,2023-12-01
 Saint Lucia,IR5,10,2023-12-01
-Saint Maarten,CR1,1,2023-12-01
-Saint Maarten,FX,1,2023-12-01
-Saint Maarten,IR2,3,2023-12-01
+Sint Maarten,CR1,1,2023-12-01
+Sint Maarten,FX,1,2023-12-01
+Sint Maarten,IR2,3,2023-12-01
 Saint Martin,F2B,2,2023-12-01
 Saint Martin,IR2,2,2023-12-01
 Saint Vincent and the Grenadines,CR1,1,2023-12-01
@@ -148631,19 +148630,19 @@ Syria,FX,1,2023-12-01
 Syria,IR1,18,2023-12-01
 Syria,IR2,4,2023-12-01
 Syria,IR5,89,2023-12-01
-Taiwan,CR1,12,2023-12-01
-Taiwan,E1,1,2023-12-01
-Taiwan,E2,15,2023-12-01
-Taiwan,E3,5,2023-12-01
-Taiwan,F1,3,2023-12-01
-Taiwan,F3,3,2023-12-01
-Taiwan,F4,9,2023-12-01
-Taiwan,I5,40,2023-12-01
-Taiwan,IR1,21,2023-12-01
-Taiwan,IR2,1,2023-12-01
-Taiwan,IR3,8,2023-12-01
-Taiwan,IR5,38,2023-12-01
-Taiwan,SB1,4,2023-12-01
+China - Taiwan born,CR1,12,2023-12-01
+China - Taiwan born,E1,1,2023-12-01
+China - Taiwan born,E2,15,2023-12-01
+China - Taiwan born,E3,5,2023-12-01
+China - Taiwan born,F1,3,2023-12-01
+China - Taiwan born,F3,3,2023-12-01
+China - Taiwan born,F4,9,2023-12-01
+China - Taiwan born,I5,40,2023-12-01
+China - Taiwan born,IR1,21,2023-12-01
+China - Taiwan born,IR2,1,2023-12-01
+China - Taiwan born,IR3,8,2023-12-01
+China - Taiwan born,IR5,38,2023-12-01
+China - Taiwan born,SB1,4,2023-12-01
 Tajikistan,CR1,2,2023-12-01
 Tajikistan,DV,58,2023-12-01
 Tajikistan,E2,6,2023-12-01
@@ -148973,14 +148972,14 @@ Bolivia,FX,1,2024-01-01
 Bolivia,IR1,4,2024-01-01
 Bolivia,IR2,9,2024-01-01
 Bolivia,IR5,15,2024-01-01
-Bosnia-Herzegovina,CR1,2,2024-01-01
-Bosnia-Herzegovina,DV,5,2024-01-01
-Bosnia-Herzegovina,E3,2,2024-01-01
-Bosnia-Herzegovina,EW,2,2024-01-01
-Bosnia-Herzegovina,F4,1,2024-01-01
-Bosnia-Herzegovina,IR1,8,2024-01-01
-Bosnia-Herzegovina,IR2,1,2024-01-01
-Bosnia-Herzegovina,IR5,6,2024-01-01
+Bosnia and Herzegovina,CR1,2,2024-01-01
+Bosnia and Herzegovina,DV,5,2024-01-01
+Bosnia and Herzegovina,E3,2,2024-01-01
+Bosnia and Herzegovina,EW,2,2024-01-01
+Bosnia and Herzegovina,F4,1,2024-01-01
+Bosnia and Herzegovina,IR1,8,2024-01-01
+Bosnia and Herzegovina,IR2,1,2024-01-01
+Bosnia and Herzegovina,IR5,6,2024-01-01
 Botswana,CR1,1,2024-01-01
 Brazil,CR1,54,2024-01-01
 Brazil,CR2,14,2024-01-01
@@ -149072,27 +149071,27 @@ Chile,IB2,1,2024-01-01
 Chile,IR1,5,2024-01-01
 Chile,IR2,3,2024-01-01
 Chile,IR5,7,2024-01-01
-China – mainland born,C5,1,2024-01-01
-China – mainland born,CR1,30,2024-01-01
-China – mainland born,CR2,3,2024-01-01
-China – mainland born,E1,47,2024-01-01
-China – mainland born,E2,14,2024-01-01
-China – mainland born,E3,7,2024-01-01
-China – mainland born,EW,9,2024-01-01
-China – mainland born,F1,20,2024-01-01
-China – mainland born,F2A,1,2024-01-01
-China – mainland born,F2B,33,2024-01-01
-China – mainland born,F3,23,2024-01-01
-China – mainland born,F4,178,2024-01-01
-China – mainland born,FX,52,2024-01-01
-China – mainland born,I5,502,2024-01-01
-China – mainland born,IH3,11,2024-01-01
-China – mainland born,IR1,122,2024-01-01
-China – mainland born,IR2,47,2024-01-01
-China – mainland born,IR5,809,2024-01-01
-China – mainland born,IW,2,2024-01-01
-China – mainland born,SB1,13,2024-01-01
-China – mainland born,T5,5,2024-01-01
+China - mainland born,C5,1,2024-01-01
+China - mainland born,CR1,30,2024-01-01
+China - mainland born,CR2,3,2024-01-01
+China - mainland born,E1,47,2024-01-01
+China - mainland born,E2,14,2024-01-01
+China - mainland born,E3,7,2024-01-01
+China - mainland born,EW,9,2024-01-01
+China - mainland born,F1,20,2024-01-01
+China - mainland born,F2A,1,2024-01-01
+China - mainland born,F2B,33,2024-01-01
+China - mainland born,F3,23,2024-01-01
+China - mainland born,F4,178,2024-01-01
+China - mainland born,FX,52,2024-01-01
+China - mainland born,I5,502,2024-01-01
+China - mainland born,IH3,11,2024-01-01
+China - mainland born,IR1,122,2024-01-01
+China - mainland born,IR2,47,2024-01-01
+China - mainland born,IR5,809,2024-01-01
+China - mainland born,IW,2,2024-01-01
+China - mainland born,SB1,13,2024-01-01
+China - mainland born,T5,5,2024-01-01
 Colombia,CR1,51,2024-01-01
 Colombia,CR2,8,2024-01-01
 Colombia,E1,10,2024-01-01
@@ -149933,7 +149932,7 @@ Saint Lucia,F3,4,2024-01-01
 Saint Lucia,IR1,2,2024-01-01
 Saint Lucia,IR2,2,2024-01-01
 Saint Lucia,IR5,4,2024-01-01
-Saint Maarten,F1,1,2024-01-01
+Sint Maarten,F1,1,2024-01-01
 Saint Vincent and the Grenadines,CR1,2,2024-01-01
 Saint Vincent and the Grenadines,F2B,1,2024-01-01
 Saint Vincent and the Grenadines,FX,1,2024-01-01
@@ -150060,22 +150059,22 @@ Syria,I5,1,2024-01-01
 Syria,IR1,25,2024-01-01
 Syria,IR2,1,2024-01-01
 Syria,IR5,117,2024-01-01
-Taiwan,C5,3,2024-01-01
-Taiwan,CR1,10,2024-01-01
-Taiwan,DV,4,2024-01-01
-Taiwan,E1,13,2024-01-01
-Taiwan,E2,15,2024-01-01
-Taiwan,E3,6,2024-01-01
-Taiwan,EW,4,2024-01-01
-Taiwan,F1,1,2024-01-01
-Taiwan,F4,9,2024-01-01
-Taiwan,FX,7,2024-01-01
-Taiwan,I5,16,2024-01-01
-Taiwan,IR1,12,2024-01-01
-Taiwan,IR2,4,2024-01-01
-Taiwan,IR3,3,2024-01-01
-Taiwan,IR5,47,2024-01-01
-Taiwan,SB1,2,2024-01-01
+China - Taiwan born,C5,3,2024-01-01
+China - Taiwan born,CR1,10,2024-01-01
+China - Taiwan born,DV,4,2024-01-01
+China - Taiwan born,E1,13,2024-01-01
+China - Taiwan born,E2,15,2024-01-01
+China - Taiwan born,E3,6,2024-01-01
+China - Taiwan born,EW,4,2024-01-01
+China - Taiwan born,F1,1,2024-01-01
+China - Taiwan born,F4,9,2024-01-01
+China - Taiwan born,FX,7,2024-01-01
+China - Taiwan born,I5,16,2024-01-01
+China - Taiwan born,IR1,12,2024-01-01
+China - Taiwan born,IR2,4,2024-01-01
+China - Taiwan born,IR3,3,2024-01-01
+China - Taiwan born,IR5,47,2024-01-01
+China - Taiwan born,SB1,2,2024-01-01
 Tajikistan,CR1,1,2024-01-01
 Tajikistan,DV,96,2024-01-01
 Tajikistan,E1,3,2024-01-01
@@ -150420,13 +150419,13 @@ Bolivia,GV3,1,2024-02-01
 Bolivia,IR1,4,2024-02-01
 Bolivia,IR2,7,2024-02-01
 Bolivia,IR5,10,2024-02-01
-Bosnia-Herzegovina,CR1,2,2024-02-01
-Bosnia-Herzegovina,DV,5,2024-02-01
-Bosnia-Herzegovina,E3,1,2024-02-01
-Bosnia-Herzegovina,F4,2,2024-02-01
-Bosnia-Herzegovina,IR1,3,2024-02-01
-Bosnia-Herzegovina,IR2,1,2024-02-01
-Bosnia-Herzegovina,IR5,5,2024-02-01
+Bosnia and Herzegovina,CR1,2,2024-02-01
+Bosnia and Herzegovina,DV,5,2024-02-01
+Bosnia and Herzegovina,E3,1,2024-02-01
+Bosnia and Herzegovina,F4,2,2024-02-01
+Bosnia and Herzegovina,IR1,3,2024-02-01
+Bosnia and Herzegovina,IR2,1,2024-02-01
+Bosnia and Herzegovina,IR5,5,2024-02-01
 Botswana,IR1,1,2024-02-01
 Brazil,CR1,32,2024-02-01
 Brazil,CR2,7,2024-02-01
@@ -151483,8 +151482,8 @@ Saint Lucia,F1,1,2024-02-01
 Saint Lucia,IR1,1,2024-02-01
 Saint Lucia,IR2,5,2024-02-01
 Saint Lucia,IR5,4,2024-02-01
-Saint Maarten,F1,1,2024-02-01
-Saint Maarten,FX,1,2024-02-01
+Sint Maarten,F1,1,2024-02-01
+Sint Maarten,FX,1,2024-02-01
 Saint Vincent and the Grenadines,CR1,1,2024-02-01
 Saint Vincent and the Grenadines,IR1,2,2024-02-01
 Saint Vincent and the Grenadines,IR5,1,2024-02-01
@@ -151625,21 +151624,21 @@ Syria,GV2,1,2024-02-01
 Syria,IR1,34,2024-02-01
 Syria,IR2,17,2024-02-01
 Syria,IR5,170,2024-02-01
-Taiwan,CR1,9,2024-02-01
-Taiwan,DV,1,2024-02-01
-Taiwan,E1,6,2024-02-01
-Taiwan,E2,4,2024-02-01
-Taiwan,E3,5,2024-02-01
-Taiwan,F2B,1,2024-02-01
-Taiwan,F3,3,2024-02-01
-Taiwan,F4,12,2024-02-01
-Taiwan,FX,5,2024-02-01
-Taiwan,GV1,1,2024-02-01
-Taiwan,I5,11,2024-02-01
-Taiwan,IR1,14,2024-02-01
-Taiwan,IR2,8,2024-02-01
-Taiwan,IR3,3,2024-02-01
-Taiwan,IR5,44,2024-02-01
+China - Taiwan born,CR1,9,2024-02-01
+China - Taiwan born,DV,1,2024-02-01
+China - Taiwan born,E1,6,2024-02-01
+China - Taiwan born,E2,4,2024-02-01
+China - Taiwan born,E3,5,2024-02-01
+China - Taiwan born,F2B,1,2024-02-01
+China - Taiwan born,F3,3,2024-02-01
+China - Taiwan born,F4,12,2024-02-01
+China - Taiwan born,FX,5,2024-02-01
+China - Taiwan born,GV1,1,2024-02-01
+China - Taiwan born,I5,11,2024-02-01
+China - Taiwan born,IR1,14,2024-02-01
+China - Taiwan born,IR2,8,2024-02-01
+China - Taiwan born,IR3,3,2024-02-01
+China - Taiwan born,IR5,44,2024-02-01
 Tajikistan,CR1,4,2024-02-01
 Tajikistan,CR2,3,2024-02-01
 Tajikistan,DV,202,2024-02-01
@@ -152017,12 +152016,12 @@ Bolivia,FX,5,2024-03-01
 Bolivia,IR1,1,2024-03-01
 Bolivia,IR2,8,2024-03-01
 Bolivia,IR5,23,2024-03-01
-Bosnia-Herzegovina,DV,1,2024-03-01
-Bosnia-Herzegovina,E3,1,2024-03-01
-Bosnia-Herzegovina,F4,2,2024-03-01
-Bosnia-Herzegovina,GV1,1,2024-03-01
-Bosnia-Herzegovina,IR1,2,2024-03-01
-Bosnia-Herzegovina,IR5,4,2024-03-01
+Bosnia and Herzegovina,DV,1,2024-03-01
+Bosnia and Herzegovina,E3,1,2024-03-01
+Bosnia and Herzegovina,F4,2,2024-03-01
+Bosnia and Herzegovina,GV1,1,2024-03-01
+Bosnia and Herzegovina,IR1,2,2024-03-01
+Bosnia and Herzegovina,IR5,4,2024-03-01
 Botswana,EW,3,2024-03-01
 Brazil,CR1,29,2024-03-01
 Brazil,CR2,8,2024-03-01
@@ -152129,23 +152128,23 @@ Chile,F2B,1,2024-03-01
 Chile,IR1,16,2024-03-01
 Chile,IR2,9,2024-03-01
 Chile,IR5,5,2024-03-01
-China – mainland born,CR1,42,2024-03-01
-China – mainland born,CR2,4,2024-03-01
-China – mainland born,E1,328,2024-03-01
-China – mainland born,E2,18,2024-03-01
-China – mainland born,E3,16,2024-03-01
-China – mainland born,EW,3,2024-03-01
-China – mainland born,F1,8,2024-03-01
-China – mainland born,F2B,11,2024-03-01
-China – mainland born,F3,94,2024-03-01
-China – mainland born,F4,279,2024-03-01
-China – mainland born,FX,38,2024-03-01
-China – mainland born,I5,742,2024-03-01
-China – mainland born,IR1,102,2024-03-01
-China – mainland born,IR2,60,2024-03-01
-China – mainland born,IR5,1020,2024-03-01
-China – mainland born,SB1,14,2024-03-01
-China – mainland born,T5,7,2024-03-01
+China - mainland born,CR1,42,2024-03-01
+China - mainland born,CR2,4,2024-03-01
+China - mainland born,E1,328,2024-03-01
+China - mainland born,E2,18,2024-03-01
+China - mainland born,E3,16,2024-03-01
+China - mainland born,EW,3,2024-03-01
+China - mainland born,F1,8,2024-03-01
+China - mainland born,F2B,11,2024-03-01
+China - mainland born,F3,94,2024-03-01
+China - mainland born,F4,279,2024-03-01
+China - mainland born,FX,38,2024-03-01
+China - mainland born,I5,742,2024-03-01
+China - mainland born,IR1,102,2024-03-01
+China - mainland born,IR2,60,2024-03-01
+China - mainland born,IR5,1020,2024-03-01
+China - mainland born,SB1,14,2024-03-01
+China - mainland born,T5,7,2024-03-01
 Cocos Islands,F4,1,2024-03-01
 Colombia,CR1,79,2024-03-01
 Colombia,CR2,30,2024-03-01
@@ -152502,7 +152501,7 @@ Hong Kong S.A.R.,IH4,1,2024-03-01
 Hong Kong S.A.R.,IR1,8,2024-03-01
 Hong Kong S.A.R.,IR2,4,2024-03-01
 Hong Kong S.A.R.,IR5,13,2024-03-01
-Hong Kong-BNO,IR5,1,2024-03-01
+Hong Kong S.A.R.,IR5,1,2024-03-01
 Hungary,CR2,1,2024-03-01
 Hungary,DV,2,2024-03-01
 Hungary,E1,8,2024-03-01
@@ -153079,9 +153078,9 @@ Saint Lucia,F3,4,2024-03-01
 Saint Lucia,IR1,3,2024-03-01
 Saint Lucia,IR2,3,2024-03-01
 Saint Lucia,IR5,7,2024-03-01
-Saint Maarten,F1,1,2024-03-01
-Saint Maarten,F3,1,2024-03-01
-Saint Maarten,IR2,1,2024-03-01
+Sint Maarten,F1,1,2024-03-01
+Sint Maarten,F3,1,2024-03-01
+Sint Maarten,IR2,1,2024-03-01
 Saint Vincent and the Grenadines,CR1,2,2024-03-01
 Saint Vincent and the Grenadines,F1,1,2024-03-01
 Saint Vincent and the Grenadines,F3,2,2024-03-01
@@ -153227,22 +153226,22 @@ Syria,GV3,3,2024-03-01
 Syria,IR1,38,2024-03-01
 Syria,IR2,13,2024-03-01
 Syria,IR5,138,2024-03-01
-Taiwan,CR1,7,2024-03-01
-Taiwan,DV,8,2024-03-01
-Taiwan,E2,29,2024-03-01
-Taiwan,E3,9,2024-03-01
-Taiwan,F1,1,2024-03-01
-Taiwan,F2B,1,2024-03-01
-Taiwan,F3,6,2024-03-01
-Taiwan,F4,20,2024-03-01
-Taiwan,FX,5,2024-03-01
-Taiwan,GV1,2,2024-03-01
-Taiwan,I5,13,2024-03-01
-Taiwan,IR1,30,2024-03-01
-Taiwan,IR2,3,2024-03-01
-Taiwan,IR3,8,2024-03-01
-Taiwan,IR5,60,2024-03-01
-Taiwan,SB1,1,2024-03-01
+China - Taiwan born,CR1,7,2024-03-01
+China - Taiwan born,DV,8,2024-03-01
+China - Taiwan born,E2,29,2024-03-01
+China - Taiwan born,E3,9,2024-03-01
+China - Taiwan born,F1,1,2024-03-01
+China - Taiwan born,F2B,1,2024-03-01
+China - Taiwan born,F3,6,2024-03-01
+China - Taiwan born,F4,20,2024-03-01
+China - Taiwan born,FX,5,2024-03-01
+China - Taiwan born,GV1,2,2024-03-01
+China - Taiwan born,I5,13,2024-03-01
+China - Taiwan born,IR1,30,2024-03-01
+China - Taiwan born,IR2,3,2024-03-01
+China - Taiwan born,IR3,8,2024-03-01
+China - Taiwan born,IR5,60,2024-03-01
+China - Taiwan born,SB1,1,2024-03-01
 Tajikistan,CR1,2,2024-03-01
 Tajikistan,DV,181,2024-03-01
 Tajikistan,IR1,4,2024-03-01
