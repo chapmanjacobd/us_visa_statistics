@@ -62,11 +62,11 @@ D$visa_type <- factor(D$visa_type, levels = type_factors)
 
 </details>
 
-### Visa Type over Time, showing deprecation of certain visa types(?)
+### Visa Type over Time
 
 ![Tile chart: Visa Type over Time, showing deprecation of certain visa types](./images/visa_type_tile.avif)
 
-Maybe COVID gave the government the opportunity to consolidate some offerings. I'm not sure.
+I think most of these abrupt start and stops are actually due to differences in reporting after 2020. For example: DV1,DV2,DV3 become DV in later PDFs
 
 ```R
 ggplot(D) +
