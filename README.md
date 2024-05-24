@@ -1,6 +1,6 @@
 # us_visa_statistics
 
-Monthly Immigrant and Nonimmigrant Visa Issuances Data
+Monthly Immigrant and Nonimmigrant Visa Issuances Data extracted from multi-page PDF tables
 
 ## Graphs
 
@@ -53,7 +53,7 @@ create_divergent_palette <- function(factor_levels, pal="Zissou 1", repeat_n=8) 
 
 type_counts <- aggregate(count ~ visa_type, data = D, FUN = sum)
 type_factors = type_counts$visa_type[order(type_counts$count, decreasing = TRUE)]
-color_palette = color_palette = create_divergent_palette(type_factors)
+color_palette = create_divergent_palette(type_factors)
 D$visa_type <- factor(D$visa_type, levels = type_factors)
 
 # require('scales')
@@ -91,7 +91,9 @@ ggplot(D) +
 
 ```R
 p = ggplot(D[count > 1]) +
-  aes(x = date, weight = count) + geom_bar(fill = "#000") + theme_minimal() + theme(strip.text.x = element_text(size = 5), axis.text.y = element_text(size = 5), axis.text.x = element_blank()) + facet_wrap(vars(visa_type), scales = "free_y")
+  aes(x = date, weight = count) + geom_bar(fill = "#000") +
+  theme_minimal() + theme(strip.text.x = element_text(size = 5), axis.text.y = element_text(size = 5), axis.text.x = element_blank()) +
+  facet_wrap(vars(visa_type), scales = "free_y")
 
 ggsave(plot=p, filename = "images/visa_types.png", width = 4000, height = 2500, units='px')
 ```
@@ -104,7 +106,9 @@ I'm just guessing with that acronym--can't find it documented anywhere but Forei
 
 ```R
 p = ggplot(D[count > 1]) +
-  aes(x = date, weight = count) + geom_bar(fill = "#000") + theme_minimal() + theme(strip.text.x = element_text(size = 5), axis.text.y = element_text(size = 5), axis.text.x = element_blank()) + facet_wrap(vars(country), scales = "free_y")
+  aes(x = date, weight = count) + geom_bar(fill = "#000") +
+  theme_minimal() + theme(strip.text.x = element_text(size = 5), axis.text.y = element_text(size = 5), axis.text.x = element_blank()) +
+  facet_wrap(vars(country), scales = "free_y")
 
 ggsave(plot=p, filename = "images/countries.png", width = 4000, height = 2500, units='px')
 ```
