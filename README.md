@@ -1,9 +1,119 @@
 # us_visa_statistics
+
 Monthly Immigrant and Nonimmigrant Visa Issuances Data
 
-[Visa Symbol key](https://travel.state.gov/content/dam/visas/Statistics/Immigrant-Statistics/MonthlyIVIssuances/Immigrant%20Visa%20Symbols.pdf)
+## Graphs
 
-Note:
+<details><summary>Code setup</summary>
+
+```R
+require(data.table)
+require(ggplot2)
+
+D = data.table::fread('immigrant_data.csv')
+D = D[country!='Other']
+D[country == 'Bahamas', country := 'Bahamas, The']
+D[country == 'Bosnia-Herzegovina', country := 'Bosnia and Herzegovina']
+D[country == 'Burkina-Faso', country := 'Burkina Faso']
+D[country == 'China - Mainland born', country := 'China - mainland born']
+D[country == 'China – mainland born', country := 'China - mainland born']
+D[country == 'China-Mainland born', country := 'China - mainland born']
+D[country == 'China', country := 'China - mainland born']
+D[country == 'China-Taiwan born', country := 'China - Taiwan born']
+D[country == 'Taiwan', country := 'China - Taiwan born']
+D[country == 'Hong Kong S.A.R', country := 'Hong Kong S.A.R.']
+D[country == 'Hong Kong-BNO', country := 'Hong Kong S.A.R.']
+D[country == 'Cocos (Keeling) Islands', country := 'Cocos Islands']
+D[country == 'Czec Republic', country := 'Czech Republic']
+D[country == 'eSwatini', country := 'Eswatini']
+D[country == 'eSwatini', country := 'Swaziland']
+D[country == 'eSwatini', country := 'Eswatini*']
+D[country == 'Kyrgystan', country := 'Kyrgyzstan']
+D[country == 'North Korea', country := 'Korea, North']
+D[country == 'South Korea', country := 'Korea, South']
+D[country == 'Northern Ireland (DV only)', country := 'Great Britain and Northern Ireland']
+D[country == 'Saint Maarten', country := 'Sint Maarten']
+
+library(grDevices)
+
+extract_nth_wraparound <- function(x, n) {
+  index <- (seq_along(x) - 1) %% n + 1
+  ordered_indices <- order(index)
+  return(x[ordered_indices])
+}
+
+create_divergent_palette <- function(factor_levels, pal="Zissou 1", repeat_n=8) {
+  num_levels <- length(factor_levels)
+  palette <- hcl.colors(num_levels, pal)
+  palette <- extract_nth_wraparound(palette, num_levels / repeat_n)
+  color_mapping <- setNames(palette, factor_levels)
+
+  return(color_mapping)
+}
+
+type_counts <- aggregate(count ~ visa_type, data = D, FUN = sum)
+type_factors = type_counts$visa_type[order(type_counts$count, decreasing = TRUE)]
+color_palette = color_palette = create_divergent_palette(type_factors)
+D$visa_type <- factor(D$visa_type, levels = type_factors)
+
+# require('scales')
+# show_col(create_divergent_palette(type_factors, pal="Zissou 1", repeat_n=10))
+```
+
+</details>
+
+![Tile chart: Visa Type over Time, showing deprecation of certain visa types](./images/visa_type_tile.avif)
+
+Visa Type over Time, showing deprecation of certain visa types(?). Maybe COVID gave the government the opportunity to consolidate some offerings. I'm not sure.
+
+```R
+ggplot(D) +
+  aes(x = date, y = visa_type) + geom_tile()
+```
+
+![Bar chart: Visa Type over Time, showing COVID-19 Pandemic visa issuance impact](./images/visa_type_bar.avif)
+
+Quantity of visas issued by visa type over time, showing COVID-19 Pandemic visa issuance impact
+
+```R
+ggplot(D) +
+  aes(x = date, fill = visa_type, weight = count) + geom_bar() +
+  scale_fill_manual(values = create_divergent_palette(type_factors, pal="Zissou 1", repeat_n=7))
+```
+
+![Bar chart for each visa type](./images/visa_types.avif)
+
+Facets showing visas issued over time by type
+
+```R
+p = ggplot(D[count > 1]) +
+  aes(x = date, weight = count) + geom_bar(fill = "#000") + theme_minimal() + theme(strip.text.x = element_text(size = 5), axis.text.y = element_text(size = 5), axis.text.x = element_blank()) + facet_wrap(vars(visa_type), scales = "free_y")
+
+ggsave(plot=p, filename = "images/visa_types.png", width = 4000, height = 2500, units='px')
+```
+
+![Bar chart for each country](./images/countries.avif)
+
+Facets showing visas issued over time by Foreign Service Center (FSC)
+
+```R
+p = ggplot(D[count > 1]) +
+  aes(x = date, weight = count) + geom_bar(fill = "#000") + theme_minimal() + theme(strip.text.x = element_text(size = 5), axis.text.y = element_text(size = 5), axis.text.x = element_blank()) + facet_wrap(vars(country), scales = "free_y")
+
+ggsave(plot=p, filename = "images/countries.png", width = 4000, height = 2500, units='px')
+```
+
+<!--
+```R
+ggplot(D[(country == "Hong Kong S.A.R." & visa_type == 'CR1')]) +
+  aes(x = date, fill = visa_type, weight = count) + geom_bar()
+``` -->
+
+## Notes
+
+If you are using this data you should be aware that there are some data quality issues. Some of those issues have been identified by others [here](https://github.com/TashiNyangmi/Visa/blob/main/data_cleaning/monthly_update.py).
+
+[Visa Symbol key](https://travel.state.gov/content/dam/visas/Statistics/Immigrant-Statistics/MonthlyIVIssuances/Immigrant%20Visa%20Symbols.pdf)
 
 > The Visa Office has changed its methodology for calculating visa data beginning with the Fiscal Year (FY) 2019 annual Report of the Visa Office and continuing with FY 2020 data, to reflect the greater access to application-level data attained during FY 2019. Our previous methodology was based on a count of workload actions, which were not linked by application. The new methodology more accurately reflects final outcomes from the visa application process during a specified reporting period.  The new methodology follows visa applications, including updates to their status (i.e., issued or refused), which could change as the fiscal year progresses, or result in slight changes in data for earlier years.  Therefore, beginning with FY 2020, individual monthly issuance reports should not be aggregated, as this will not provide an accurate issuance total for the fiscal year to date.  Instead, refer to our annual Report of the Visa Office for final full Fiscal Year statistics.
 > While the new methodology is more accurate, it does not mean that our prior methodology was flawed.  The two are simply not comparable.  However, based on our analysis, the discrepancies between the methodologies are minor.  For example, the difference between reported issuances of NIVs and IVs in FY 2018 (legacy methodology) and those in FY 2019 (new methodology) is less than one percent worldwide.
