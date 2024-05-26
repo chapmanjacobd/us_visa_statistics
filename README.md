@@ -51,11 +51,6 @@ create_divergent_palette <- function(factor_levels, pal="Zissou 1", repeat_n=8) 
   return(color_mapping)
 }
 
-type_counts <- aggregate(count ~ visa_type, data = D, FUN = sum)
-type_factors = type_counts$visa_type[order(type_counts$count, decreasing = TRUE)]
-color_palette = create_divergent_palette(type_factors)
-D$visa_type <- factor(D$visa_type, levels = type_factors)
-
 # require('scales')
 # show_col(create_divergent_palette(type_factors, pal="Zissou 1", repeat_n=10))
 ```
@@ -69,6 +64,11 @@ D$visa_type <- factor(D$visa_type, levels = type_factors)
 I think this shows COVID-19 Pandemic impact on visa issuance pretty well
 
 ```R
+type_counts <- aggregate(count ~ visa_type, data = D, FUN = sum)
+type_factors = type_counts$visa_type[order(type_counts$count, decreasing = TRUE)]
+color_palette = create_divergent_palette(type_factors)
+D$visa_type <- factor(D$visa_type, levels = type_factors)
+
 ggplot(D) +
   aes(x = date, fill = visa_type, weight = count) + geom_bar() +
   scale_fill_manual(values = create_divergent_palette(type_factors, pal="Zissou 1", repeat_n=7))
