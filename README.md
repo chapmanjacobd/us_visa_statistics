@@ -2,7 +2,7 @@
 
 Monthly Immigrant and Nonimmigrant Visa Issuances Data extracted from multi-page PDF tables
 
-Depending on what you are looking for, [the Office of Immigration Statistics](https://www.dhs.gov/ohss/topics/immigration/yearbook) data might be more useful. However, this is still a good example of how to [parse PDF table data in an automated way](https://github.com/chapmanjacobd/us_visa_statistics/blob/main/.github/workflows/immigrant.yaml).
+Depending on what you are looking for the [Office of Immigration Statistics](https://www.dhs.gov/ohss/topics/immigration/yearbook) data might be more useful. However, this is still a good example of how to [parse PDF table data in an automated way](https://github.com/chapmanjacobd/us_visa_statistics/blob/main/.github/workflows/immigrant.yaml).
 
 ## Graphs
 
